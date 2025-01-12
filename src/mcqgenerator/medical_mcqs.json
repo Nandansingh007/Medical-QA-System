@@ -1,0 +1,1224 @@
+[
+    {
+        "question": "A 67-year-old male with a history of hypertension and diabetes presents to the emergency department with sudden onset of severe chest pain, radiating to his left arm, started 2 hours ago. His vitals are: BP 145/90 mm Hg, HR 110 bpm, RR 20 breaths per minute, Temp 37.0\u00b0C. EKG shows ST-elevation in leads II, III, aVF. Lab findings reveal elevated troponin levels. What is the most appropriate next step in management?",
+        "options": [
+            "A) Administer nitroglycerin and wait for pain to subside",
+            "B) Initiate reperfusion therapy with primary percutaneous coronary intervention (PCI)",
+            "C) Administer aspirin and arrange for a stress test",
+            "D) Start the patient on beta-blockers and schedule for coronary angiography within a week"
+        ],
+        "correct_answer": "B) Initiate reperfusion therapy with primary percutaneous coronary intervention (PCI)",
+        "reasoning": "1. This patient's presentation of severe chest pain, radiating to the left arm, along with EKG findings of ST-elevation in leads II, III, aVF, and elevated troponin levels are indicative of ST-elevation myocardial infarction (STEMI), a time-sensitive, life-threatening condition. 2. The goal in STEMI management is to restore blood flow to the affected part of the heart muscle as soon as possible to limit the extent of myocardial damage. This can be achieved by immediate reperfusion therapy. Primary PCI is preferred if it can be performed within 90-120 minutes of STEMI diagnosis. 3. Options A, C, and D are suboptimal and could lead to further myocardial damage due to delay in definitive treatment. 4. This decision is supported by American College of Cardiology/American Heart Association (ACC/AHA) guidelines for the management of patients with STEMI.",
+        "context_id": 0,
+        "relevance_score": 0.6793755544612418
+    },
+    {
+        "question": "A 55-year-old postmenopausal woman presents with a 6-month history of increasing urinary frequency, urgency, and nocturia. She also has episodes of stress urinary incontinence. She has a BMI of 32 and history of type 2 diabetes. She denies any hematuria. Urine culture is negative and blood glucose levels are well controlled. Ultrasound shows no evidence of bladder outlet obstruction. Which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Perform urodynamic testing",
+            "B) Start oral estrogen therapy",
+            "C) Start a trial of a beta-3 adrenoceptor agonist",
+            "D) Refer for pelvic floor muscle training"
+        ],
+        "correct_answer": "D) Refer for pelvic floor muscle training",
+        "reasoning": "This patient has symptoms of mixed urinary incontinence (MUI), which includes both urgency (overactive bladder) and stress urinary incontinence. First-line management of MUI includes lifestyle modifications (eg, weight loss, fluid management) and pelvic floor muscle training (PFMT). PFMT (eg, Kegel exercises) can improve both types of incontinence by strengthening the muscles of the pelvic floor. Option A is not the first line management. Option B, estrogen therapy, can improve urinary symptoms in postmenopausal women but is less effective than PFMT. Option C, beta-3 adrenoceptor agonists, are second-line pharmacologic agents used when lifestyle modifications and PFMT are insufficient or not preferred by the patient.",
+        "context_id": 1,
+        "relevance_score": 0.6646467465653649
+    },
+    {
+        "question": "A 45-year-old female with a history of type 2 diabetes presents with a one-week history of increasing shortness of breath and fatigue. She reports orthopnea and nocturnal dyspnea. Her blood pressure is 140/90 mmHg, heart rate is 110 bpm, and respiratory rate is 22 breaths per minute. An echocardiogram shows left ventricular ejection fraction (LVEF) of 35%. Her serum creatinine is 1.2 mg/dL and HbA1c is 8.0%. What is the most appropriate management?",
+        "options": [
+            "A) Initiate Metformin therapy",
+            "B) Start her on Angiotensin converting enzyme (ACE) inhibitors and Beta-blockers",
+            "C) Start her on loop diuretics and immediate insulin therapy",
+            "D) Immediate referral for cardiac transplantation"
+        ],
+        "correct_answer": "B",
+        "reasoning": "This patient has symptoms and signs of heart failure with reduced ejection fraction (HFrEF). The mainstay of treatment for HFrEF are ACE inhibitors and beta-blockers, both of which have been shown to reduce mortality. Metformin (option A) is a good choice for managing diabetes, but it does not address the patient's more immediate concern of heart failure. Loop diuretics (option C) can be used to manage volume overload symptoms in heart failure, but they have not been shown to reduce mortality. Immediate insulin therapy is not indicated given her HbA1c level. Cardiac transplantation (option D) is a last resort treatment reserved for patients who have refractory symptoms despite maximal medical therapy.",
+        "context_id": 2,
+        "relevance_score": 0.6782509217565038
+    },
+    {
+        "question": "A 50-year-old female patient with a history of hypertension presents with sudden severe headache, nausea, and photophobia for the past two hours. She describes the headache as the worst she's ever had. Her blood pressure is 170/100 mmHg. A CT scan shows a subarachnoid hemorrhage. Given the patient's presentation, what is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical intervention",
+            "B) Administration of antihypertensive medication and close monitoring",
+            "C) Initiation of conservative management with analgesics and bed rest",
+            "D) Administration of thrombolytic therapy"
+        ],
+        "correct_answer": "B) Administration of antihypertensive medication and close monitoring",
+        "reasoning": "This patient's sudden severe headache, also known as a 'thunderclap headache', along with her nausea and photophobia, are classic symptoms of a subarachnoid hemorrhage, which is confirmed by the CT scan. In this case, the immediate goal of treatment is to prevent rebleeding, which is most likely in the first 24 hours and is associated with high mortality. Rebleeding risk is increased by hypertension, so blood pressure control is crucial. Thus, option B is the most appropriate next step. Option A is incorrect, as surgical intervention is not typically the immediate first step in management. Option C is insufficient for this serious condition. Option D is incorrect as thrombolytic therapy is contraindicated in hemorrhagic stroke.",
+        "context_id": 3,
+        "relevance_score": 0.6696944465227924
+    },
+    {
+        "question": "A 68-year-old woman with a history of chronic obstructive pulmonary disease (COPD) and type 2 diabetes presents to the emergency department with a 2-day history of increasing shortness of breath and productive cough with green sputum. On examination, her blood pressure is 115/70 mmHg, heart rate 110 bpm, respiratory rate 24 breaths per minute, and oxygen saturation 89% on room air. Chest X-Ray reveals right lower lobe consolidation. Laboratory findings include a white blood cell count of 15,000 /\u03bcL, blood glucose 250 mg/dL, and arterial blood gases showing pH 7.31, PaCO2 58 mmHg, PaO2 70 mmHg, HCO3 28 mEq/L. Based on this information, what is the most appropriate next step in management?",
+        "options": [
+            "A) Start the patient on oral antibiotics and discharge home",
+            "B) Admit the patient to the general ward and start on intravenous antibiotics",
+            "C) Admit the patient to the intensive care unit and start on intravenous antibiotics",
+            "D) Initiate non-invasive positive pressure ventilation (NIPPV) and intravenous antibiotics and admit to the respiratory high dependency unit"
+        ],
+        "correct_answer": "D",
+        "reasoning": "This patient has a COPD exacerbation with signs of impending respiratory failure (increased respiratory rate, hypoxemia, hypercapnia, and acute respiratory acidosis). The presence of consolidation on chest X-ray suggests pneumonia as the likely trigger. Therefore, she needs to be admitted and started on intravenous antibiotics. Given her hypercapnia and acidemia, she is also a candidate for non-invasive positive pressure ventilation (NIPPV). NIPPV improves gas exchange and reduces the work of breathing and the need for intubation in COPD patients with acute hypercapnic respiratory failure. Option A is incorrect as the patient's symptoms are severe and she requires hospitalization. B and C are also incorrect because they don't address the need for NIPPV in this patient's management.",
+        "context_id": 4,
+        "relevance_score": 0.6799044998787696
+    },
+    {
+        "question": "A 56-year-old male with a history of hypertension and recent flu-like symptoms presents with sudden, severe chest pain radiating to the back. An ECG shows no abnormalities, but a CT scan reveals a dissection in the descending aorta. The patient's BP is 180/110 mm Hg. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical repair of the aortic dissection",
+            "B) Intravenous beta-blockers to lower blood pressure",
+            "C) Administration of thrombolytic therapy",
+            "D) Outpatient follow-up with cardiology"
+        ],
+        "correct_answer": "B) Intravenous beta-blockers to lower blood pressure",
+        "reasoning": "1. In a patient with a dissection in the descending aorta, immediate surgical repair (Option A) is not the first-line treatment. Medical management to lower blood pressure and decrease shear stress on the aorta is the first step. \n2. Thrombolytic therapy (Option C) is contraindicated in aortic dissection as it can increase the risk of rupture. \n3. Outpatient follow-up (Option D) is inappropriate for this acute, life-threatening condition. \n4. The goal in management of aortic dissection is to reduce shear stress by controlling blood pressure and heart rate. Beta-blockers (Option B) are usually the first-line treatment, especially in hypertensive patients. They reduce the force of left ventricular ejection (dP/dt), which in turn reduces the propagation of the dissection. This scenario follows the current guidelines of the American Heart Association for the management of aortic dissection.",
+        "context_id": 5,
+        "relevance_score": 0.6807257921733607
+    },
+    {
+        "question": "A 75-year-old woman with a history of type 2 diabetes and hypertension presents to the emergency department with sudden onset of severe headache and vomiting that began 2 hours ago. Her blood pressure is 210/120 mmHg, heart rate is 88 beats per minute, and neurological examination reveals left-sided weakness. A non-contrast CT scan shows an intracranial hemorrhage. Which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate administration of intravenous alteplase",
+            "B) Immediate blood pressure reduction to a target of 140/90 mmHg",
+            "C) Immediate surgical evacuation of the hematoma",
+            "D) Immediate administration of intravenous mannitol"
+        ],
+        "correct_answer": "B",
+        "reasoning": "In patients with intracranial hemorrhage, rapid lowering of blood pressure to a target of 140/90 mmHg is recommended to prevent hematoma expansion. This can be accomplished with antihypertensive medications such as labetalol or nicardipine. Option A is incorrect because intravenous alteplase, a thrombolytic agent, is contraindicated in patients with hemorrhagic stroke. Option C is incorrect as surgical evacuation is typically reserved for patients with cerebellar hemorrhage or those with significant mass effect and impending herniation; it is not the first-line treatment. Option D is incorrect as mannitol is used to treat cerebral edema, not intracranial hemorrhage.",
+        "context_id": 6,
+        "relevance_score": 0.6728407895922571
+    },
+    {
+        "question": "A 65-year-old female with a history of hypertension and type 2 diabetes presents with severe, sudden-onset headache and neck pain that started an hour ago. She has never experienced a headache of this magnitude before. On examination, she is alert and oriented, but appears uncomfortable. Her blood pressure is 180/95 mmHg, heart rate is 90 bpm, and she has no focal neurological deficits. A CT scan shows no evidence of intracranial hemorrhage or mass effect. Which of the following is the most appropriate next step in the management of this patient?",
+        "options": [
+            "A) Start antihypertensive therapy immediately",
+            "B) Administer analgesics and discharge",
+            "C) Perform a lumbar puncture",
+            "D) Repeat the CT scan after 24 hours"
+        ],
+        "correct_answer": "C) Perform a lumbar puncture",
+        "reasoning": "The patient's symptoms are characteristic of a subarachnoid hemorrhage (SAH), which presents with a 'thunderclap' headache and neck pain. Although SAH is a type of stroke, it often does not cause focal neurological deficits. A CT scan can be negative in up to 10% of cases, particularly if performed early. Therefore, if the clinical suspicion for SAH is high, a lumbar puncture should be performed next to look for xanthochromia or elevated red blood cells in the cerebrospinal fluid. Option A is incorrect because while the patient's blood pressure is elevated, the immediate concern is to rule out SAH. Option B is inappropriate as it does not address the potential emergency. Option D is incorrect because waiting could have detrimental consequences if the patient indeed has a SAH.",
+        "context_id": 7,
+        "relevance_score": 0.6738289713252933
+    },
+    {
+        "question": "A 62-year-old female with a history of type 2 diabetes presents with increasingly severe right upper quadrant pain over the past three days. The pain is constant and worsening, especially after eating. She has experienced nausea and vomiting, and her skin and eyes have turned yellow. Labs reveal elevated bilirubin, alkaline phosphatase, ALT, and AST. An ultrasound shows gallstones and a dilated common bile duct. What is the most appropriate next step?",
+        "options": [
+            "A) Immediate laparoscopic cholecystectomy",
+            "B) Endoscopic retrograde cholangio-pancreatography (ERCP) immediately",
+            "C) Administer intravenous antibiotics and observe",
+            "D) Schedule an outpatient MRI"
+        ],
+        "correct_answer": "B",
+        "reasoning": "The patient's presenting symptoms and lab findings are suggestive of choledocholithiasis with cholangitis, a serious condition that can lead to sepsis if not treated promptly. The most appropriate next step in management is urgent endoscopic retrograde cholangio-pancreatography (ERCP) to remove the obstructing stone and decompress the biliary system. Immediate surgical intervention (option A) is not the first-line treatment for this condition and poses higher risk. Administration of intravenous antibiotics alone (option C) may temporarily improve symptoms but does not remove the underlying cause. An outpatient MRI (option D) is inappropriate as the patient's condition is critical and requires immediate intervention.",
+        "context_id": 8,
+        "relevance_score": 0.6742762157919673
+    },
+    {
+        "question": "A 74-year-old woman with a history of hypertension and mild cognitive impairment comes to the hospital with her family. They report that over the past two days, she has been progressively confused, lethargic and experiencing difficulty in speech. Her vitals are stable, but neurological examination reveals a right-sided facial droop and weakness in the right upper and lower extremities. A non-contrast CT of the head shows a hyperdense middle cerebral artery sign. Based on the above information, what would be the appropriate next step in her management?",
+        "options": [
+            "A) Immediate administration of IV alteplase",
+            "B) Carotid endarterectomy",
+            "C) Administration of aspirin and atorvastatin",
+            "D) Conservative management with close monitoring"
+        ],
+        "correct_answer": "A) Immediate administration of IV alteplase",
+        "reasoning": "This patient's acute onset of right-sided weakness, facial droop, and speech difficulty is suggestive of an acute ischemic stroke, likely due to embolic occlusion of the middle cerebral artery. IV alteplase administration is the treatment of choice for acute ischemic stroke if there are no contraindications and if it can be administered within 4.5 hours of symptom onset. Although the exact timing of symptom onset is unclear, the 'last known well' time frame, in this case, is within 2 days and so IV alteplase is still indicated. Carotid endarterectomy (Option B) is a treatment for carotid artery stenosis, not acute ischemic stroke. Aspirin and atorvastatin (Option C) are secondary prevention strategies after the acute management of ischemic stroke. Conservative management (Option D) is not an appropriate choice in this scenario where definitive treatment can prevent further neurological damage.",
+        "context_id": 9,
+        "relevance_score": 0.6797589459683778
+    },
+    {
+        "question": "A 65-year-old male patient with a history of type II diabetes and hypertension presents with a two-day history of right-sided abdominal pain, fever, and vomiting. His blood pressure is 120/80 mm Hg, heart rate is 90 beats per minute, respiratory rate is 18 breaths per minute, and temperature is 38.5\u00b0C. Laboratory findings include leukocytosis, elevated liver enzymes, and hyperbilirubinemia. An abdominal ultrasound reveals gallbladder wall thickening, pericholecystic fluid, and a positive sonographic Murphy's sign. What is the most appropriate next step in management?",
+        "options": [
+            "A) Start a broad-spectrum antibiotic and schedule a cholecystectomy in 6 weeks",
+            "B) Administer intravenous fluids and analgesics and schedule a cholecystectomy within 72 hours",
+            "C) Start a broad-spectrum antibiotic and perform an endoscopic retrograde cholangiopancreatography (ERCP)",
+            "D) Immediate laparoscopic cholecystectomy without antibiotic therapy"
+        ],
+        "correct_answer": "B) Administer intravenous fluids and analgesics and schedule a cholecystectomy within 72 hours",
+        "reasoning": "The patient's presentation is consistent with acute cholecystitis. The optimal management for a stable patient with acute cholecystitis is intravenous hydration, analgesia, and early cholecystectomy (within 72 hours of symptom onset). Option A is incorrect because delaying surgery for 6 weeks increases the risk of complications such as gallbladder perforation or gangrene. Option C is incorrect because ERCP is indicated for choledocholithiasis or cholangitis, but there's no evidence of these conditions in this case. Option D is incorrect because antibiotics are necessary to control infection before surgery.",
+        "context_id": 10,
+        "relevance_score": 0.6874239144948063
+    },
+    {
+        "question": "A 67-year-old male with a history of COPD presents to the ER with sudden onset of severe chest pain, shortness of breath, and lightheadedness. The pain started about 3 hours ago and is described as tearing and radiating to the back. His blood pressure is 200/120 mmHg, pulse 110 beats/min, and respiratory rate 24 breaths/min. The EKG shows no signs of ST-elevation or T-wave inversion. Laboratory results are significant for elevated D-dimer levels. What is the next best step in management?",
+        "options": [
+            "A) Immediate administration of nitroglycerin and beta-blockers",
+            "B) Immediate administration of thrombolytic therapy",
+            "C) Immediate CT angiography of the chest",
+            "D) Immediate administration of aspirin and heparin"
+        ],
+        "correct_answer": "C",
+        "reasoning": "The patient's presentation is suggestive of an aortic dissection, a life-threatening condition that is often characterized by severe, tearing chest pain radiating to the back, and is frequently associated with hypertension. Given the high suspicion, the next best step in management is immediate imaging to confirm the diagnosis, most commonly via CT angiography. Option A) is incorrect as the use of nitroglycerin and beta-blockers can lower blood pressure too quickly, potentially causing shock. Option B) is incorrect as thrombolytic therapy is indicated for pulmonary embolism or acute ischemic stroke, not aortic dissection. Option D) is incorrect as aspirin and heparin are indicated for acute coronary syndrome, not aortic dissection.",
+        "context_id": 11,
+        "relevance_score": 0.6744820035756084
+    },
+    {
+        "question": "A 67-year-old male comes to the emergency department with severe, tearing chest pain that started suddenly an hour ago. He describes the pain as radiating to his back. His blood pressure is 150/90 mmHg in the right arm and 130/80 mmHg in the left arm. His EKG shows no abnormalities. His past medical history includes hypertension and smoking. Considering the patient's symptoms, demographic, medical history, and time-sensitive nature of his condition, what is the most appropriate next step in management?",
+        "options": [
+            "A) Start intravenous nitroglycerin and obtain a coronary angiography",
+            "B) Administer aspirin and obtain a cardiac enzyme panel",
+            "C) Immediate CT scan of the chest with contrast",
+            "D) Start intravenous heparin and schedule for stress echocardiography"
+        ],
+        "correct_answer": "C",
+        "reasoning": "The patient's symptoms are characteristic of acute aortic dissection, a life-threatening condition that requires immediate imaging. The best choice for initial imaging is CT scan of the chest with contrast, as it is widely available and provides rapid, highly accurate results. Option A is incorrect because nitroglycerin and coronary angiography are more appropriate for myocardial infarction with persistent angina, not for aortic dissection. Option B is incorrect because aspirin and cardiac enzymes are used to diagnose and manage myocardial infarction, not aortic dissection. Option D is incorrect because heparin and stress echocardiography are more appropriate for suspected acute coronary syndrome, not aortic dissection.",
+        "context_id": 12,
+        "relevance_score": 0.6849255964451295
+    },
+    {
+        "question": "A 70-year-old man with a history of hypertension and type 2 diabetes presents to the emergency department with sudden onset of severe chest pain that started 45 minutes ago. His blood pressure is 150/90 mmHg, heart rate is 90 bpm, respiratory rate is 20 breaths per minute, and oxygen saturation is 96% on room air. An ECG shows ST-segment elevation in leads II, III, and aVF. Laboratory results show a troponin level of 0.04 ng/mL (normal <0.04 ng/mL). Which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate percutaneous coronary intervention (PCI)",
+            "B) Intravenous nitroglycerin",
+            "C) Intravenous heparin and oral aspirin",
+            "D) Oral beta-blocker"
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient's presentation of subacute chest pain with ST-segment elevation on ECG is consistent with ST-segment elevation myocardial infarction (STEMI). Immediate reperfusion therapy (ie, within 90 minutes of first medical contact for PCI-capable hospitals or within 30 minutes for fibrinolytic therapy at non\u2013PCI-capable hospitals) is critical to salvage myocardium and reduce mortality. Therefore, this patient should undergo immediate PCI. Nitroglycerin (option B) can alleviate symptoms of angina but does not affect the progression of STEMI. Heparin and aspirin (option C) are part of the standard treatment for STEMI, but do not replace the need for immediate reperfusion. Beta-blockers (option D) reduce myocardial oxygen consumption and can limit infarct size, but they are not recommended for immediate control of ongoing chest pain.",
+        "context_id": 13,
+        "relevance_score": 0.6818861548401068
+    },
+    {
+        "question": "A 72-year-old male patient with a history of chronic obstructive pulmonary disease (COPD) and ischemic heart disease presents to the emergency department with a 2-day history of worsening shortness of breath and productive cough. His vitals show a heart rate of 110 bpm, respiratory rate of 30 breaths/min, blood pressure of 130/80 mmHg, and oxygen saturation of 88% on room air. His chest X-Ray reveals hyperinflated lungs and a flattened diaphragm. His arterial blood gas (ABG) analysis shows pH 7.33, pCO2 60 mmHg, pO2 55 mmHg, and HCO3 31 mEq/L. What is the most appropriate next step in management?",
+        "options": [
+            "A) Initiate non-invasive ventilation",
+            "B) Administer high-flow oxygen therapy",
+            "C) Prescribe oral corticosteroids and antibiotics",
+            "D) Proceed with endotracheal intubation"
+        ],
+        "correct_answer": "A) Initiate non-invasive ventilation",
+        "reasoning": "The patient's history, symptoms, chest X-Ray, and ABG results are suggestive of acute exacerbation of COPD with respiratory acidosis. Non-invasive ventilation (NIV) is the treatment of choice in this scenario because it improves gas exchange and reduces work of breathing. Option B is incorrect because high-flow oxygen therapy can lead to hypercapnic respiratory failure in COPD patients. Option C is reasonable but is not the immediate priority in managing acute respiratory acidosis. Oral corticosteroids and antibiotics are used to treat the underlying cause of exacerbation. Option D is incorrect as endotracheal intubation is reserved for patients who fail initial NIV or have contraindications to NIV.",
+        "context_id": 14,
+        "relevance_score": 0.6841918757504898
+    },
+    {
+        "question": "A 55-year-old man with a history of hypertension and type 2 Diabetes Mellitus presents with bilateral lower limb weakness and numbness for the past week. An MRI of the spine shows a T2 hyperintense lesion in the posterior column of the thoracic spinal cord. Lab values are as follows: Vitamin B12 - 156 pg/mL (normal 200-900), Methymalonic acid - 0.85 umol/L (normal 0.1-0.4), Hemoglobin - 10.2 g/dL (normal 13-18), MCV - 115 fL (normal 80-100). What is the most appropriate next step in management?",
+        "options": [
+            "A) Intramuscular injection of Vitamin B12",
+            "B) Prescribe oral Vitamin B12 supplements",
+            "C) Start on Folic acid supplements",
+            "D) Refer for surgical decompression of the spine"
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient's presentation of bilateral lower limb weakness and numbness, MRI findings of a T2 hyperintense lesion in the posterior columns of the spinal cord, and lab findings of macrocytic anemia, low Vitamin B12 levels, and elevated methylmalonic acid levels are indicative of subacute combined degeneration of the spinal cord due to Vitamin B12 deficiency. Given the severity of the neurologic symptoms and the myelopathic findings on MRI, the appropriate treatment is immediate replenishment of stores with intramuscular vitamin B12 (Choice A). Oral supplementation (Choice B) is less preferred in this case due to the severity of symptoms. Folic acid (Choice C) can correct the anemia but not the neurologic symptoms in Vitamin B12 deficiency. Surgical decompression (Choice D) is not indicated as the spinal cord changes are due to vitamin deficiency, not mechanical compression.",
+        "context_id": 15,
+        "relevance_score": 0.6682584412238388
+    },
+    {
+        "question": "A 62-year-old male with a history of type 2 diabetes and hypertension presents with a two-week history of progressively worsening shortness of breath and a productive cough with yellowish sputum. His blood glucose level is 210 mg/dL, and chest X-ray shows consolidation in the right lower lobe. His oxygen saturation is 92% on room air. His blood pressure is 150/90 mmHg. What is the most appropriate next step in management?",
+        "options": [
+            "A) Start him on broad-spectrum antibiotics and admit for hospitalization",
+            "B) Provide supplemental oxygen and start antihypertensive medication",
+            "C) Prescribe oral antibiotics for outpatient treatment",
+            "D) Start him on insulin therapy immediately"
+        ],
+        "correct_answer": "C) Prescribe oral antibiotics for outpatient treatment",
+        "reasoning": "This patient\u2019s symptoms, along with the chest X-ray findings, are indicative of community-acquired pneumonia (CAP). Although the patient has comorbidities (diabetes and hypertension), his oxygen saturation is above 90%, indicating that he is not hypoxic. According to the CURB-65 pneumonia severity score (Confusion, Urea >7 mmol/L, Respiratory rate \u226530/min, low Blood pressure, and age \u226565 years), he has a score of 1 (for age >65 years), which suggests a low risk of mortality and supports outpatient treatment with oral antibiotics. Option A is incorrect as hospitalization is not necessary given the patient's stable condition. Option B is incorrect as there is no immediate necessity for supplemental oxygen or antihypertensive medication based on vital signs. Antihypertensive medication adjustments, if needed, can be done on outpatient basis. Option D is incorrect because, although his blood glucose is elevated, it is not dangerously high that warrants immediate insulin therapy. His diabetes management can be optimized during outpatient follow-up.",
+        "context_id": 16,
+        "relevance_score": 0.6840140386690448
+    },
+    {
+        "question": "A 56-year-old male with a history of type 2 diabetes and hypertension presents with sudden onset of severe chest pain, difficulty breathing, and diaphoresis. The pain started 2 hours ago and is radiating to his left arm. His ECG shows ST-segment elevations in leads II, III, and aVF. Troponin levels are elevated. Assuming the patient is not allergic to any medications and there are no contraindications, what would be the best immediate next step in management?",
+        "options": [
+            "A) Administration of a beta-blocker such as metoprolol",
+            "B) Urgent coronary angiography and percutaneous coronary intervention (PCI)",
+            "C) Start the patient on high-dose statin therapy",
+            "D) Immediate coronary artery bypass graft surgery (CABG)"
+        ],
+        "correct_answer": "B",
+        "reasoning": "This patient's presentation is consistent with an acute ST-segment elevation myocardial infarction (STEMI), which is a medical emergency. The most appropriate immediate next step in management for a patient presenting with an acute STEMI, assuming they present within 12 hours of symptom onset and there are no contraindications, is urgent coronary angiography and percutaneous coronary intervention (PCI). This is supported by the American Heart Association and American College of Cardiology guidelines. Option A, while beta-blockers are used in STEMI, they are not the immediate step. Option C, high-dose statin therapy, is part of the longer-term management of coronary artery disease, not the acute setting. Option D, CABG is typically reserved for patients with left main disease, three-vessel disease, or failed PCI.",
+        "context_id": 17,
+        "relevance_score": 0.6765572365796692
+    },
+    {
+        "question": "A 55-year-old female with a history of type 2 diabetes mellitus and hypertension presents to the emergency department with acute onset of right-sided chest pain and shortness of breath for 2 hours. She describes the pain as sharp and stabbing, exacerbated by deep breathing. On examination, her blood pressure is 160/90 mmHg, heart rate 105 bpm, respiratory rate 25/min, and oxygen saturation 92% on room air. Her ECG shows sinus tachycardia but no ST-T changes. Her D-dimer is elevated. What is the most appropriate next step in management?",
+        "options": [
+            "A) Start her on anticoagulation therapy immediately",
+            "B) Perform a CT angiography of the chest",
+            "C) Begin treatment for acute coronary syndrome",
+            "D) Administer nitroglycerin and morphine"
+        ],
+        "correct_answer": "B) Perform a CT angiography of the chest",
+        "reasoning": "This patient's presentation is suggestive of a pulmonary embolism (PE). The presence of risk factors (such as hypertension, diabetes mellitus), acute onset of pleuritic chest pain, shortness of breath, tachycardia, and hypoxia along with elevated D-dimer indicate a high pre-test probability for PE. Although anticoagulation (option A) is the treatment for PE, it should only be initiated after the diagnosis is confirmed due to the risk of bleeding. Acute coronary syndrome (option C) is less likely given the absence of ECG changes and the nature of the pain. Nitroglycerin and morphine (option D) are used for management of acute coronary syndrome, not PE. Therefore, the most appropriate next step is to confirm the diagnosis by performing a CT angiography of the chest (option B).",
+        "context_id": 18,
+        "relevance_score": 0.6761640819435341
+    },
+    {
+        "question": "A 75-year-old male with a history of chronic kidney disease and hypertension presents with a sudden onset of severe chest pain that radiates to the back. He describes the pain as tearing. His blood pressure is 175/110 mmHg and heart rate is 110 bpm. His lab results show a serum creatinine level of 2.8 mg/dL, and a CT scan reveals an aortic dissection. Which of the following is the most appropriate initial management?",
+        "options": [
+            "A) Immediate surgical intervention",
+            "B) Administration of an ACE inhibitor",
+            "C) Administration of a nitroglycerin",
+            "D) Administration of a beta-blocker and sodium nitroprusside if necessary"
+        ],
+        "correct_answer": "D) Administration of a beta-blocker and sodium nitroprusside if necessary",
+        "reasoning": "Aortic dissection is a medical emergency that is typically characterized by severe, sudden-onset chest pain that is often described as tearing. The management of aortic dissection involves blood pressure control to decrease the sheer forces on the aortic wall. This is achieved by heart rate control with a beta-blocker (option D). If blood pressure remains elevated after beta-blocker administration, vasodilators such as sodium nitroprusside can be added. This approach is most appropriate given this patient's clinical presentation and the need for immediate blood pressure control. Immediate surgical intervention (option A) may be necessary in some cases, but it is not the first line of management. ACE inhibitors (option B) and nitroglycerin (option C) are not the preferred medications for initial management of aortic dissection due to their potential to cause reflex tachycardia, which can further increase sheer stress on the aortic wall.",
+        "context_id": 19,
+        "relevance_score": 0.6734611160773641
+    },
+    {
+        "question": "A 56-year-old man with a 10 year history of hypertension and type 2 diabetes presents to the clinic with a 3-day history of progressive shortness of breath and generalized fatigue. He has had no fever, chest pain or cough. His blood pressure is 145/90 mmHg, heart rate is 112 beats/min, respiratory rate is 22 breaths/min and oxygen saturation is 96% on room air. Lab results show a sodium level of 140 mEq/L, potassium of 5.2 mEq/L and creatinine of 1.9 mg/dL (baseline: 1.3 mg/dL). An EKG shows a regular tachycardia with no ST changes or Q waves. The patient has no known allergies. What is the most likely next step in management?",
+        "options": [
+            "A) Start the patient on a beta-blocker for hypertension and tachycardia",
+            "B) Administer intravenous diuretics and admit the patient for further management",
+            "C) Start the patient on an ACE inhibitor for hypertension",
+            "D) Administer aspirin and nitroglycerin and admit the patient for further management"
+        ],
+        "correct_answer": "B) Administer intravenous diuretics and admit the patient for further management",
+        "reasoning": "The patient's history of hypertension and diabetes, along with recent onset of fatigue, shortness of breath, tachycardia, hypertension and an increase in baseline creatinine suggest a potential onset of congestive heart failure (CHF). This is a critical condition that requires immediate management with intravenous diuretics to decrease fluid overload and improve symptoms. Option A is incorrect because beta-blockers, while useful in managing hypertension and tachycardia, can potentially worsen acute CHF by reducing cardiac output. Option C is incorrect because ACE inhibitors, although beneficial in managing hypertension and in the long-term management of CHF, are not the treatment of choice in acute decompensated heart failure. Initiation of an ACE inhibitor during an episode of acute decompensated heart failure might worsen renal function. Option D is incorrect because the patient's presentation is not consistent with acute coronary syndrome; he does not have chest pain or EKG changes suggestive of ischemia.",
+        "context_id": 21,
+        "relevance_score": 0.6825601043417745
+    },
+    {
+        "question": "A 68-year-old man with a history of hypertension, heart failure, and atrial fibrillation comes to the emergency department with a 2-day history of increasing shortness of breath and lower leg swelling. He reports a weight gain of 4 kilograms over the past week. His blood pressure is 165/85 mm Hg, pulse is irregular at 102/min, and oxygen saturation is 92% on room air. His lungs have crackles in the lower two-thirds bilaterally. Laboratory findings show a B-type natriuretic peptide level of 1300 pg/mL (Normal: <100 pg/mL) and serum creatinine of 2.0 mg/dL (Normal: 0.7-1.2 mg/dL). His echocardiogram shows an ejection fraction of 40%. What is the most appropriate next step in his management?",
+        "options": [
+            "A) Start him on low-dose oral furosemide",
+            "B) Administer intravenous furosemide",
+            "C) Perform a coronary angiography",
+            "D) Immediate cardioversion"
+        ],
+        "correct_answer": "B) Administer intravenous furosemide",
+        "reasoning": "This patient presents with acute decompensated heart failure as evidenced by new-onset dyspnea, weight gain, lower extremity edema, and pulmonary crackles. His abnormal B-type natriuretic peptide and serum creatinine levels further support this diagnosis. The mainstay of therapy in these patients is diuresis, most frequently achieved with loop diuretics like furosemide. Intravenous administration (Choice B) is preferred over oral administration (Choice A) in the acute setting due to its faster onset and more predictable absorption, especially given that this patient has evidence of renal insufficiency. Coronary angiography (Choice C) may be indicated if the patient has angina or signs of acute coronary syndrome, which are not present in this scenario. Immediate cardioversion (Choice D) is not appropriate as his atrial fibrillation is not new onset and he is not hemodynamically unstable.",
+        "context_id": 22,
+        "relevance_score": 0.67672207003473
+    },
+    {
+        "question": "A 68-year-old male with a history of chronic obstructive pulmonary disease (COPD) and recent flu-like symptoms presents with severe shortness of breath, fever (38.5\u00b0C), and productive cough. His blood gases show: PaO2 55 mmHg, PaCO2 52 mmHg, HCO3 28 mEq/L, and pH 7.32. His chest X-ray shows infiltrates in the right lower lobe. Which of the following is the best next step in management?",
+        "options": [
+            "A) Initiate home oxygen therapy and give him a prescription for antibiotics to be filled at his convenience",
+            "B) Admit to hospital, start empiric antibiotics, arrange for non-invasive ventilation",
+            "C) Attempt to normalize his blood gases with BiPAP in the emergency department, then discharge home with antibiotics",
+            "D) Initiate palliative care measures"
+        ],
+        "correct_answer": "B",
+        "reasoning": "This patient's symptoms, chest X-ray findings, and increased PaCO2 (indicative of respiratory acidosis) are suggestive of an acute COPD exacerbation with likely pneumonia as the precipitant. Given the severity of his symptoms and abnormal blood gases, hospital admission is required. Empiric antibiotics are indicated for COPD exacerbations triggered by suspected bacterial infections. Non-invasive ventilation, such as BiPAP, is indicated for patients with a COPD exacerbation who have persistent hypoxemia or hypercapnia despite optimal medical management, as it has been shown to decrease the need for intubation, hospital length of stay, and mortality. Option A is inappropriate as this patient's condition is severe and requires immediate hospital attention. Option C is suboptimal because, despite provision of acute care, it overlooks the need for ongoing hospital monitoring given the severity of his presentation. Option D is incorrect as, although the patient has a severe exacerbation, the initiation of palliative care measures would be premature in this context.",
+        "context_id": 23,
+        "relevance_score": 0.6736725072523798
+    },
+    {
+        "question": "A 72 year old man with a history of hypertension and diabetes presents to the emergency room with severe chest pain that started 2 hours ago. His ECG shows ST segment elevations in leads II, III, and aVF, consistent with an inferior wall myocardial infarction. His troponin levels are elevated at 3.2 ng/mL. His blood glucose is 190 mg/dL. His blood pressure is 90/60 mmHg, pulse is 110 bpm, and respiratory rate is 22 breaths per minute. What would be the most appropriate next step in managing this patient?",
+        "options": [
+            "A) Administer a beta-blocker to control the heart rate",
+            "B) Begin aggressive fluid resuscitation to raise the blood pressure",
+            "C) Immediate percutaneous coronary intervention (PCI)",
+            "D) Start insulin drip to control the blood sugar"
+        ],
+        "correct_answer": "C",
+        "reasoning": "This patient is presenting with an acute ST-elevation myocardial infarction (STEMI), which is a medical emergency. The most effective treatment for STEMI is rapid reperfusion, preferably by primary percutaneous coronary intervention (PCI) if it can be performed within 90-120 minutes of diagnosis. Option A is incorrect because beta-blockers are contraindicated in acute inferior wall MI as they can cause further decrease in blood pressure. Option B is incorrect because while hypotension can occur in inferior MI due to right ventricular involvement, aggressive fluid resuscitation is not indicated unless there are signs of shock. Option D is incorrect because while tight glucose control is important in diabetic patients, it is not the immediate priority in the setting of a STEMI.",
+        "context_id": 24,
+        "relevance_score": 0.6801548826317098
+    },
+    {
+        "question": "A 60-year-old male with a history of hypertension, diabetes, and COPD presents to your clinic with progressive dyspnea over the past 6 months. He reports a 20-pound weight loss and occasional nocturnal sweats. His vitals show: BP 130/80 mmHg, HR 90 bpm, RR 22/min, Temp 99\u00b0F, and O2 Sat 89% on room air. Chest x-ray reveals a right upper lobe mass. CT scan of the chest confirms the presence of a 3 cm mass in the right upper lobe with mediastinal lymphadenopathy. What would be the most appropriate next step in management?",
+        "options": [
+            "A) Start chemotherapy",
+            "B) Initiate targeted therapy based on suspected genetic mutation",
+            "C) Perform a bronchoscopy for tissue biopsy",
+            "D) Start the patient on supplemental oxygen and bronchodilators"
+        ],
+        "correct_answer": "C) Perform a bronchoscopy for tissue biopsy",
+        "reasoning": "This patient's clinical presentation and imaging findings are highly suspicious for lung cancer. However, before starting any form of treatment, a definitive diagnosis must be established, usually via tissue biopsy. Bronchoscopy is often the method of choice for obtaining tissue samples from lung masses and mediastinal lymph nodes. Answer A) is incorrect because chemotherapy should not be initiated without a confirmed diagnosis. Answer B) is incorrect because targeted therapy is only applicable in patients who have certain genetic mutations, which can only be determined after a biopsy. Answer D) is incorrect because while it may temporarily relieve the patient's symptoms, it does not address the underlying issue.",
+        "context_id": 25,
+        "relevance_score": 0.6848211028371726
+    },
+    {
+        "question": "A 65-year-old female with a history of type 2 diabetes and hypertension presents with a week-long history of progressive shortness of breath, fatigue, and lower extremity edema. Her vitals are stable but her physical exam is significant for jugular venous distension and bilateral pitting edema. Laboratory findings revealed elevated NT-proBNP and a chest x-ray showed cardiomegaly and pulmonary edema. Her EKG showed left ventricular hypertrophy, and an echocardiogram revealed reduced ejection fraction of 30% with left ventricular dilation. Which of the following is the most appropriate management plan?",
+        "options": [
+            "A) Immediate hospitalization and intravenous diuretics",
+            "B) Outpatient management with oral diuretics",
+            "C) Urgent coronary angiography",
+            "D) Implantation of automatic implantable cardioverter defibrillator (AICD)"
+        ],
+        "correct_answer": "A",
+        "reasoning": "The patient presents with signs and symptoms of heart failure with reduced ejection fraction (HFrEF) which is likely secondary to her longstanding hypertension and diabetes. This is an acute exacerbation which is potentially life-threatening and requires immediate hospitalization and intravenous diuretics (Option A). Outpatient management with oral diuretics (Option B) is appropriate for stable heart failure patients, but not for those with acute exacerbations. Urgent coronary angiography (Option C) is not indicated unless there is suspicion for acute coronary syndrome, which is not suggested in this case. Implantation of an AICD (Option D) is indicated for primary prevention in patients with HFrEF and an EF of <=35% after at least 3 months of guideline-directed medical therapy and who are NYHA functional class II-III, which is not the current scenario.",
+        "context_id": 26,
+        "relevance_score": 0.6771307256978367
+    },
+    {
+        "question": "A 67-year-old male with a history of hypertension and COPD presents with acute onset chest pain radiating to the left arm, diaphoresis, and dyspnea. The pain started while he was watching television and has persisted for 40 minutes. His EKG shows ST segment elevation in leads II, III, and aVF. His troponin levels are elevated at 0.6 ng/ml. Given the patient's condition and timing, what is the best next step in management?",
+        "options": [
+            "A) Administer sublingual nitroglycerin and start him on a statin",
+            "B) Immediate percutaneous coronary intervention (PCI)",
+            "C) Start him on beta-blockers and ACE inhibitors",
+            "D) Arrange for a coronary artery bypass graft (CABG) surgery"
+        ],
+        "correct_answer": "B",
+        "reasoning": "Given the patient's presentation with acute chest pain, ST segment elevation on EKG, and elevated troponin levels, he is most likely experiencing an ST-elevation myocardial infarction (STEMI). The most appropriate management for STEMI when it can be performed in a timely manner (within 90 minutes of diagnosis) is immediate percutaneous coronary intervention (PCI). A) While nitroglycerin can be used for symptom relief and statins are part of long-term management, they are not the most immediate concern in the setting of a STEMI. C) Beta-blockers and ACE inhibitors are important for long-term management and secondary prevention of MI, but do not address the acute issue. D) CABG is typically reserved for patients with disease in the left main coronary artery, three-vessel disease, or two-vessel disease with significant proximal left anterior descending coronary artery stenosis, particularly if other comorbidities exist.",
+        "context_id": 27,
+        "relevance_score": 0.6756500982600226
+    },
+    {
+        "question": "A 68-year-old male with a history of hypertension and type 2 diabetes presents with severe abdominal pain that began suddenly 8 hours ago. He also reports nausea and vomiting. On physical examination, his blood pressure is 110/70 mm Hg, heart rate is 100 beats per minute, and temperature is 37.8\u00b0C. His abdomen is distended, and there is generalized tenderness with guarding. Laboratory values show a white blood cell count of 15,000/mm3, serum amylase of 1500 U/L, and serum lipase of 2500 U/L. An abdominal CT scan reveals an inflamed pancreas with peripancreatic fluid collection. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical intervention",
+            "B) IV fluids, pain control, and nothing per mouth (NPO)",
+            "C) Oral antibiotics and outpatient follow-up",
+            "D) Endoscopic retrograde cholangiopancreatography (ERCP)"
+        ],
+        "correct_answer": "B) IV fluids, pain control, and nothing per mouth (NPO)",
+        "reasoning": "The patient's sudden onset of severe abdominal pain, nausea, vomiting, and the elevated amylase and lipase levels suggest acute pancreatitis, likely due to gallstones given his risk factors (age, male, hypertension, and diabetes). The most appropriate initial management includes aggressive hydration with IV fluids, pain control, and NPO to rest the pancreas. Option A is incorrect as surgery is typically reserved for complications of pancreatitis such as necrosis, abscess, or pseudocyst. Option C is incorrect as oral antibiotics are not indicated in the initial management of acute pancreatitis. Option D is incorrect because ERCP is reserved for cases where there is concurrent cholangitis or biliary obstruction, which is not indicated by the clinical scenario.",
+        "context_id": 28,
+        "relevance_score": 0.6857755415189226
+    },
+    {
+        "question": "A 72-year-old male with a history of hypertension, diabetes, and chronic kidney disease presents to the ER with a 2-day history of severe lower abdominal pain and vomiting. He reports no change in bowel habits, but he hasn't passed urine since yesterday. His blood pressure is 160/90 mm Hg, HR is 110 bpm, and temperature is 38.3\u00b0C. Lab results indicate a WBC count of 16,000/\u00b5L, creatinine is 3.2 mg/dL (baseline is 1.5 mg/dL) and a CT scan reveals an infrarenal abdominal aortic aneurysm (AAA) with signs of rupture. Which is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical repair",
+            "B) Initiate aggressive IV fluid resuscitation and transfer to ICU",
+            "C) Administer broad-spectrum antibiotics and observe",
+            "D) Perform percutaneous angiography"
+        ],
+        "correct_answer": "A) Immediate surgical repair",
+        "reasoning": "The patient presents with symptoms of a ruptured abdominal aortic aneurysm (AAA), which is a surgical emergency. Immediate surgical repair is indicated to prevent further bleeding and hemodynamic collapse. Option B) is incorrect as IV fluid resuscitation alone without addressing the source of bleeding can lead to dilutional coagulopathy and worsening renal function due to uncontrolled hemorrhage. Option C) is inappropriate as there is no evidence of infection and antibiotics will not address the source of bleeding. Option D) is not ideal as it may delay definitive surgical management and worsen the patient's hemodynamic status.",
+        "context_id": 29,
+        "relevance_score": 0.684892480278788
+    },
+    {
+        "question": "A 62-year-old male patient with a history of hypertension and type 2 diabetes presents to the emergency department with severe, tearing chest pain radiating to the back. The pain started suddenly an hour ago. His blood pressure is 200/110 mmHg and pulse is 110 bpm. CT angiogram shows an intimal flap in the descending thoracic aorta. Which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical repair",
+            "B) Administration of intravenous nitroglycerin",
+            "C) Administration of intravenous beta-blocker followed by nitroprusside",
+            "D) Oral aspirin and clopidogrel"
+        ],
+        "correct_answer": "C",
+        "reasoning": "The patient's presentation is consistent with acute aortic dissection, which is a life-threatening condition. Initial management should aim at reducing shear forces on the aortic wall by lowering the blood pressure and heart rate. Intravenous beta-blockers (e.g., labetalol, esmolol) are the first-line therapy as they decrease the rate of aortic dilation and the risk of rupture by reducing both blood pressure and dP/dt (rate of pressure change in the aorta during systole). After a target heart rate is achieved, blood pressure can be further lowered using vasodilators such as nitroprusside. Immediate surgical repair (option A) is the treatment of choice for type A (ascending) aortic dissections, but this patient has a type B (descending) dissection. Nitroglycerin (option B) is not an ideal first-line agent due to its potential  to cause reflex tachycardia, which increases shear stress. Aspirin and clopidogrel (option D) are used in the management of acute coronary syndrome, not aortic dissection.",
+        "context_id": 30,
+        "relevance_score": 0.67745136399342
+    },
+    {
+        "question": "A 68-year-old male patient with a history of hypertension and type 2 diabetes mellitus reports feeling fatigued and experiencing shortness of breath for the past 3 weeks. His blood pressure is 160/90 mm Hg and his heart rate is 90 bpm. His lab results show elevated levels of serum creatinine (2.0 mg/dL) and blood urea nitrogen (BUN) (30 mg/dL), and a decreased glomerular filtration rate (GFR) (40 mL/min/1.73 m2). The patient's symptoms are most likely due to which of the following conditions?",
+        "options": [
+            "A) Acute kidney injury",
+            "B) Chronic kidney disease",
+            "C) Diabetic ketoacidosis",
+            "D) Hypertensive emergency"
+        ],
+        "correct_answer": "B) Chronic kidney disease",
+        "reasoning": "The patient's symptoms, combined with his elevated creatinine and BUN levels and decreased GFR, suggest chronic kidney disease. This is supported by the fact that the patient has a history of hypertension and diabetes, two common risk factors for chronic kidney disease. Option A (acute kidney injury) could also cause these lab findings, but it would likely present with a more rapid onset of symptoms. Option C (diabetic ketoacidosis) is unlikely given that the patient does not present with symptoms such as abdominal pain, nausea, vomiting, or fruity-scented breath. Option D (hypertensive emergency) is also unlikely given that the patient does not present with severe symptoms such as chest pain, severe headache, or neurologic symptoms.",
+        "context_id": 31,
+        "relevance_score": 0.672870802205924
+    },
+    {
+        "question": "A 45-year-old male presents with severe, cramping abdominal pain that began suddenly three hours ago. He is diaphoretic and appears acutely ill. His medical history includes hypertension and type 2 diabetes. On examination, his abdomen is distended and tympanic with absent bowel sounds. Abdominal X-ray shows a dilated sigmoid colon with 'coffee bean' appearance. His laboratory tests reveal a leukocytosis of 15,000/uL and a lactate level of 4 mmol/L. Given the clinical scenario, what is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical consultation for sigmoidectomy",
+            "B) Intravenous fluid resuscitation and broad-spectrum antibiotics",
+            "C) Administration of oral contrast followed by computed tomography (CT) scan",
+            "D) Administration of a trial of neostigmine"
+        ],
+        "correct_answer": "B) Intravenous fluid resuscitation and broad-spectrum antibiotics",
+        "reasoning": "This patient's presentation is suggestive of sigmoid volvulus, which is a cause of large bowel obstruction where the sigmoid colon twists around its mesentery. The 'coffee bean' sign on imaging is a classic finding. Although definitive treatment is typically endoscopic detorsion, this patient's acute deterioration, leukocytosis, and elevated lactate level suggest bowel ischemia and the possibility of perforation, making it unsafe to pursue endoscopy. Initial management should instead focus on stabilization with intravenous fluids and broad-spectrum antibiotics to cover gram-negative rods and anaerobes commonly found in the gut flora. Surgical consultation should also be obtained urgently, but stabilization takes priority. Administration of oral contrast could worsen the patient's condition by increasing intraluminal pressure, and neostigmine, a parasympathomimetic agent used in acute colonic pseudo-obstruction (Ogilvie syndrome), is contraindicated in the setting of suspected bowel ischemia.",
+        "context_id": 32,
+        "relevance_score": 0.6783540916780706
+    },
+    {
+        "question": "A 55-year-old female with a history of type 2 diabetes presents with a 3-day history of severe right lower quadrant abdominal pain, nausea, and vomiting. Her vitals show a heart rate of 105 bpm and a temperature of 38.5\u00b0C. Lab results show leukocytosis of 15,000 cells/uL and an elevated serum creatinine level of 1.8 mg/dL. A CT scan reveals an inflamed and dilated appendix with a 2cm appendicolith. She is at a higher risk for perforation due to delayed presentation. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical consultation for appendectomy",
+            "B) Start intravenous antibiotics and observe",
+            "C) Administer pain relief and send the patient home",
+            "D) Schedule an elective appendectomy for the next day"
+        ],
+        "correct_answer": "A) Immediate surgical consultation for appendectomy",
+        "reasoning": "In this scenario, the patient presents with classic clinical features of acute appendicitis, a common surgical emergency. Given her delayed presentation, there is a high risk of perforation which can lead to peritonitis and sepsis. Immediate surgical consultation is thus necessary for appendectomy. B) Antibiotics and observation might be an option for uncomplicated appendicitis without risk of perforation. C) Sending the patient home would be inappropriate given the severity of her condition. D) Delaying surgery until the next day increases the risk of perforation and more serious outcomes.",
+        "context_id": 33,
+        "relevance_score": 0.6759225119974794
+    },
+    {
+        "question": "A 65 year old male with a history of hypertension and type 2 diabetes presents to the emergency department with sudden onset of severe chest pain radiating to the left arm. The pain began while he was gardening 2 hours ago. His ECG shows ST-segment elevation in the inferior leads. His troponin I level is elevated at 0.05 ng/mL (normal <0.01 ng/mL). What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate administration of aspirin and beta blocker",
+            "B) Emergency coronary angiography",
+            "C) Start patient on statin and ACE inhibitor therapy",
+            "D) Administration of nitroglycerin sublingually"
+        ],
+        "correct_answer": "B) Emergency coronary angiography",
+        "reasoning": "1. Given the patient's symptoms of chest pain, ST-segment elevation on ECG and elevated troponin level, this patient is having an ST-segment elevation myocardial infarction (STEMI), a medical emergency. The most appropriate next step in management is immediate reperfusion therapy, preferably by primary percutaneous coronary intervention (PCI) via emergency coronary angiography if it can be performed within 90-120 minutes of first medical contact. 2. Aspirin should be given to all patients suspected of having an acute coronary syndrome, but reperfusion therapy should not be delayed. Beta blockers are not first-line treatment in acute setting due to risk of hypotension and bradycardia. 3. Statins and ACE inhibitors are important in the secondary prevention of coronary artery disease but are not part of the emergency management of STEMI. 4. Nitroglycerin can relieve symptoms but does not alter mortality.",
+        "context_id": 34,
+        "relevance_score": 0.6812089221988554
+    },
+    {
+        "question": "A 68-year-old postmenopausal woman presents with severe right lower quadrant pain for the past 6 hours. She has a history of hypertension and atrial fibrillation, for which she takes warfarin. She reports no nausea, vomiting, or changes in bowel habits. On examination, she has localized tenderness in the right lower quadrant. Laboratory studies show a white blood cell count of 15,000/\u00b5L and an International Normalized Ratio (INR) of 3.2. An ultrasound reveals a 2 cm diameter mass in the appendix. What is the most appropriate next step in management?",
+        "options": [
+            "A) Start the patient on broad-spectrum antibiotics",
+            "B) Arrange for immediate surgical removal of the appendix",
+            "C) Administer Vitamin K and fresh frozen plasma to reverse the effects of warfarin",
+            "D) Obtain a CT scan to further evaluate the mass"
+        ],
+        "correct_answer": "C",
+        "reasoning": "This patient likely has acute appendicitis, which requires immediate surgical intervention. However, her elevated INR places her at increased risk for bleeding during surgery. The INR should be normalized quickly using both Vitamin K and fresh frozen plasma, which provides immediate replacement of clotting factors. Broad-spectrum antibiotics (option A) would be part of the management if this patient had an abscess, but they are not sufficient as the only treatment in the setting of suspected acute appendicitis. Immediate surgical removal without addressing the INR (option B) would place the patient at high risk for bleeding. While a CT scan (option D) could provide additional information about the mass, it should not delay definitive management in a patient with strong clinical signs of appendicitis.",
+        "context_id": 35,
+        "relevance_score": 0.6734918164646047
+    },
+    {
+        "question": "A 65-year-old man with a history of type 2 diabetes and hypertension presents to the emergency department (ED) with sudden onset of severe chest pain radiating to his left arm, which started 2 hours ago. His ECG shows ST elevations in leads II, III, and aVF. His troponin levels are elevated. He smoked 1 pack of cigarettes daily for the last 30 years. Given the patient's symptoms and medical history, what is the next best step in management?",
+        "options": [
+            "A) Immediate coronary angiography and possible percutaneous coronary intervention (PCI)",
+            "B) Intravenous beta-blocker therapy",
+            "C) Subcutaneous low-molecular-weight heparin",
+            "D) Oral aspirin and clopidogrel therapy"
+        ],
+        "correct_answer": "A",
+        "reasoning": "The patient's symptoms and ECG findings are consistent with an ongoing ST-elevation myocardial infarction (STEMI), which is a medical emergency. Current guidelines recommend immediate coronary angiography and possible PCI (option A) for patients with STEMI who present within 12 hours of symptom onset. Intravenous beta-blocker therapy (option B) can reduce myocardial oxygen demand, but it should be used as an adjunct to reperfusion therapy, not as a primary treatment. Low-molecular-weight heparin (option C) is used to prevent thrombus extension in patients with non-ST-elevation MI or unstable angina, not STEMI. Oral aspirin and clopidogrel therapy (option D) can be used as an adjunct to reperfusion therapy, but it should not delay definitive treatment.",
+        "context_id": 36,
+        "relevance_score": 0.6831191043624376
+    },
+    {
+        "question": "A 62-year-old man with a history of chronic obstructive pulmonary disease (COPD) presents to the emergency department with sudden onset of severe chest pain and shortness of breath that started an hour ago. He has a blood pressure of 90/60 mmHg, a heart rate of 110/min, and oxygen saturation of 92% on room air. His ECG shows ST segment elevation in leads II, III and aVF. His troponin I levels are significantly elevated. Which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate percutaneous coronary intervention (PCI)",
+            "B) Thrombolytic therapy",
+            "C) Intravenous nitroglycerin",
+            "D) Intravenous beta-blockers"
+        ],
+        "correct_answer": "A",
+        "reasoning": "Given the patient's symptoms, ECG findings, and elevated troponin I levels, the clinical scenario is suggestive of an acute inferior wall ST segment elevation myocardial infarction (STEMI). In patients with STEMI, immediate revascularization (within 90 minutes of presentation to a PCI-capable hospital or within 120 minutes if transfer is required from a non-PCI capable hospital) is the treatment of choice. Therefore, option A is the correct answer. Thrombolytic therapy (option B) is an alternative when PCI is not available. However, it is less effective than PCI and has a higher risk of complications, such as intracranial hemorrhage. Intravenous nitroglycerin (option C) and beta-blockers (option D) are used as adjunctive therapy in acute myocardial infarction but they are not definitive treatments.",
+        "context_id": 37,
+        "relevance_score": 0.6773220262547741
+    },
+    {
+        "question": "A 52-year-old man with a history of heavy smoking presents with a sudden onset of severe, tearing chest pain that radiates to his back. He also reports feeling lightheaded. His blood pressure is 210/120 mm Hg, and his heart rate is 110 bpm. A chest X-ray reveals a widened mediastinum. Given the patient's symptoms, history, and imaging results, what is the best next step in management?",
+        "options": [
+            "A) Start anti-hypertensive therapy immediately and then proceed to CT angiography.",
+            "B) Proceed immediately to cardiac catheterization.",
+            "C) Administer aspirin and start thrombolytic therapy.",
+            "D) Proceed immediately to CT angiography without first controlling blood pressure."
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient's sudden onset of severe, tearing chest pain radiating to the back, along with hypertension and widened mediastinum on chest X-ray, are classic for acute aortic dissection. The risk is high in patients with a history of uncontrolled hypertension and smoking. Hypertension can worsen the dissection, so the first step in management is to control the blood pressure, typically with intravenous beta blockers, before proceeding to definitive diagnosis with CT angiography. Option B is incorrect as catheterization is typically for acute coronary syndrome, not aortic dissection. Option C is inappropriate because the use of thrombolytics could cause catastrophic hemorrhage in the setting of aortic dissection. Option D is incorrect because uncontrolled hypertension can propagate further dissection or rupture.",
+        "context_id": 38,
+        "relevance_score": 0.6847820588969121
+    },
+    {
+        "question": "A 70-year-old man with a history of uncontrolled hypertension presents to the ER with sudden onset of severe headache, vomiting, and confusion for the past 3 hours. His blood pressure is 220/120 mmHg, and a CT scan shows a hemorrhagic stroke. What is the most appropriate next step in his management?",
+        "options": [
+            "A) Immediate administration of intravenous thrombolytics",
+            "B) Rapid blood pressure reduction with a target of 140/90 mmHg within the first hour",
+            "C) Surgical evacuation of the hematoma",
+            "D) Gradual blood pressure reduction to a target of 160/90 mmHg over the course of 24 hours"
+        ],
+        "correct_answer": "D) Gradual blood pressure reduction to a target of 160/90 mmHg over the course of 24 hours",
+        "reasoning": "In the case of hemorrhagic stroke, aggressive lowering of blood pressure (option B) can lead to further ischemia and neuronal damage. Intravenous thrombolytics (option A) are contraindicated as they can worsen the bleeding. Surgical evacuation (option C) is typically reserved for cerebellar hemorrhages or those causing significant mass effect, neither of which is mentioned in this scenario. Current guidelines suggest a target blood pressure of <160/90 mmHg over the course of 24 hours in the setting of hemorrhagic stroke.",
+        "context_id": 39,
+        "relevance_score": 0.682264541488817
+    },
+    {
+        "question": "A 45-year-old male with a history of chronic alcohol abuse and hypertension presents with severe upper abdominal pain, nausea and vomiting for the past 24 hours. His blood pressure is 160/100 mmHg. On examination, he is agitated and his abdomen is tender with guarding. Lab findings include serum amylase of 1500 U/L (normal 30-110 U/L) and lipase of 2000 U/L (normal 10-140 U/L). His liver enzymes are slightly elevated. Given these findings, what is the most appropriate next step in management?",
+        "options": [
+            "A) Start on antihypertensive medication immediately",
+            "B) Initiate alcohol withdrawal management protocol",
+            "C) Begin aggressive fluid resuscitation and pain control",
+            "D) Order a CT scan of the abdomen and pelvis"
+        ],
+        "correct_answer": "C",
+        "reasoning": "This patient presents with severe abdominal pain, nausea, vomiting, and significantly elevated amylase and lipase, suggesting acute pancreatitis, which is likely secondary to alcohol abuse. The initial management of acute pancreatitis includes aggressive intravenous fluid resuscitation, pain control, and nutritional support. Although his blood pressure is elevated, it's likely due to pain and stress, so antihypertensive medication (Option A) is not the immediate priority. Alcohol withdrawal (Option B) is a possibility given his history, but there's no clear evidence of it at this stage. A CT scan (Option D) is usually not needed for diagnosis unless the diagnosis is uncertain or complications are suspected.",
+        "context_id": 40,
+        "relevance_score": 0.6682079845988715
+    },
+    {
+        "question": "A 62-year-old female with a history of type II diabetes and hypertension presents with sudden onset of right upper quadrant pain, fever and vomiting for the past 6 hours. Her vitals show a temperature of 38.5\u00b0C, BP: 145/90 mmHg, HR: 115 bpm, RR: 22/min. Lab values show WBC: 14,500/\u00b5L, ALT: 65 U/L, AST: 78 U/L, ALP: 280 U/L, Bilirubin: 2.1 mg/dL. An ultrasound reveals gallstones and a thickened gallbladder wall with pericholecystic fluid. Given her presentation, which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate laparoscopic cholecystectomy",
+            "B) Intravenous antibiotics and percutaneous cholecystostomy",
+            "C) Intravenous antibiotics and urgent endoscopic retrograde cholangiopancreatography (ERCP)",
+            "D) Conservative management with hydration, analgesia, and antiemetics"
+        ],
+        "correct_answer": "B) Intravenous antibiotics and percutaneous cholecystostomy",
+        "reasoning": "This patient presents with fever, leukocytosis, right upper quadrant pain, and ultrasound findings of gallstones and a thickened gallbladder wall, suggesting acute cholecystitis. In a younger, healthier patient, immediate laparoscopic cholecystectomy would be a reasonable choice. However, in this patient with multiple comorbidities and signs of severe disease (fever, leukocytosis), the treatment of choice is initial conservative management with intravenous antibiotics and percutaneous cholecystostomy. This approach reduces inflammation and infection, allowing for a safer cholecystectomy at a later date. ERCP is not indicated as there is no evidence of choledocholithiasis or cholangitis. Conservative management alone is insufficient as it does not address the underlying infection.",
+        "context_id": 41,
+        "relevance_score": 0.6793245207989587
+    },
+    {
+        "question": "A 65-year-old male patient with a history of hypertension and type 2 diabetes presents with acute onset of severe chest pain that radiates to the left arm, which started an hour ago. He is sweating profusely and looks pale. His ECG shows ST segment elevation in leads II, III, and aVF. Troponin I level is significantly elevated. He is a smoker and his father had a myocardial infarction at the age of 55. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate percutaneous coronary intervention (PCI)",
+            "B) Intravenous nitroglycerin administration",
+            "C) Wait for thrombolytic therapy to take effect",
+            "D) Immediate coronary artery bypass graft (CABG) surgery"
+        ],
+        "correct_answer": "A",
+        "reasoning": "1. The correct answer is A because the patient is presenting with an acute ST-elevation myocardial infarction (STEMI), which is a medical emergency. The current guidelines recommend immediate reperfusion therapy (which can be achieved with PCI) for patients presenting within 12 hours of symptom onset. 2. Option B is not the primary treatment for STEMI, but can be used to alleviate chest pain. 3. Option C is incorrect because the patient is in the window period for primary PCI, which is the preferred reperfusion strategy if it can be performed in a timely manner. 4. Option D is incorrect because CABG is usually not the first-line treatment for STEMI. It is considered in patients with left main or three-vessel disease, or when PCI is unsuccessful or not feasible. 5. The patient's history of hypertension, diabetes, smoking, and family history of early myocardial infarction are all risk factors for coronary artery disease. 6. The decision for immediate PCI is supported by the American Heart Association and American College of Cardiology guidelines.",
+        "context_id": 43,
+        "relevance_score": 0.6809446644949567
+    },
+    {
+        "question": "A 66-year-old male with a history of Type 2 Diabetes and hypertension presents with 3 days of persistent dull pain in the right upper quadrant of his abdomen. His vitals are stable but he appears jaundiced. Lab results show elevated bilirubin levels and mildly elevated liver enzymes. An ultrasound confirms the presence of gallstones. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate laparoscopic cholecystectomy",
+            "B) Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+            "C) Administration of ursodeoxycholic acid",
+            "D) Wait and watch approach with pain management"
+        ],
+        "correct_answer": "B) Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+        "reasoning": "This patient's presentation of right upper quadrant pain, jaundice, and elevated bilirubin with gallstones on imaging is suggestive of choledocholithiasis, or gallstones in the common bile duct. The most appropriate next step in management is ERCP, which allows both diagnosis and treatment of this condition. 1) A) Laparoscopic cholecystectomy is commonly performed for symptomatic gallstones, but it does not address gallstones in the common bile duct and hence is not the optimal approach in this case. 2) C) Ursodeoxycholic acid is used for the dissolution of small, noncalcified gallstones in patients who refuse surgery or are poor surgical candidates but it takes a long time to work and is not appropriate in this case due to the severity of the symptoms. 3) D) A wait and watch approach with pain management is inappropriate given the patient's symptoms and risk of complications such as ascending cholangitis.",
+        "context_id": 44,
+        "relevance_score": 0.6764888418816826
+    },
+    {
+        "question": "A 54-year-old female, with a history of rheumatoid arthritis and type 2 diabetes, presents with sudden onset of severe right lower quadrant pain for the past 12 hours. She has a temperature of 101.2\u00b0F and her lab results show leukocytosis with a left shift. An abdominal ultrasound reveals a swollen appendix with a small amount of free fluid. What is the best course of action?",
+        "options": [
+            "A) Immediate surgical consultation for probable appendectomy",
+            "B) Administration of antibiotics and observation",
+            "C) Administration of anti-inflammatory medication and pain management",
+            "D) Upper endoscopy to check for peptic ulcer disease"
+        ],
+        "correct_answer": "A",
+        "reasoning": "Given the patient's symptoms, fever, lab results, and ultrasound findings, acute appendicitis is the most likely diagnosis. Immediate surgical consultation for probable appendectomy (Option A) is the standard treatment for acute appendicitis, especially given the patient's fever and leukocytosis indicating systemic infection. Option B, administration of antibiotics and observation, might be considered in a patient with uncomplicated appendicitis, but in this case the presence of free fluid suggests a higher risk of perforation. Option C, administration of anti-inflammatory medication and pain management, would not address the underlying issue and could lead to worsening infection or rupture of the appendix. Option D, upper endoscopy, is not indicated as the symptoms and findings do not suggest a peptic ulcer.",
+        "context_id": 46,
+        "relevance_score": 0.6745886692677932
+    },
+    {
+        "question": "A 68-year-old male with a history of hypertension and type 2 diabetes presents with sudden onset of severe chest pain radiating to the back, dyspnea, and diaphoresis. He reports that the pain started 3 hours ago and has been progressively worsening. Vital signs reveal a blood pressure of 180/110 mmHg and a heart rate of 110 bpm. An EKG shows no ST-segment elevation. Lab results reveal slightly elevated troponin levels. A chest X-ray shows a widened mediastinum. What is the most appropriate immediate management of this patient?",
+        "options": [
+            "A) Intravenous nitroglycerin and morphine for pain control",
+            "B) Emergent surgical intervention",
+            "C) Intravenous heparin and aspirin",
+            "D) Observation and repeat EKG in six hours"
+        ],
+        "correct_answer": "B) Emergent surgical intervention",
+        "reasoning": "This patient's presentation of severe chest pain radiating to the back, hypertension, and a widened mediastinum on chest X-ray is suggestive of an aortic dissection, a life-threatening condition that requires immediate surgical intervention. Option A is incorrect because while nitroglycerin and morphine can provide temporary pain relief, they do not address the underlying issue. Similarly, option C, which is used for managing acute coronary syndromes, is not appropriate for an aortic dissection. Option D is clearly incorrect because aortic dissection is a medical emergency that requires immediate intervention, not observation.",
+        "context_id": 47,
+        "relevance_score": 0.6814837275646477
+    },
+    {
+        "question": "A 68-year-old male patient with a history of hypertension and type 2 diabetes presents to the emergency department with sudden onset of severe chest pain radiating to the left arm, shortness of breath, and diaphoresis, which started 2 hours ago. An ECG shows ST-segment elevation in the anterior leads. His blood pressure is 150/95 mmHg, heart rate is 110 beats per minute, and troponin T level is elevated at 0.5 ng/mL. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate percutaneous coronary intervention (PCI)",
+            "B) Administration of thrombolytic therapy",
+            "C) Intravenous administration of nitroglycerin",
+            "D) Wait and monitor the patient's condition"
+        ],
+        "correct_answer": "A",
+        "reasoning": "1. This patient's symptoms, ECG findings, and elevated troponin T level are indicative of a ST-segment elevation myocardial infarction (STEMI), which is a medical emergency. The optimal management for STEMI patients who present within 12 hours of symptom onset is immediate reperfusion therapy by percutaneous coronary intervention (PCI) if it can be performed within 90 minutes of first medical contact. 2. Thrombolytic therapy (option B) is a suboptimal choice given the time factors and the patient's hypertension, which is a relative contraindication. 3. Nitroglycerin (option C) can help relieve symptoms but does not address the underlying issue of coronary artery occlusion. 4. Waiting and monitoring (option D) is clearly incorrect as this patient requires immediate intervention to reduce the risk of mortality and limit myocardial damage. 5. Key clinical factors include the patient's symptoms, ECG findings, elevated troponin T level, and hypertension. 6. The American College of Cardiology/American Heart Association guidelines recommend immediate PCI for STEMI patients presenting within 12 hours of symptom onset if it can be performed within 90 minutes of first medical contact.",
+        "context_id": 48,
+        "relevance_score": 0.6825577838660971
+    },
+    {
+        "question": "A 72-year-old male with history of hypertension, type 2 diabetes, and chronic kidney disease stage 3 presents with progressive shortness of breath, orthopnea and paroxysmal nocturnal dyspnea for the past two weeks. His blood pressure is 160/95 mm Hg, heart rate is 115 bpm, and he has bilateral pitting edema up to his knees. Labs show a BNP of 1200 pg/mL (Normal: <100 pg/mL) and creatinine of 2.8 mg/dL (Baseline: 2.0 mg/dL). Chest X-ray shows cardiomegaly and pulmonary venous congestion. His EKG shows sinus tachycardia. What is the most appropriate initial management?",
+        "options": [
+            "A) Intravenous loop diuretics",
+            "B) Intravenous nitroglycerin",
+            "C) Oral ACE inhibitors",
+            "D) Intravenous beta-blockers"
+        ],
+        "correct_answer": "A",
+        "reasoning": "The patient's presentation is consistent with acute decompensated heart failure (ADHF). The mainstay of treatment for ADHF with volume overload (e.g., orthopnea, paroxysmal nocturnal dyspnea, edema) is loop diuretics. Loop diuretics decrease preload by promoting diuresis, which reduces pulmonary congestion and peripheral edema. Intravenous route is preferred due to impaired absorption from the gut in these patients. Intravenous nitroglycerin (Option B) may be used in addition to diuretics, but only in patients with concurrent hypertension or ischemic symptoms. Oral ACE inhibitors (Option C) are used for long-term management of heart failure, not for acute episodes. Intravenous beta-blockers (Option D) are contraindicated in acute heart failure as they can acutely decrease the cardiac output and are not effective in quickly relieving symptoms.",
+        "context_id": 49,
+        "relevance_score": 0.6874564138124063
+    },
+    {
+        "question": "A 45-year-old woman with a history of hypertension presents with a 3-day history of generalized weakness, fatigue, and vomiting. She was recently prescribed a new medication for her hypertension. On physical examination, her blood pressure is 145/90 mmHg, and she seems dehydrated. Laboratory results show a serum potassium level of 6.9 mEq/L and a creatinine level of 1.4 mg/dL. Her ECG shows peaked T waves. What is the most likely cause of her hyperkalemia and what is the best management approach?",
+        "options": [
+            "A) The patient's hyperkalemia is due to her hypertension and she should be treated with a potassium binder.",
+            "B) The patient's hyperkalemia is due to her new medication and she should stop taking the medication and start on intravenous fluids and calcium gluconate.",
+            "C) The patient's hyperkalemia is due to dehydration and she should be treated with intravenous fluids only.",
+            "D) The patient's hyperkalemia is due to her new medication and she should just stop taking the medication."
+        ],
+        "correct_answer": "B",
+        "reasoning": "Given her recent start on a new antihypertensive medication and the absence of other clear causes, the patient's hyperkalemia is most likely drug-induced. Certain antihypertensives, such as ACE inhibitors, ARBs, and potassium-sparing diuretics, can cause hyperkalemia. The patient's ECG changes (peaked T waves) suggest severe hyperkalemia, which can lead to life-threatening arrhythmias. Therefore, she should be treated urgently with calcium gluconate to stabilize her cardiac membranes, and intravenous fluids to help promote renal potassium excretion. Simply stopping the medication (D) without addressing the acute hyperkalemia is insufficient. Although hypertension can be associated with hyperkalemia, it is not typically a direct cause (A), and potassium binders would not be the first-line treatment in this acute setting. Dehydration can exacerbate hyperkalemia, but it is unlikely to be the primary cause in this case (C), and IV fluids alone would not adequately address the immediate cardiac risk.",
+        "context_id": 50,
+        "relevance_score": 0.6753007144616064
+    },
+    {
+        "question": "A 37-year-old male patient with a history of type 2 diabetes mellitus and hypertension presents to the emergency department with severe, constant right upper quadrant abdominal pain that started 6 hours ago. He also reports nausea and vomiting. His blood pressure is 150/90 mmHg, heart rate is 98/min, and temperature is 38.5\u00b0C. Laboratory findings reveal elevated alanine aminotransferase (ALT) at 150 U/L, aspartate aminotransferase (AST) at 145 U/L, and total bilirubin at 3.0 mg/dL. An ultrasound of the abdomen shows multiple gallstones and a thickened gallbladder wall. What is the most appropriate next step in management?",
+        "options": [
+            "A) Intravenous fluids and analgesics, followed by elective cholecystectomy",
+            "B) Immediate laparoscopic cholecystectomy",
+            "C) Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "D) Oral antibiotics and outpatient follow-up"
+        ],
+        "correct_answer": "B) Immediate laparoscopic cholecystectomy",
+        "reasoning": "The patient's presentation is consistent with acute cholecystitis, which is characterized by right upper quadrant abdominal pain, nausea, and vomiting, fever, and laboratory and imaging findings suggestive of gallbladder inflammation. Immediate surgical intervention (laparoscopic cholecystectomy) is indicated for acute cholecystitis to prevent complications such as gallbladder perforation and abscess formation. Option A is not ideal because waiting for an elective surgery can lead to progression of the disease and complications. ERCP (Option C) is used to manage choledocholithiasis or gallstone pancreatitis, which are not indicated in this case. Oral antibiotics (Option D) are not sufficient to manage acute cholecystitis.",
+        "context_id": 51,
+        "relevance_score": 0.6839883573371938
+    },
+    {
+        "question": "A 52-year-old female patient with a history of type 2 diabetes and hypertension presents to the emergency department with severe right-sided abdominal pain that started abruptly 2 hours ago. She describes the pain as sharp and constant. Her vital signs are temperature 38.3\u00b0C, blood pressure 165/95 mmHg, pulse 110 bpm, and respiratory rate 22 breaths per minute. Lab results show leukocytosis (WBC 14,000/mm3), elevated serum amylase (950 U/L), and lipase (800 U/L). An abdominal CT scan shows enlargement and inflammation of the pancreas with peripancreatic fluid collection. What is the most appropriate immediate management?",
+        "options": [
+            "A) Administration of IV morphine for pain control",
+            "B) Immediate surgical intervention for exploratory laparotomy",
+            "C) Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "D) Aggressive fluid resuscitation with isotonic crystalloid solution"
+        ],
+        "correct_answer": "D",
+        "reasoning": "The clinical scenario is suggestive of acute pancreatitis, characterized by abdominal pain and significantly elevated amylase and lipase levels. This condition is commonly caused by gallstones and alcohol abuse, but in this case, it could be related to the patient's history of hypertension and diabetes. The immediate management of acute pancreatitis includes aggressive hydration with isotonic crystalloid solution (Choice D) as hypovolemia can exacerbate the disease. Pain control is essential, but morphine is generally avoided in pancreatitis due to its potential to cause spasm of the sphincter of Oddi (Choice A). ERCP (Choice C) is reserved for cases with cholangitis or persistent obstruction after initial treatment. Immediate surgical intervention (Choice B) is not indicated unless complications like necrotizing pancreatitis develop.",
+        "context_id": 52,
+        "relevance_score": 0.6878579386151507
+    },
+    {
+        "question": "A 63-year-old female with a history of hypertension presents to the emergency department with sudden onset of severe headache, blurred vision and difficulty speaking. She reports that these symptoms started suddenly about 2 hours ago. Physical examination reveals left-sided weakness and a blood pressure of 180/110 mmHg. An emergent CT scan of the head reveals a hemorrhagic stroke. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate initiation of antihypertensive medication to lower blood pressure",
+            "B) Begin intravenous thrombolytic therapy",
+            "C) Start an antiplatelet agent such as aspirin",
+            "D) Surgical evacuation of the hematoma"
+        ],
+        "correct_answer": "A",
+        "reasoning": "In hemorrhagic stroke, the goal is to prevent further bleeding. Immediate aggressive treatment of hypertension is recommended to prevent the extension of the hemorrhage. Option B is incorrect because thrombolytic therapy is contraindicated in hemorrhagic stroke as it can worsen bleeding. Option C is incorrect because antiplatelet agents can also increase the risk of bleeding. Option D can be considered in large cerebellar hemorrhages causing brainstem compression and/or hydrocephalus, but it is not the initial step in management.",
+        "context_id": 53,
+        "relevance_score": 0.6805323555557806
+    },
+    {
+        "question": "A 65 year old female patient with a history of hypertension and type 2 diabetes presents to the ER with severe right lower quadrant abdominal pain that started 6 hours ago. The pain is constant, and she rates it as an 8/10. She also reports nausea and vomiting. Her temperature is 38.3\u00b0C and her heart rate is 110 beats per minute. A CT scan shows an inflamed appendix with a small amount of free fluid in the pelvis. Her white blood cell count is 15,000/mm3. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical appendectomy",
+            "B) Intravenous antibiotics and observation",
+            "C) Discharge with oral antibiotics and outpatient follow-up",
+            "D) Barium enema to confirm diagnosis"
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient's clinical presentation and CT scan are consistent with acute appendicitis. Given the severity of her symptoms, the presence of systemic inflammatory response (elevated heart rate and temperature), and the risk factors (age, hypertension, diabetes), immediate surgical appendectomy is the most appropriate management. Intravenous antibiotics and observation (option B) may be considered in patients with uncomplicated appendicitis, but this patient's presentation suggests a complicated case. Discharge with oral antibiotics and outpatient follow-up (option C) is inappropriate due to the severity of her symptoms and risk of complications such as perforation. Barium enema (option D) is not typically used in the diagnosis of appendicitis and would unnecessarily delay definitive treatment in this case.",
+        "context_id": 54,
+        "relevance_score": 0.6801616110388881
+    },
+    {
+        "question": "A 65-year-old male with a history of hypertension and type 2 diabetes presents to the ER with severe, crushing chest pain radiating to the left arm, nausea, and diaphoresis that started 2 hours ago. His EKG shows ST-segment elevation in leads II, III, and aVF. His troponin level is elevated. He has no known drug allergies. Given the patient's condition and history, what is the most appropriate next step in management?",
+        "options": [
+            "A) Administration of a beta-blocker and statin",
+            "B) Immediate percutaneous coronary intervention (PCI)",
+            "C) Thrombolytic therapy",
+            "D) Observation and pain management with nitroglycerin"
+        ],
+        "correct_answer": "B) Immediate percutaneous coronary intervention (PCI)",
+        "reasoning": "The patient's symptoms, EKG changes, and elevated troponin level are indicative of an ST-segment elevation myocardial infarction (STEMI), a medical emergency. The most effective treatment for STEMI is timely reperfusion therapy to restore blood flow to the ischemic myocardium. According to recent guidelines, primary percutaneous coronary intervention (PCI) is the preferred reperfusion strategy if it can be performed within 90-120 minutes of STEMI diagnosis. Option A is incorrect because while beta-blockers and statins are part of the standard treatment for acute coronary syndrome, they are not the immediate priority in a STEMI situation. Option C is incorrect because thrombolytic therapy is generally reserved for situations where PCI is not available or cannot be performed in a timely manner. Option D is not appropriate as the patient's condition is a medical emergency that requires immediate intervention, not just observation and symptom management.",
+        "context_id": 56,
+        "relevance_score": 0.6793672244920261
+    },
+    {
+        "question": "A 66-year-old man with a history of hypertension and type 2 diabetes presents to the emergency department with severe abdominal pain and vomiting for the last 3 hours. The pain is sharp, constant, and localized to the right lower quadrant. His temperature is 38.6\u00b0C (101.5\u00b0F), blood pressure is 130/80 mmHg, pulse rate is 110/min, and respiratory rate is 22/min. Laboratory findings show leukocytosis with a left shift. Abdominal CT reveals a thickened appendix with surrounding fat stranding. Which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate laparoscopic appendectomy",
+            "B) Antibiotic therapy and interval appendectomy in 6-8 weeks",
+            "C) Intravenous fluid resuscitation and observation",
+            "D) Immediate colonoscopy"
+        ],
+        "correct_answer": "A) Immediate laparoscopic appendectomy",
+        "reasoning": "This patient's symptoms, physical examination findings, and imaging results are consistent with acute appendicitis, which is a surgical emergency. Immediate surgical intervention (choice A) is the optimal treatment to prevent progression to perforation and peritonitis. Antibiotic therapy with interval appendectomy (choice B) is a reasonable approach for patients with an appendiceal abscess or phlegmon, but this patient's presentation suggests uncomplicated appendicitis. Intravenous fluid resuscitation and observation (choice C) may be appropriate for patients with less severe symptoms or uncertain diagnosis, but the risk of perforation is high in this case. Colonoscopy (choice D) is not indicated in the acute setting and could potentially cause perforation in a patient with acute appendicitis.",
+        "context_id": 57,
+        "relevance_score": 0.6840958937862247
+    },
+    {
+        "question": "A 55-year-old male patient with a history of hypertension and Type 2 diabetes, presents with acute onset of severe chest pain radiating to his left arm. EKG reveals ST elevation in leads II, III, and AVF. Lab results show elevated troponin levels. Given his symptoms and findings, what is the most appropriate next step in management?",
+        "options": [
+            "A) Administer oral aspirin and wait for pain to subside",
+            "B) Immediate coronary angiography and possible percutaneous coronary intervention (PCI)",
+            "C) Start him on a regimen of statins and beta-blockers",
+            "D) Schedule for elective coronary angiography"
+        ],
+        "correct_answer": "B",
+        "reasoning": "This patient is presenting with an ST-elevation myocardial infarction (STEMI), which is a medical emergency. Management should be swift, aiming to restore coronary blood flow as quickly as possible. The most appropriate and immediate next step is coronary angiography with the intention to perform PCI, option B. Option A is incorrect because while aspirin is part of acute coronary syndrome (ACS) management, it is not sufficient alone in the case of STEMI. Option C is incorrect because while statins and beta-blockers are part of long-term management of coronary artery disease, they do not address the immediate need for revascularization in STEMI. Option D is incorrect because elective coronary angiography is not appropriate in the setting of a STEMI where immediate revascularization is needed.",
+        "context_id": 58,
+        "relevance_score": 0.6764391466358827
+    },
+    {
+        "question": "A 65-year-old male with a history of hypertension and type 2 diabetes presents with a 2-hour history of severe chest pain radiating to the left arm. His EKG shows ST-segment elevation in leads II, III, and aVF. His troponin levels are elevated at 2.5 ng/mL (normal <0.4 ng/mL). He has no known drug allergies. What is the best immediate step in managing this patient?",
+        "options": [
+            "A) Initiate fibrinolytic therapy immediately",
+            "B) Begin beta-blockers and schedule for elective coronary angiography",
+            "C) Administer nitroglycerin and monitor in the cardiac care unit",
+            "D) Urgently perform primary percutaneous coronary intervention (PCI)"
+        ],
+        "correct_answer": "D",
+        "reasoning": "The patient's symptoms, EKG changes, and elevated troponins are consistent with an ST-elevation myocardial infarction (STEMI), indicating complete coronary artery occlusion. According to current guidelines, the most effective treatment for STEMI is immediate reperfusion. If available, primary PCI is the preferred method and should be performed within 90 minutes of first medical contact (option D). Fibrinolytic therapy (option A) is a second-line option when PCI is not available within 120 minutes. Beta-blockers (option B) are important for long-term management but do not provide immediate reperfusion. Nitroglycerin (option C) can alleviate symptoms but does not affect the underlying coronary occlusion or improve mortality.",
+        "context_id": 59,
+        "relevance_score": 0.6738104968670378
+    },
+    {
+        "question": "A 70-year-old male with a history of hypertension, diabetes, and chronic kidney disease presents in the emergency department with severe abdominal pain that started suddenly 3 hours ago. The pain is localized in the right lower quadrant and there's rebound tenderness. His vitals show a blood pressure of 150/90 mmHg, heart rate of 110 bpm, and a temperature of 38.5\u00b0C. Lab tests reveal a white blood cell count of 15,000/mm3 and a serum creatinine of 2.5 mg/dL (baseline of 1.8 mg/dL). CT scan shows appendiceal inflammation and mild hydronephrosis of the right kidney. What is the best next step in management?",
+        "options": [
+            "A) Start intravenous antibiotics and schedule for appendectomy after 48 hours",
+            "B) Immediate surgical consultation for appendectomy",
+            "C) Administer pain management and observe the patient",
+            "D) Start intravenous antibiotics and discharge the patient with outpatient follow-up"
+        ],
+        "correct_answer": "B",
+        "reasoning": "Given the patient's age, comorbidities, and acute onset of severe right lower quadrant pain with rebound tenderness, the clinical scenario is highly suggestive of acute appendicitis, a surgical emergency. Immediate surgical consultation for appendectomy is the best next step in management (Option B). Option A is incorrect because delaying surgery for 48 hours increases the risk of appendiceal perforation, which can lead to peritonitis and septic shock. Option C is incorrect because observation without definitive treatment could lead to worsening of condition. Option D is not suitable because outpatient management is only for uncomplicated cases and the patient's condition is severe with a high risk for complications due to his comorbidities.",
+        "context_id": 60,
+        "relevance_score": 0.6851307348830133
+    },
+    {
+        "question": "A 68-year-old male with a history of hypertension and smoking presents to the emergency department with sudden onset of severe chest pain radiating to his left arm, which started 1 hour ago. On examination, his blood pressure is 160/90 mmHg, pulse 110 per minute, and he is sweating profusely. ECG shows ST segment elevation in leads II, III, aVF. Troponin I levels are significantly elevated. He has no known allergies. What is the most appropriate next step in the management of this patient?",
+        "options": [
+            "A) Administer sublingual nitroglycerin",
+            "B) Start anticoagulant therapy and arrange for urgent coronary angiography",
+            "C) Administer beta-blocker and ACE inhibitor",
+            "D) Arrange for urgent coronary artery bypass grafting (CABG)"
+        ],
+        "correct_answer": "B",
+        "reasoning": "The patient's symptoms, ECG findings, and elevated troponin I levels are indicative of an acute ST-elevation myocardial infarction (STEMI). Current guidelines recommend reperfusion therapy, either by percutaneous coronary intervention (PCI) or thrombolysis, as soon as possible. As the patient presented within 12 hours of the onset of symptoms and assuming there are no contraindications, the best next step is to start anticoagulant therapy and arrange for an urgent coronary angiography for possible PCI (Option B). Sublingual nitroglycerin (Option A) is used for the relief of angina, not as a definitive treatment in STEMI. Administering beta-blockers and ACE inhibitors (Option C) is part of the long-term management of STEMI, but not in the immediate setting. Urgent CABG (Option D) is usually considered when there is a contraindication to PCI or failed PCI, not as a first-line treatment.",
+        "context_id": 61,
+        "relevance_score": 0.6777567606354304
+    },
+    {
+        "question": "A 38-year-old female patient presents with a two-day history of severe right-sided abdominal pain, fever, and nausea. She has a history of gallstones and her vitals show a temperature of 38.5\u00b0C, blood pressure of 130/85 mmHg, heart rate of 110 bpm, and respiratory rate of 20 breaths/min. Lab results reveal a white blood cell count of 13,000/mm3 and elevated liver enzymes. Abdominal ultrasound shows gallbladder wall thickening with pericholecystic fluid. She is in distress and appears ill. What is the most appropriate next step in management?",
+        "options": [
+            "A) Administration of antibiotics and scheduling for elective cholecystectomy",
+            "B) Immediate laparoscopic cholecystectomy",
+            "C) Percutaneous cholecystostomy",
+            "D) Observation and pain management"
+        ],
+        "correct_answer": "B) Immediate laparoscopic cholecystectomy",
+        "reasoning": "The patient's symptoms, history of gallstones, elevated liver enzymes, and ultrasound findings are indicative of acute cholecystitis. This condition requires urgent surgical intervention. Given the patient's age and the absence of comorbidities that would contraindicate surgery, immediate laparoscopic cholecystectomy (option B) is the optimal treatment. While antibiotics can be used as part of the management, they are not sufficient on their own (option A). Percutaneous cholecystostomy (option C) may be considered in patients who are poor surgical candidates, but this is not the case here. Observation and pain management (option D) would be inappropriate given the severity and urgency of the condition.",
+        "context_id": 63,
+        "relevance_score": 0.6826843934282991
+    },
+    {
+        "question": "A 68-year-old male patient with a history of hypertension and chronic kidney disease presents with sudden onset left-sided weakness and slurred speech that started 2 hours ago. His blood pressure is 170/110 mmHg. CT scan of the head shows no hemorrhage. Lab values show creatinine of 3.5 mg/dL and an INR of 1.1. What is the most appropriate next step in management?",
+        "options": [
+            "A) Start the patient on oral antihypertensive medication immediately",
+            "B) Administer intravenous tissue plasminogen activator (tPA)",
+            "C) Perform a carotid endarterectomy",
+            "D) Wait for the patient's blood pressure to naturally decrease"
+        ],
+        "correct_answer": "B) Administer intravenous tissue plasminogen activator (tPA)",
+        "reasoning": "This patient's sudden onset of left-sided weakness and slurred speech strongly suggests an acute ischemic stroke. Given that it is within the 4.5 hour window from onset of symptoms, the patient is a candidate for intravenous tPA, which is the treatment of choice to reduce neurological damage from an ischemic stroke. While the patient's blood pressure is high, it is not above the absolute contraindication threshold for tPA (185/110 mmHg). Option A is incorrect because oral antihypertensives would not lower the pressure quickly enough in this acute setting. Option C is incorrect as carotid endarterectomy is not indicated in the acute setting of an ischemic stroke. Option D is incorrect as it is critical to manage stroke symptoms promptly to minimize damage.",
+        "context_id": 64,
+        "relevance_score": 0.6791862466266516
+    },
+    {
+        "question": "A 70-year-old man presents with severe, abrupt onset of back pain that radiates to his abdomen. His blood pressure is 90/60 mmHg and pulse is 110 bpm. An urgent CT angiogram shows an abdominal aortic aneurysm (AAA) measuring 7.5 cm with signs of rupture. He has a history of chronic obstructive pulmonary disease (COPD). What is the best management strategy?",
+        "options": [
+            "A) Immediate open surgical repair",
+            "B) Administration of beta-blockers and follow-up in 6 months",
+            "C) Immediate endovascular aneurysm repair (EVAR)",
+            "D) Administration of painkillers and discharge"
+        ],
+        "correct_answer": "C",
+        "reasoning": "1. Given the patient's hemodynamic instability and the signs of rupture on imaging, immediate intervention is required. 2. Open surgical repair (option A) is more invasive and has a higher risk of complications, especially in patients with comorbidities like COPD. 3. Administration of beta-blockers and follow-up (option B) or discharge with painkillers (option D) are inappropriate as they fail to address the urgent, life-threatening nature of a ruptured AAA. 4. Immediate EVAR (option C) is the optimal choice as it is less invasive, has a lower perioperative mortality rate, and is particularly beneficial in patients with significant comorbidities. This is supported by recent guidelines from the Society for Vascular Surgery.",
+        "context_id": 65,
+        "relevance_score": 0.6734706388677683
+    },
+    {
+        "question": "A 58-year-old woman presents to your clinic with a 6-month history of progressive fatigue, unintentional weight loss (10 lbs), and low grade fevers. She also reports night sweats for the past 2 months. Complete blood count reveals leukocytosis (WBC count 15,000/uL) and anemia (hemoglobin 9.2 g/dL). A peripheral blood smear shows 12% blast cells. Bone marrow biopsy reveals 60% myeloblasts. The patient has a history of hypertension and type 2 diabetes. What is the most appropriate next step in management?",
+        "options": [
+            "A) Initiate induction chemotherapy immediately",
+            "B) Start her on hydroxyurea and plan for allogeneic stem cell transplantation",
+            "C) Administer rituximab",
+            "D) Begin her on interferon therapy"
+        ],
+        "correct_answer": "B) Start her on hydroxyurea and plan for allogeneic stem cell transplantation",
+        "reasoning": "This patient's presentation of fatigue, unintentional weight loss, low grade fevers, and night sweats along with leukocytosis, anemia, and increased myeloblasts in the peripheral blood and bone marrow are suggestive of acute myeloid leukemia (AML). First-line treatment for AML in suitable patients is induction chemotherapy. However, this patient's age and comorbidities of hypertension and diabetes place her at higher risk for treatment-related mortality with induction chemotherapy. Therefore, a less intense treatment strategy such as hydroxyurea (which controls leukocytosis) and planning for allogeneic stem cell transplantation is a better option. Option A is not appropriate given her risk factors. Options C (rituximab) and D (interferon therapy) are not first-line treatments for AML.",
+        "context_id": 66,
+        "relevance_score": 0.6793938360228935
+    },
+    {
+        "question": "A 65-year-old male patient with a history of hypertension and smoking presents with sudden onset severe back pain radiating to the abdomen. His vital signs are stable, but he is in severe pain. The pain started 2 hours ago. An urgent CT scan reveals a 7cm infrarenal abdominal aortic aneurysm (AAA). Which is the most appropriate next step?",
+        "options": [
+            "A) Immediate open surgical repair",
+            "B) Endovascular aneurysm repair (EVAR)",
+            "C) Conservative management with analgesics and blood pressure control",
+            "D) Immediate administration of thrombolytic therapy"
+        ],
+        "correct_answer": "B) Endovascular aneurysm repair (EVAR)",
+        "reasoning": "1. EVAR is the preferred treatment for symptomatic or ruptured AAA, particularly in patients who are not good surgical candidates due to age or comorbidities. It is less invasive and has a lower perioperative mortality rate compared to open surgery. 2. Open surgical repair (A) is an option but is associated with higher perioperative morbidity and mortality. 3. Conservative management (C) is not appropriate in this case as the AAA has already reached a large size and is symptomatic, indicating a high risk of rupture. 4. Thrombolytic therapy (D) is not indicated for AAA and could potentially worsen the situation by promoting bleeding. 5. The decision is also influenced by the fact that the patient is symptomatic and the size of the aneurysm which is well above the 5.5 cm threshold for intervention per current guidelines.",
+        "context_id": 67,
+        "relevance_score": 0.6740773425844976
+    },
+    {
+        "question": "A 65-year-old male with a history of type II diabetes and moderate obesity presents to the emergency department with acute onset of severe left-sided abdominal pain. The pain began 6 hours ago and has been progressively worsening. He also reports some mild shortness of breath. His vital signs are: blood pressure 130/85 mmHg, heart rate 105 bpm, respiratory rate 24/min, and oxygen saturation 94% on room air. His laboratory results show a normal white blood cell count, but a CT scan shows a 3.5 cm infrarenal abdominal aortic aneurysm. What is the best next step in management?",
+        "options": [
+            "A) Immediate surgical repair",
+            "B) Outpatient follow-up and lifestyle modifications",
+            "C) Administration of intravenous beta blockers and nitroprusside",
+            "D) Endovascular repair in 48 hours"
+        ],
+        "correct_answer": "A) Immediate surgical repair",
+        "reasoning": "This patient's severe abdominal pain, along with his history of diabetes and moderate obesity, suggests that he is experiencing a rupturing abdominal aortic aneurysm (AAA). An infrarenal AAA of 3.5 cm is also a risk factor for rupture. Immediate surgical repair is indicated for a ruptured AAA, as it is a life-threatening condition. Option B is incorrect because this is an emergency situation that requires immediate intervention. Option C, while it may help control his blood pressure, does not address the underlying issue of the rupturing AAA. Finally, Option D is also inappropriate because waiting 48 hours for endovascular repair could lead to fatal outcomes in a patient with a suspected rupturing AAA.",
+        "context_id": 68,
+        "relevance_score": 0.6877203188374446
+    },
+    {
+        "question": "A 63-year-old male smoker presents with a 1-week history of increased shortness of breath and dry cough. He also reports unintentional weight loss over the past three months. Chest X-ray reveals a 3cm mass in the right upper lobe. His medical history is significant for type 2 diabetes and hypertension. His HbA1c level is 8.0%, and his blood pressure is 145/90mmHg. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical resection of the lung mass",
+            "B) Initiation of antibiotic therapy for suspected pneumonia",
+            "C) Biopsy of the lung mass",
+            "D) Initiation of insulin therapy for diabetes"
+        ],
+        "correct_answer": "C",
+        "reasoning": "Given the patient's history of smoking, the presence of a lung mass, and systemic symptoms such as weight loss, the clinical suspicion for lung cancer is high. Therefore, the next step is to confirm the diagnosis with a biopsy of the lung mass. Option A is incorrect because surgical resection should not be attempted until a definitive diagnosis is made. Option B is not appropriate because there are no signs of infection (e.g., fever, purulent sputum). Option D is a reasonable choice in the long term, but not the most urgent given the suspicion of lung cancer. Although the patient's diabetes and hypertension need to be controlled, the potential lung cancer takes precedence.",
+        "context_id": 69,
+        "relevance_score": 0.6799682922417258
+    },
+    {
+        "question": "A 62-year-old female with a history of type 2 diabetes and hypertension presents with acute onset of severe left flank pain radiating to the groin, nausea, and vomiting for the last 6 hours. Her vital signs reveal a blood pressure of 160/90 mmHg, heart rate of 98 bpm, respiratory rate of 18/min, and temperature of 37.2\u00b0C. Her physical examination is significant for left costovertebral angle tenderness. A non-contrast CT of the abdomen and pelvis shows a 6mm left ureteral stone with moderate hydronephrosis. Her blood reports show a creatinine of 1.2mg/dL (baseline 0.9mg/dL). Considering her clinical presentation and findings, what is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical intervention",
+            "B) Trial of medical expulsion therapy",
+            "C) Placement of a ureteral stent",
+            "D) Intravenous hydration and analgesics"
+        ],
+        "correct_answer": "B) Trial of medical expulsion therapy",
+        "reasoning": "This patient's presentation is consistent with ureterolithiasis (kidney stone). The initial management is hydration, pain control, and medical expulsion therapy (MET) with alpha-blockers, which has been shown to increase the stone expulsion rate, decrease time to stone expulsion, and reduce pain. MET is particularly effective in stones >5mm, like in this patient's case. With moderate hydronephrosis and a mildly elevated creatinine level, this patient does not have severe obstructive uropathy requiring urgent intervention (option A and C). Although hydration and analgesics (option D) are important for symptomatic relief, they do not facilitate stone expulsion like MET does.",
+        "context_id": 71,
+        "relevance_score": 0.6801415489696301
+    },
+    {
+        "question": "A 62-year-old male with a history of type 2 diabetes and hypertension presents to the emergency department with sudden onset of severe, tearing chest pain radiating to the back and dyspnea that started 2 hours ago. His vitals show blood pressure of 180/110 mmHg, heart rate of 110 bpm, respiratory rate of 25 breaths per minute and oxygen saturation of 92% on room air. His ECG shows no evidence of ST-segment changes. Chest X-ray shows mediastinal widening. What is the most appropriate step in the management of this patient?",
+        "options": [
+            "A) Immediate administration of IV nitroglycerin and beta-blockers",
+            "B) Urgent coronary angiography",
+            "C) Immediate surgical consultation for possible aortic dissection",
+            "D) Administration of thrombolytic therapy"
+        ],
+        "correct_answer": "C",
+        "reasoning": "This patient's sudden onset of severe, tearing chest pain radiating to the back, hypertension, and radiographic evidence of mediastinal widening are suggestive of aortic dissection, a life-threatening condition that requires immediate surgical consultation. A) IV nitroglycerin and beta-blockers are used in the management of myocardial infarction, but they are not the first-line treatment for aortic dissection. While beta-blockers are administered in aortic dissection to reduce shear stress, nitroglycerin is avoided as it can lead to reflex tachycardia, which increases aortic wall stress. B) Urgent coronary angiography is indicated in patients with unstable angina or myocardial infarction, not aortic dissection. D) Thrombolytic therapy is used in the management of acute ischemic stroke and myocardial infarction, not aortic dissection. It could be catastrophic in the setting of aortic dissection as it could precipitate rupture.",
+        "context_id": 72,
+        "relevance_score": 0.6858424048045809
+    },
+    {
+        "question": "A 45-year-old male with a history of intravenous drug use presents to the emergency department with severe shortness of breath and chest pain that began suddenly an hour ago. He is tachypneic, with a respiratory rate of 30/min, heart rate of 130 bpm, blood pressure of 90/60 mmHg, and oxygen saturation of 88% on room air. His temperature is 38.2\u00b0C. On physical examination, you hear a diastolic murmur best heard at the left sternal border. His chest X-ray shows increased cardiac silhouette. Blood cultures are drawn, and they later confirm Staphylococcus aureus bacteremia. Given this presentation, what is the most appropriate next step in management?",
+        "options": [
+            "A) Begin intravenous antibiotics and admit to the hospital",
+            "B) Begin intravenous antibiotics, perform a transthoracic echocardiogram, and admit to the hospital",
+            "C) Begin intravenous antibiotics, perform a transesophageal echocardiogram, and admit to the hospital",
+            "D) Begin intravenous antibiotics, perform percutaneous coronary intervention, and admit to the hospital"
+        ],
+        "correct_answer": "C) Begin intravenous antibiotics, perform a transesophageal echocardiogram, and admit to the hospital",
+        "reasoning": "The patient's history, physical examination, and positive blood cultures are indicative of infective endocarditis (IE), likely secondary to Staphylococcus aureus, a common cause of acute IE, especially in intravenous drug users. The presence of severe symptoms including high fever, severe shortness of breath, and hypotension, along with imaging findings suggestive of cardiac involvement, would make one suspect an acute and severe illness. In this setting, transesophageal echocardiogram (TEE) is more sensitive than transthoracic echocardiogram (TTE) for the detection of valvular vegetations, abscesses, and other complications of IE. Therefore, option C is the most appropriate, as it includes both initiation of antibiotic treatment and performance of TEE to evaluate the extent of the disease. Option A lacks the necessary diagnostic step. Option B includes a less sensitive diagnostic tool. Option D includes an inappropriate intervention (percutaneous coronary intervention), which is not indicated in this case, as the patient's presentation is more suggestive of IE rather than acute coronary syndrome.",
+        "context_id": 73,
+        "relevance_score": 0.6855979661097686
+    },
+    {
+        "question": "A 72-year-old male patient with a history of type 2 diabetes mellitus, hypertension, and chronic kidney disease stage 3 presents with an acute onset of severe abdominal pain since morning. He reports severe, generalized abdominal pain with no obvious relieving or exacerbating factors. He also reports nausea but no vomiting. His pulse rate is 100 bpm and blood pressure is 160/90 mmHg. On examination, his abdomen is distended and diffusely tender with rebound tenderness. Laboratory findings reveal a raised white cell count of 15,000 per microliter and a serum lactate of 4 mmol/L. An abdominal CT scan reveals thickening and dilatation of the small intestine with gas-fluid levels. Which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical consultation for possible bowel resection",
+            "B) Conservative management with intravenous fluids and bowel rest",
+            "C) Administration of broad-spectrum antibiotics and observation",
+            "D) Endoscopic decompression"
+        ],
+        "correct_answer": "A) Immediate surgical consultation for possible bowel resection",
+        "reasoning": "The patient's presentation is suggestive of small bowel obstruction (SBO) with signs of peritonitis (distended abdomen, diffuse tenderness, rebound tenderness) and systemic inflammation (raised white cell count, elevated serum lactate), indicating possible bowel ischemia and perforation. Immediate surgical consultation for possible bowel resection is necessary, as this is a surgical emergency. B) Conservative management with IV fluids and bowel rest is appropriate for uncomplicated SBO, but not in the presence of signs of peritonitis or sepsis. C) Administration of broad-spectrum antibiotics and observation may be beneficial in cases of localized infection or abscess formation, but not in the setting of a possible surgical emergency. D) Endoscopic decompression could be considered in cases of large bowel obstruction or selected cases of SBO without signs of peritonitis or sepsis.",
+        "context_id": 74,
+        "relevance_score": 0.6802405094106406
+    },
+    {
+        "question": "A 52-year-old female with a history of hypertension, diabetes, and hyperlipidemia presents with a sudden onset of severe chest pain. The pain started 30 minutes ago and is radiating to her left shoulder and jaw. She also reports nausea, diaphoresis, and shortness of breath. Her ECG shows ST-elevation in leads II, III, and aVF. Her troponin levels are elevated. Given this clinical scenario, what is the most appropriate next step in management?",
+        "options": [
+            "A) Administer nitroglycerin sublingually and observe",
+            "B) Initiate thrombolytic therapy immediately",
+            "C) Arrange for immediate percutaneous coronary intervention (PCI)",
+            "D) Administer intravenous beta-blockers and observe"
+        ],
+        "correct_answer": "C",
+        "reasoning": "This patient's presentation is consistent with an acute ST-elevation myocardial infarction (STEMI), which is a medical emergency. The timing of symptom onset is critical; the sooner reperfusion can be achieved, the better the prognosis. Thrombolytics (option B) can be considered when PCI is not available or if there will be a significant delay, but they have a higher risk of intracranial hemorrhage compared to PCI. Sublingual nitroglycerin (option A) and intravenous beta-blockers (option D) can help with symptom control but do not address the underlying problem of coronary artery occlusion. Therefore, immediate PCI (option C) is the best choice, as recommended by recent guidelines, because it provides the most effective reperfusion strategy for STEMI.",
+        "context_id": 75,
+        "relevance_score": 0.6776457018335416
+    },
+    {
+        "question": "A 65-year-old female with a history of hypertension and type 2 diabetes presents with a 2-day history of fever, cough, and dyspnea. She has a temperature of 38.5\u00b0C, heart rate of 120 bpm, and oxygen saturation of 92% on room air. Chest X-ray reveals bilateral infiltrates. Her lab results show a WBC count of 13,000/\u00b5L, a CRP of 120 mg/L, a D-dimer of 1000 ng/mL, and a serum glucose level of 250 mg/dL. What is the most appropriate course of action?",
+        "options": [
+            "A) Immediate admission to the ICU for mechanical ventilation",
+            "B) Administration of broad-spectrum antibiotics and supportive care in the medical ward",
+            "C) Administration of insulin to control hyperglycemia and discharge with oral antibiotics",
+            "D) Immediate administration of antiviral medication and outpatient follow-up"
+        ],
+        "correct_answer": "B",
+        "reasoning": "1. This patient's presentation is suggestive of severe community-acquired pneumonia, which warrants hospital admission and the initiation of broad-spectrum antibiotics. 2. Mechanical ventilation (option A) is not necessary at this stage as the patient's oxygen saturation is above 90%. 3. While controlling her hyperglycemia is important (option C), it is not the primary issue requiring immediate attention. She should not be discharged given her severe symptoms and risk of deterioration. 4. There is no clear indication for antiviral medication (option D), as the patient's symptoms and imaging findings are more consistent with bacterial pneumonia. 5. The decision to admit the patient and start antibiotics is informed by her risk factors, clinical presentation, and the severity of her illness.",
+        "context_id": 76,
+        "relevance_score": 0.681443483803359
+    },
+    {
+        "question": "A 48-year-old obese woman with a history of hypertension presents to the ER with severe abdominal pain that started suddenly 2 hours ago. The pain is in her right upper quadrant and radiates to her back. She is nauseous and has vomited twice. Her blood pressure is 150/95 mmHg, heart rate is 110 bpm, and her temperature is 38.5\u00b0C (101.3\u00b0F). Lab findings show leukocytosis and her serum amylase is 990 U/L. An abdominal ultrasound reveals gallstones and a dilated common bile duct. How should this patient be managed?",
+        "options": [
+            "A) Immediate laparoscopic cholecystectomy",
+            "B) ERCP followed by laparoscopic cholecystectomy in the same hospitalization",
+            "C) Conservative treatment with antibiotics and analgesics",
+            "D) Immediate ERCP without subsequent cholecystectomy"
+        ],
+        "correct_answer": "B) ERCP followed by laparoscopic cholecystectomy in the same hospitalization",
+        "reasoning": "This scenario describes a patient presenting with acute pancreatitis secondary to gallstones, also known as gallstone pancreatitis. The presenting symptoms, elevated amylase, and ultrasound findings are suggestive of this diagnosis. According to the American College of Gastroenterology guidelines, initial management should be conservative, with goal-directed fluid resuscitation, pain control, and nutritional support. However, once gallstone pancreatitis is diagnosed, definitive management of the gallstones is necessary to prevent recurrence. The optimal management of gallstone pancreatitis with cholangitis or a dilated common bile duct on imaging is ERCP within 24-48 hours of admission followed by cholecystectomy during the same hospitalization (option B). Immediate cholecystectomy (option A) is not recommended as ERCP is preferred first in the presence of cholangitis or a dilated common bile duct. Conservative treatment alone (option C) is not adequate as it does not address the cause of the pancreatitis. Immediate ERCP without subsequent cholecystectomy (option D) is not the optimal approach as it leaves the gallbladder in place, which can lead to further episodes of gallstone pancreatitis.",
+        "context_id": 77,
+        "relevance_score": 0.6836237650128871
+    },
+    {
+        "question": "A 65-year-old male with a history of Type 2 Diabetes presents to the emergency department with recurrent episodes of right upper quadrant pain, fever, and chills that have been worsening over the past five days. His laboratory results show WBC of 12,000/uL, mildly elevated liver enzymes, and direct bilirubin of 2.2 mg/dL. An ultrasound of the abdomen reveals gallstones and a thickened gallbladder wall. Which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate laparoscopic cholecystectomy",
+            "B) Administration of IV antibiotics and cholecystectomy in 6 weeks",
+            "C) Administration of IV antibiotics and percutaneous cholecystostomy",
+            "D) Supportive care with analgesics and fluids"
+        ],
+        "correct_answer": "C) Administration of IV antibiotics and percutaneous cholecystostomy",
+        "reasoning": "The patient's symptoms, laboratory findings, and imaging results are suggestive of acute cholecystitis secondary to gallstones. 1. Immediate laparoscopic cholecystectomy (Option A) is the treatment of choice for most patients with acute cholecystitis. However, in high-risk patients such as this patient with advanced age and diabetes, percutaneous cholecystostomy with IV antibiotics (Option C) is preferred as it is less invasive and has fewer complications. 2. Delayed cholecystectomy (Option B) is usually reserved for patients who improve after initial treatment with IV antibiotics. 3. Supportive care (Option D) is inadequate for this patient with a likely infection.",
+        "context_id": 78,
+        "relevance_score": 0.6748188996283541
+    },
+    {
+        "question": "A 58-year-old postmenopausal woman with a history of hypothyroidism presents with sudden onset of right upper quadrant abdominal pain for the past 5 hours, radiating to the back. She reports the pain is severe, similar to biliary colic which she experienced 8 years ago. On examination, her vitals are stable, and she has tenderness in the right hypochondrium. Lab tests show a white cell count of 12000/mm3 and serum amylase of 1200 U/L. Ultrasound reveals gallbladder wall thickening with pericholecystic fluid, but no gallstones. What is the most appropriate next step in management?",
+        "options": [
+            "A) Intravenous antibiotics and laparoscopic cholecystectomy",
+            "B) Endoscopic retrograde cholangiopancreatography (ERCP)",
+            "C) Intravenous fluids and analgesics",
+            "D) Immediate surgical exploration"
+        ],
+        "correct_answer": "A) Intravenous antibiotics and laparoscopic cholecystectomy",
+        "reasoning": "The patient's presentation is consistent with acute acalculous cholecystitis (AAC), inflammation of the gallbladder without gallstones, a condition often seen in critically ill or fasting patients. The key factors supporting AAC diagnosis are the acute onset of severe right upper quadrant pain, leukocytosis, elevated amylase, and ultrasound findings. The treatment of choice is intravenous antibiotics and cholecystectomy within 24-72 hours (answer A). ERCP (answer B) is typically reserved for cases where choledocholithiasis (common bile duct stones) is suspected, which is not the case here. While intravenous fluids and analgesics (answer C) are important for symptomatic relief, they do not address the underlying inflammation. Immediate surgical exploration (answer D) is usually not required unless there are signs of gallbladder perforation or gangrene, which are not evident in this case.",
+        "context_id": 79,
+        "relevance_score": 0.6767238490421588
+    },
+    {
+        "question": "A 65-year-old male with a history of diabetes and hypertension presents to the ER with sudden onset of severe chest pain radiating to his left arm. The pain began 30 minutes ago. EKG shows ST-segment elevation in leads II, III, and aVF. His Troponin I levels are elevated at 0.6 ng/mL (normal range: 0.0 - 0.4 ng/mL). What is the most appropriate next step in management?",
+        "options": [
+            "A) Administer a nitrate and observe for symptom relief",
+            "B) Perform immediate percutaneous coronary intervention (PCI)",
+            "C) Start the patient on a beta-blocker and aspirin",
+            "D) Order a coronary angiography to evaluate for possible coronary artery bypass grafting (CABG)"
+        ],
+        "correct_answer": "B) Perform immediate percutaneous coronary intervention (PCI)",
+        "reasoning": "Given the patient's symptoms, EKG changes, and elevated troponin levels, this is very likely an ST-segment elevation myocardial infarction (STEMI), a time-sensitive emergency requiring immediate reperfusion therapy. Immediate PCI is the preferred method for reperfusion if it can be performed within 90 minutes of STEMI diagnosis (Option B). Nitrate administration (Option A) can relieve angina but does not address the underlying occlusion. Starting the patient on beta-blockers and aspirin (Option C) is important but should not delay reperfusion therapy. While coronary angiography (Option D) can provide valuable diagnostic information, it is not first-line in an acute STEMI scenario where immediate reperfusion is crucial.",
+        "context_id": 80,
+        "relevance_score": 0.6766381241344906
+    },
+    {
+        "question": "A 75-year-old male with a history of chronic obstructive pulmonary disease (COPD) and hypertension presents to the emergency department with a 3-day history of worsening dyspnea and cough. His vital signs reveal tachypnea and mild hypoxia with oxygen saturation of 88% on room air. His chest X-ray demonstrates hyperinflation and flattened diaphragms, but no evidence of pneumonia. His arterial blood gas (ABG) shows pH 7.28, PaCO2 60 mmHg, PaO2 55 mmHg, and HCO3 28 mEq/L. What is the best management strategy for this patient?",
+        "options": [
+            "A) Start non-invasive positive pressure ventilation (NIPPV) and bronchodilator therapy",
+            "B) Intubate and start mechanical ventilation",
+            "C) Administer high-dose corticosteroids only",
+            "D) Start oxygen therapy without positive pressure ventilation"
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient's presentation is characteristic of an acute COPD exacerbation with respiratory acidosis, as evidenced by a low pH and elevated PaCO2. The first line of treatment for patients with severe exacerbations (pH <7.35 and/or PaCO2 >45mmHg) includes bronchodilators and systemic corticosteroids. Non-invasive positive pressure ventilation (NIPPV) is also indicated to improve gas exchange and reduce the work of breathing. Option B) is not first-line unless the patient is in severe distress, unresponsive, or cannot protect their airway. Option C) does not address the patient's hypoxia and hypercapnia. Option D) could potentially lead to worsening hypercapnia due to oxygen-induced CO2 retention, a phenomenon seen in some COPD patients.",
+        "context_id": 81,
+        "relevance_score": 0.6934886483869349
+    },
+    {
+        "question": "A 45-year-old female presents to the emergency room with a 2-day history of severe abdominal pain, nausea and vomiting. She has a history of gallstones, but her pain is more severe than usual. Her blood pressure is 110/70 mmHg, pulse rate is 100/minute, respiratory rate is 20/minute and temperature is 38.5\u00b0C. Lab findings include white blood cell count 13,000 /\u00b5L, serum amylase 900 U/L, and serum lipase 1,800 U/L. Abdominal ultrasound reveals gallstones and a dilated common bile duct, but no signs of cholecystitis. What is the most appropriate next step in management?",
+        "options": [
+            "A) Intravenous fluids and analgesics, followed by laparoscopic cholecystectomy",
+            "B) Endoscopic retrograde cholangiopancreatography (ERCP) immediately",
+            "C) Computed tomography (CT) scan of the abdomen to rule out appendicitis",
+            "D) Intravenous antibiotics and urgent surgical consultation for open cholecystectomy"
+        ],
+        "correct_answer": "B) Endoscopic retrograde cholangiopancreatography (ERCP) immediately",
+        "reasoning": "This patient's presentation of severe abdominal pain, nausea, vomiting, fever, leukocytosis, and significantly elevated amylase and lipase is suggestive of acute pancreatitis, most likely secondary to gallstones (ie, gallstone pancreatitis). The presence of a dilated common bile duct on ultrasound further supports choledocholithiasis. The most appropriate next step in the management of gallstone pancreatitis with concurrent choledocholithiasis is ERCP, as it can provide both diagnostic confirmation and therapeutic intervention in the form of stone removal from the common bile duct. Option A is incorrect because although laparoscopic cholecystectomy is the definitive treatment for gallstones, it would not address the immediate problem of the stone in the common bile duct. Option C is incorrect as the clinical presentation and laboratory findings are not consistent with appendicitis. Option D is incorrect because while antibiotics are used in the management of acute pancreatitis when there is evidence of infection (eg, cholangitis), it is not the first step in management.",
+        "context_id": 82,
+        "relevance_score": 0.6787770811901949
+    },
+    {
+        "question": "A 62-year-old male with a history of COPD and smoking presents with worsening dyspnea, productive cough, and fever over the last 3 days. His vitals show a temperature of 38.6\u00b0C, heart rate of 110 bpm, respiratory rate of 26 breaths per minute, and oxygen saturation of 88% on room air. Chest X-ray shows consolidation in the right lower lobe. His WBC count is 14,000/mm3 with a left shift. Which of the following is the appropriate next step in management?",
+        "options": [
+            "A) Start broad-spectrum antibiotics and administer supplemental oxygen",
+            "B) Perform bronchoscopy for culture and sensitivity",
+            "C) Start antiviral treatment immediately",
+            "D) Send sputum for acid-fast bacilli smear and culture and start anti-tuberculous therapy"
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient has a history of COPD, which predisposes him to recurrent respiratory infections. His current symptoms, physical examination findings, and chest X-ray are suggestive of community-acquired pneumonia, a common infection in COPD patients. The standard treatment for community-acquired pneumonia involves empirical antibiotic therapy alongside supportive care, which includes oxygen supplementation in patients with hypoxia. Bronchoscopy (B) is an invasive procedure usually reserved for critically ill patients or those with suspected malignancy, not typical pneumonia. Antiviral therapy (C) is not indicated as there are no specific signs of viral infection. Tuberculosis is typically a chronic disease and does not present acutely as in this case (D). Furthermore, the patient's presentation and imaging findings are not suggestive of tuberculosis.",
+        "context_id": 83,
+        "relevance_score": 0.679021211343092
+    },
+    {
+        "question": "A 72-year-old male patient with a history of chronic obstructive pulmonary disease and hypertension presents to the emergency department with left-sided chest pain and dyspnea. The pain started 4 hours ago and has been gradually increasing. His ECG shows ST-segment elevation in leads II, III, and aVF. His troponin I level is 0.2 ng/mL (normal range: <0.03 ng/mL). He is allergic to aspirin. What is the best course of action?",
+        "options": [
+            "A) Administer aspirin and clopidogrel, and schedule for immediate coronary angiography",
+            "B) Administer clopidogrel only, and schedule for immediate coronary angiography",
+            "C) Administer aspirin and clopidogrel, and observe for symptom resolution",
+            "D) Administer nitroglycerin and observe for symptom resolution"
+        ],
+        "correct_answer": "B) Administer clopidogrel only, and schedule for immediate coronary angiography",
+        "reasoning": "This patient's ECG findings indicate an acute inferior wall myocardial infarction, which is a medical emergency. The first line treatment includes dual antiplatelet therapy (aspirin and a P2Y12 inhibitor such as clopidogrel) and immediate revascularization with percutaneous coronary intervention. However, the patient's aspirin allergy precludes the use of aspirin. Option A is incorrect because it involves administering aspirin, to which the patient is allergic. Option C is inappropriate as it includes aspirin and doesn't involve immediate revascularization, which is crucial in acute myocardial infarction. Option D is clearly incorrect as nitroglycerin alone is not sufficient for treating acute myocardial infarction. Therefore, the best course of action is to administer clopidogrel only and schedule for immediate coronary angiography (Option B).",
+        "context_id": 84,
+        "relevance_score": 0.6773339117362202
+    },
+    {
+        "question": "A 68-year-old male patient presents with sudden onset of severe abdominal pain and vomiting. His medical history includes hypertension, hyperlipidemia, and smoking. His blood pressure is 90/60 mmHg, pulse rate is 120 bpm, and respiratory rate is 22 breaths per minute. An abdominal CT scan shows an infrarenal abdominal aortic aneurysm measuring 8.5 cm with signs of rupture. What is the most appropriate next step in management?",
+        "options": [
+            "A) Initiate conservative management with pain control and blood pressure regulation",
+            "B) Perform endovascular aneurysm repair (EVAR) as soon as possible",
+            "C) Order a repeat CT scan in 6 months to monitor the size of the aneurysm",
+            "D) Start the patient on a statin and antihypertensive medication"
+        ],
+        "correct_answer": "B) Perform endovascular aneurysm repair (EVAR) as soon as possible",
+        "reasoning": "1. In this scenario, the patient is presenting with a ruptured abdominal aortic aneurysm (AAA), a life-threatening condition requiring immediate surgical intervention. Signs of rupture include sudden onset of severe abdominal pain, hypotension, and tachycardia.\n2. Option A is inappropriate because conservative management is not suitable for a ruptured AAA. This condition is a surgical emergency and delaying intervention could lead to death.\n3. Option C is incorrect as it is appropriate for an unruptured AAA that is less than 5.5 cm in size. However, in the case of a ruptured AAA, immediate intervention is required.\n4. Option D is inadequate because while these medications are important in managing the patient's comorbidities, they will not address the immediate life-threatening condition. \n5. According to the American College of Cardiology and American Heart Association (ACC/AHA) guidelines, a ruptured AAA requires immediate surgical repair, and endovascular repair is preferred over open repair when anatomically feasible due to lower perioperative morbidity and mortality.",
+        "context_id": 85,
+        "relevance_score": 0.6759113229441266
+    },
+    {
+        "question": "A 50-year-old woman presents to the emergency department with severe, sudden onset abdominal pain. She rates the pain as 10/10, and says it began after eating a large, fatty meal. Her medical history includes obesity, hyperlipidemia, and diabetes. She is tachycardic and hypertensive on arrival. Lab tests reveal elevated levels of serum amylase and lipase. An ultrasound shows gallstones and a dilated common bile duct. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate laparoscopic cholecystectomy",
+            "B) Endoscopic retrograde cholangiopancreatography (ERCP) followed by laparoscopic cholecystectomy within 48 hours",
+            "C) Administration of pain medication and scheduled cholecystectomy in 6 weeks",
+            "D) Intravenous hydration and antibiotics only"
+        ],
+        "correct_answer": "B) Endoscopic retrograde cholangiopancreatography (ERCP) followed by laparoscopic cholecystectomy within 48 hours",
+        "reasoning": "This patient's severe abdominal pain, history of consuming a large, fatty meal, and the presence of gallstones and a dilated common bile duct on ultrasound suggest a diagnosis of gallstone pancreatitis. The elevated amylase and lipase levels confirm this diagnosis. In gallstone pancreatitis, ERCP is often performed first to remove the stone from the common bile duct and relieve the obstruction, followed by cholecystectomy within 48 hours to prevent recurrence. Option A is incorrect because it skips the important step of ERCP to relieve the obstruction. Option C is incorrect because it unnecessarily delays definitive treatment, and Option D is incorrect because it only treats the symptoms and not the underlying cause.",
+        "context_id": 86,
+        "relevance_score": 0.6741843720070918
+    },
+    {
+        "question": "A 68-year-old male with a history of chronic obstructive pulmonary disease (COPD), hypertension and chronic kidney disease presents to the emergency department with acute onset of severe dyspnea, productive cough with yellowish sputum and high-grade fever for the past 3 days. His vital signs are: BP 90/60 mmHg, heart rate 120 bpm, respiratory rate 30/min and oxygen saturation 86% on room air. Physical examination reveals decreased breath sounds in the right lung base. Chest x-ray shows right lower lobe consolidation. Complete blood count shows a white blood cell count of 18,000 /mm3. What is the most appropriate next step in management?",
+        "options": [
+            "A) Administer intravenous antibiotics and provide supportive care",
+            "B) Initiate mechanical ventilation immediately",
+            "C) Prescribe oral antibiotics and discharge home",
+            "D) Administer nebulized bronchodilators only"
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient's presentation of acute onset fever, productive cough and focal consolidation on chest x-ray suggests community-acquired pneumonia (CAP). Given the patient's vital signs (e.g., hypotension, tachycardia, tachypnea, hypoxia) and comorbid conditions, he is at risk for severe CAP and should be admitted to the hospital for treatment with intravenous antibiotics and supportive care (Option A). Immediate mechanical ventilation (Option B) is not indicated unless the patient's respiratory status deteriorates. Discharging the patient home with oral antibiotics (Option C) is inappropriate given his severe presentation. Nebulized bronchodilators (Option D) may be beneficial for his underlying COPD but do not address his primary issue of bacterial pneumonia.",
+        "context_id": 87,
+        "relevance_score": 0.6902403176640358
+    },
+    {
+        "question": "A 70-year-old female, with a history of hypertension and type 2 diabetes, presents with acute onset of right-sided weakness and facial droop that started 90 minutes ago. Her glucose level is 300 mg/dl, and CT scan shows no signs of intracranial hemorrhage. She has no known drug allergies. What is the best course of action?",
+        "options": [
+            "A) Start her on insulin immediately and monitor her glucose levels",
+            "B) Administer IV alteplase (tPA) immediately",
+            "C) Wait for her glucose levels to normalize before administering any treatment",
+            "D) Transfer the patient to a facility with neurosurgery capabilities"
+        ],
+        "correct_answer": "B",
+        "reasoning": "The patient's symptoms and timeline are consistent with an acute ischemic stroke. In such cases, immediate administration of IV alteplase (tPA) is crucial if there are no contraindications, which includes no evidence of hemorrhage on CT scan in this case. It is not necessary to wait for glucose level normalization (Option C) or transfer to a neurosurgery facility (Option D) as these will delay treatment. Controlling glucose levels (Option A) is part of comprehensive management, but it is not the immediate priority in acute stroke.",
+        "context_id": 88,
+        "relevance_score": 0.678173529135928
+    },
+    {
+        "question": "A 55-year-old woman with a history of hypertension and type 2 diabetes presents with a 3-day history of fever, cough, and shortness of breath. Her oxygen saturation is 92% on room air, and chest X-ray shows bilateral infiltrates. Lab findings include a white blood cell count of 12,000/\u00b5L, lymphocyte count of 800/\u00b5L, and C-reactive protein of 100 mg/L. Given the current COVID-19 pandemic, what is the most appropriate next step in management?",
+        "options": [
+            "A) Start her on broad-spectrum antibiotics and admit to the hospital",
+            "B) Prescribe azithromycin and hydroxychloroquine and discharge home",
+            "C) Obtain a SARS-CoV-2 PCR test and isolate at home while awaiting results",
+            "D) Perform bronchoscopy to obtain a sample for bacterial and viral cultures"
+        ],
+        "correct_answer": "C",
+        "reasoning": "This patient's presentation is consistent with COVID-19, and she should be tested and isolated until results return. Option A is incorrect because although bacterial pneumonia could present similarly, the patient's symptoms and X-ray findings are more suggestive of viral pneumonia. Option B is incorrect because although azithromycin and hydroxychloroquine were initially used in COVID-19 treatment, recent studies have shown that they are ineffective and possibly harmful. Option D is incorrect because bronchoscopy is an aerosol-generating procedure that should be avoided due to the risk of spreading the virus. Furthermore, bacterial and viral cultures are not typically necessary in suspected COVID-19 cases.",
+        "context_id": 89,
+        "relevance_score": 0.693357954993085
+    },
+    {
+        "question": "A 65-year-old female with a history of hypertension, type 2 diabetes, and stage 3 chronic kidney disease (CKD) presents with recent onset of fatigue, pallor, and shortness of breath. Lab results show hemoglobin of 9 g/dL, hematocrit of 27%, and serum erythropoietin level of 15 mU/mL (normal range: 4-26 mU/mL). What would be the best next step in the management of this patient?",
+        "options": [
+            "A) Start intravenous iron supplementation",
+            "B) Initiate erythropoiesis-stimulating agent (ESA) therapy",
+            "C) Perform a bone marrow biopsy",
+            "D) Start oral iron supplementation"
+        ],
+        "correct_answer": "B",
+        "reasoning": "1. This patient's anemia, fatigue, and shortness of breath are likely due to decreased erythropoietin production secondary to CKD. Although her erythropoietin level is within the normal range, it is inappropriately low for the degree of anemia, as patients with CKD often need higher levels to maintain normal hemoglobin. Therefore, initiating ESA therapy is the most appropriate next step. 2. Intravenous iron supplementation (option A) and oral iron supplementation (option D) would be appropriate if there were signs of iron deficiency, but there is no mention of such in the scenario. A bone marrow biopsy (option C) would be indicated if there were suspicion of a primary bone marrow disorder, but this is less likely given the patient's history of CKD and the presentation. 3. The key clinical factors include the patient's CKD, anemia, and symptoms of fatigue and shortness of breath. 4. This is in line with the Kidney Disease: Improving Global Outcomes (KDIGO) guidelines, which recommend considering ESA therapy for anemic patients with stage 3 or higher CKD who have symptoms attributable to their anemia.",
+        "context_id": 90,
+        "relevance_score": 0.6775575055532952
+    },
+    {
+        "question": "A 67-year-old woman with a history of hypertension and diabetes presents with a 6-hour history of severe chest pain, radiating to the left arm. Her EKG shows ST-segment elevation in leads II, III, and aVF. Her Troponin-I levels are significantly elevated at 0.40 ng/mL (normal <0.04 ng/mL). She is allergic to aspirin. What is the most appropriate next step in management?",
+        "options": [
+            "A) Administer clopidogrel and start heparin infusion",
+            "B) Perform immediate percutaneous coronary intervention (PCI)",
+            "C) Administer nitroglycerin and morphine",
+            "D) Perform coronary artery bypass graft (CABG) surgery"
+        ],
+        "correct_answer": "B) Perform immediate percutaneous coronary intervention (PCI)",
+        "reasoning": "The patient is presenting with an acute ST-segment elevation myocardial infarction (STEMI), which is a medical emergency. The optimal management is immediate reperfusion therapy, which can be achieved via thrombolytics or percutaneous coronary intervention (PCI). As per the guidelines, PCI is preferred if it can be performed within 90 minutes of diagnosis. While clopidogrel (option A) is an important adjunctive therapy in STEMI, it is not sufficient as monotherapy. Nitroglycerin and morphine (option C) can provide symptomatic relief but do not address the underlying pathology. Coronary artery bypass graft (CABG) (option D) is usually reserved for patients with multi-vessel disease, left main coronary artery disease, or those not amenable to PCI.",
+        "context_id": 91,
+        "relevance_score": 0.6730311348035449
+    },
+    {
+        "question": "A 68-year-old male with a history of hypertension, type 2 diabetes, and hyperlipidemia presents with sudden onset of severe chest pain radiating to the left arm, diaphoresis, and shortness of breath starting 45 minutes ago. His EKG reveals ST segment elevations in leads II, III, and aVF. His troponin levels are at 0.03 ng/mL (normal: <0.01 ng/mL). Given his presentation and the results, what should be the next step in his management?",
+        "options": [
+            "A) Administer nitroglycerin and monitor",
+            "B) Start him on beta-blockers and statins",
+            "C) Immediate percutaneous coronary intervention (PCI)",
+            "D) Arrange for stress test"
+        ],
+        "correct_answer": "C",
+        "reasoning": "Given the patient's acute onset chest pain, positive EKG findings, and elevated troponin levels, he is likely suffering from an ST-elevation myocardial infarction (STEMI). According to the American Heart Association and American College of Cardiology guidelines, immediate reperfusion therapy with primary percutaneous coronary intervention (PCI) is the treatment of choice if it can be performed within 90-120 minutes of first medical contact. Option A is incorrect because while nitroglycerin can alleviate chest pain, it does not address the underlying issue of coronary artery blockage. Option B is incorrect because although beta-blockers and statins are part of the long-term management of coronary artery disease, they are not the immediate treatment for a STEMI. Option D is incorrect because a stress test is not appropriate in an acute setting of a STEMI.",
+        "context_id": 92,
+        "relevance_score": 0.6777284607411802
+    },
+    {
+        "question": "A 48-year-old male patient presents to the emergency department with sudden onset of severe chest pain that started 2 hours ago. The pain is localized in the middle of the chest and radiates to the left arm. He is a smoker and has a family history of heart disease. His ECG shows ST-segment elevation in leads II, III, and aVF. His troponin levels are elevated. He is also hypertensive and his blood pressure is 170/95 mm Hg. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate coronary angiography followed by percutaneous coronary intervention (PCI)",
+            "B) Administration of thrombolytic therapy",
+            "C) Initiation of antihypertensive medication to lower blood pressure",
+            "D) Administration of nitroglycerin and observation"
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient's clinical picture is suggestive of an acute ST-segment elevation myocardial infarction (STEMI), which is a medical emergency. Given the specific ECG findings and the elevated troponin levels, the mainstay of treatment for STEMI is reperfusion therapy. The preferred method is primary PCI, which should be performed as soon as possible, ideally within 90 minutes of first medical contact. Option B, thrombolytic therapy, is used when primary PCI is not available or cannot be performed within the recommended timeframe. Option C, antihypertensive therapy, is not the priority in this acute setting, although blood pressure management is important in the long-term care of these patients. Option D, nitroglycerin and observation, is not sufficient management for a STEMI.",
+        "context_id": 93,
+        "relevance_score": 0.679717076267285
+    },
+    {
+        "question": "A 67-year-old male patient with a history of hypertension and type 2 diabetes presents to the emergency department (ED) with sudden onset of severe chest pain, diaphoresis, and shortness of breath that started 2 hours ago. His ECG shows ST-segment elevation in leads II, III, and aVF. His Troponin I level is 4.5 ng/mL (normal: <0.04 ng/mL). Given the patient's history and current condition, which of the following is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate percutaneous coronary intervention (PCI)",
+            "B) Start a nitroglycerin drip and admit to the cardiac care unit for observation",
+            "C) Admit to the hospital and schedule for elective coronary angiography in the morning",
+            "D) Administer thrombolytic therapy"
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient's presentation is consistent with an acute ST-segment elevation myocardial infarction (STEMI), which is a medical emergency. According to the American Heart Association guidelines, the preferred treatment for STEMI if the onset of symptoms is within the past 12 hours and there are no contraindications, is immediate reperfusion with PCI if it can be performed within 90 minutes of first medical contact. Option B is not appropriate as the patient needs urgent reperfusion therapy, not just symptom relief. Option C is not suitable because the delay could result in further damage to the myocardium. Option D (thrombolytic therapy) could be considered if PCI is not available within the recommended time frame, but in this case, the patient is in the ED and PCI is presumably available.",
+        "context_id": 94,
+        "relevance_score": 0.6770268828568179
+    },
+    {
+        "question": "A 64-year-old male with a history of hypertension and hyperlipidemia presents to the emergency department with sudden onset of severe chest pain radiating to his left arm. The pain started 2 hours ago while he was mowing the lawn. His BP is 150/90 mmHg, pulse 110 bpm, and respirations 22/min. An EKG shows ST elevation in leads II, III, and aVF. His Troponin I levels are significantly elevated. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate percutaneous coronary intervention (PCI)",
+            "B) Thrombolytic therapy",
+            "C) Observation and medical management",
+            "D) Urgent coronary artery bypass grafting (CABG)"
+        ],
+        "correct_answer": "A",
+        "reasoning": "This patient's presentation with severe chest pain, EKG changes, and elevated troponin levels is consistent with an ST-elevation myocardial infarction (STEMI). Given the time sensitivity of the situation and the superior outcomes, immediate PCI is the treatment of choice if it can be performed within 90-120 minutes of first medical contact. Option B (Thrombolytic therapy) may be considered if PCI is not available or there are delays, but it is not the optimal choice. Option C (Observation and medical management) is inappropriate given the acute nature of his condition. Option D (Urgent CABG) is typically reserved for patients with left main disease, significant three-vessel disease, or failed PCI.",
+        "context_id": 95,
+        "relevance_score": 0.6777431081922014
+    },
+    {
+        "question": "A 52-year-old male with a history of heavy smoking and chronic obstructive pulmonary disease presents to the emergency department with sudden onset of severe chest pain radiating to the back, started 2 hours ago. His blood pressure is 210/120 mmHg and heart rate is 110 bpm. An ECG shows no ST segment elevation. His troponin levels are within normal limits but D-dimer is significantly elevated. The patient's chest X-ray is normal. What is the most likely diagnosis and what is the best next step in management?",
+        "options": [
+            "A) Acute coronary syndrome, initiate anticoagulation and plan for coronary angiography",
+            "B) Acute aortic dissection, administer beta-blocker and arrange for CT angiography of chest",
+            "C) Pulmonary embolism, start anticoagulation and perform CT pulmonary angiogram",
+            "D) Hypertensive emergency, administer nitroglycerin and monitor in ICU"
+        ],
+        "correct_answer": "B",
+        "reasoning": "This patient's sudden severe chest pain, history of hypertension, and elevated D-dimer suggest acute aortic dissection, a life-threatening emergency that requires immediate intervention. Beta-blockers are given initially to reduce blood pressure and shear stress on the aortic wall, and CT angiography is the diagnostic test of choice. Option A is incorrect as the patient's ECG and troponin are normal. Option C is less likely given the patient's chest pain pattern and normal chest X-ray. Option D is incorrect as hypertensive emergency usually presents with end-organ damage which is not evident in this case.",
+        "context_id": 96,
+        "relevance_score": 0.6782866164302539
+    },
+    {
+        "question": "A 58-year-old male with a history of chronic obstructive pulmonary disease (COPD) presents to the emergency department with severe dyspnea, confusion, and increased respiratory effort. His vitals are: BP 110/70 mmHg, HR 130 bpm, RR 32/min, SpO2 82% on room air. ABG shows pH 7.25, PaCO2 68 mmHg, PaO2 52 mmHg, HCO3 24 mEq/L. Which of the following is the most appropriate initial management?",
+        "options": [
+            "A) Noninvasive positive pressure ventilation (NIPPV)",
+            "B) Intravenous corticosteroids",
+            "C) Oxygen therapy with nasal cannula",
+            "D) Endotracheal intubation and mechanical ventilation"
+        ],
+        "correct_answer": "A) Noninvasive positive pressure ventilation (NIPPV)",
+        "reasoning": "This patient presents with severe COPD exacerbation characterized by hypercapnic respiratory failure (PaCO2 >45 mmHg) and acidemia (pH <7.35). NIPPV is the initial management of choice for acute hypercapnic respiratory failure due to COPD exacerbation. It reduces the work of breathing, improves gas exchange, and reduces the need for endotracheal intubation. B) Intravenous corticosteroids are part of the treatment plan for COPD exacerbations, but not the initial step in a patient with hypercapnic respiratory failure. C) Oxygen therapy alone without the use of positive pressure ventilation is likely insufficient in this patient with severe dyspnea and hypercapnia. D) Invasive mechanical ventilation is reserved for those who fail NIPPV or have contraindications to it (eg, respiratory arrest, uncooperative or agitated patient, copious secretions).",
+        "context_id": 97,
+        "relevance_score": 0.6784706447624365
+    },
+    {
+        "question": "A 52-year-old male smoker presents with a two-day history of right-sided chest pain, shortness of breath, and a productive cough with purulent sputum. His vitals show a heart rate of 110 bpm and oxygen saturation of 92% on room air. Lab findings reveal leukocytosis and a chest x-ray shows right lower lobe consolidation. He also has a history of chronic obstructive pulmonary disease (COPD). Which is the best course of treatment?",
+        "options": [
+            "A) Prescribe Amoxicillin and recommend rest",
+            "B) Administer intravenous (IV) Ceftriaxone and Azithromycin, and hospitalize the patient",
+            "C) Prescribe Doxycycline and discharge the patient",
+            "D) Initiate high-dose corticosteroids and hospitalize the patient"
+        ],
+        "correct_answer": "B) Administer intravenous (IV) Ceftriaxone and Azithromycin, and hospitalize the patient",
+        "reasoning": "The patient's symptoms, imaging, and lab findings are suggestive of community-acquired pneumonia (CAP). Given his COPD and hypoxia, he falls into the category of severe CAP as per the CURB-65 severity score. This requires inpatient treatment with IV antibiotics - typically a combination of a beta-lactam like Ceftriaxone and a macrolide like Azithromycin. Option A is inappropriate as monotherapy with Amoxicillin is insufficient for severe CAP. Option C is incorrect because oral Doxycycline is used for outpatient treatment of mild CAP. Option D is wrong as corticosteroids alone are not the mainstay treatment for CAP, though they may be used as an adjunct in severe cases or in patients with a COPD exacerbation.",
+        "context_id": 98,
+        "relevance_score": 0.6814174890732293
+    },
+    {
+        "question": "A 67-year-old obese man with a history of uncontrolled Diabetes Mellitus type 2 presents to the emergency department with severe abdominal pain, nausea, and vomiting. The pain started suddenly 3 hours ago, is located in the epigastric area and radiates straight to the back. His blood glucose level is 350 mg/dL and serum lipase is 980 U/L. An abdominal CT scan shows inflammation and necrosis of the pancreas. What is the most appropriate next step in managing this patient?",
+        "options": [
+            "A) Immediate surgical intervention",
+            "B) Aggressive IV fluid resuscitation and analgesia",
+            "C) Administration of insulin and oral hypoglycemic agents",
+            "D) Administration of antibiotics"
+        ],
+        "correct_answer": "B",
+        "reasoning": "1. The patient's symptoms, elevated lipase, and CT findings are consistent with acute pancreatitis, likely secondary to hypertriglyceridemia from poorly controlled diabetes. The most important initial management in acute pancreatitis is aggressive hydration as it has been shown to improve outcomes and decrease complications, including pancreatic necrosis and mortality. Analgesia is also important to control severe pain. 2. Surgical intervention (option A) is not indicated in the initial management of acute pancreatitis. Insulin and oral hypoglycemic agents (option C) are not the first line treatment for hyperglycemia in the setting of acute pancreatitis, insulin drip may be needed if fluids do not improve glucose levels. Antibiotics (option D) are not recommended in the initial management of acute pancreatitis unless there is evidence of infected necrosis or another source of infection. 3. Fluid hydration is the mainstay of treatment in acute pancreatitis, irrespective of the cause. 4. The American College of Gastroenterology guidelines recommend aggressive hydration in the first 12-24 hours for patients with acute pancreatitis.",
+        "context_id": 99,
+        "relevance_score": 0.6803994125171382
+    }
+]
