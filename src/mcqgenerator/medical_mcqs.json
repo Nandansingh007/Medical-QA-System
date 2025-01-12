@@ -1,0 +1,639 @@
+[
+    {
+        "question": "A 60-year-old male patient presents with chronic lower back pain and radiating pain to the left leg for the past 6 months. He has a history of hypertension and type 2 diabetes. His MRI shows degeneration of the L4-L5 and L5-S1 segments. The patient has tried conservative management including physical therapy and pain medication but with minimal relief. What would be the best course of action?",
+        "options": [
+            "A) Proceed with lumbar spine fusion surgery immediately",
+            "B) Continue with conservative management and re-evaluate after 3 months",
+            "C) Refer the patient for a multidisciplinary evaluation",
+            "D) Prescribe stronger pain medication"
+        ],
+        "correct_answer": "C",
+        "reasoning": "Given the patient's history and the fact that conservative management has not been effective, a multidisciplinary evaluation would be the best next step. This approach has been shown to decrease the utilization of lumbar spine fusion (Yanamadala et al., 2017). Option A may be too aggressive at this stage, especially considering the potential for adjacent segment degeneration after spine surgery (Xia et al., 2013). Option B may not be effective as the patient has already tried conservative management for 6 months with minimal relief. Option D is not ideal as it does not address the underlying issue and may lead to potential issues with medication overuse or addiction.",
+        "context_id": 1,
+        "relevance_score": 0.8175956939034204
+    },
+    {
+        "question": "A 55-year-old male presents with a 6-month history of neck pain, numbness, and weakness in the right arm. MRI reveals cervical disc herniation at C5-C6 level. The patient has a history of diabetes and hypertension. Given the patient's symptoms and imaging results, which treatment approach would be most appropriate?",
+        "options": [
+            "A) Anterior cervical discectomy with fusion",
+            "B) Posterior cervical foraminotomy",
+            "C) Transforaminal steroid injections",
+            "D) Conservative management with physical therapy and analgesics"
+        ],
+        "correct_answer": "A",
+        "reasoning": "1. Anterior cervical discectomy with fusion (ACDF) is a common surgical procedure for treating cervical radiculopathy due to disc herniation, especially when conservative treatments have failed or symptoms are severe. This procedure removes the herniated disc and any bone spurs that are pressing on spinal nerves, and then fuses the vertebrae together to stabilize the spine. 2. Posterior cervical foraminotomy is another surgical option, but it is typically reserved for cases where the disc herniation is located more laterally. 3. Transforaminal steroid injections can provide temporary relief for some patients, but they do not address the underlying issue of the herniated disc. 4. Conservative management with physical therapy and analgesics is often the first line of treatment, but in this case, the patient's symptoms have persisted for 6 months, suggesting that conservative treatments may not be sufficient. 5. The patient's comorbidities of diabetes and hypertension do not contraindicate surgery, but they would need to be well-controlled prior to the procedure.",
+        "context_id": 2,
+        "relevance_score": 0.8310326595907319
+    },
+    {
+        "question": "A 52-year-old construction worker with a history of chronic low back pain has been off work for 6 weeks. He has been participating in a multidisciplinary work hardening program, including physical therapy, occupational therapy, and psychological counseling. Despite these interventions, he continues to report significant pain and disability. His employer is supportive and willing to make accommodations. What additional intervention could be beneficial in this case?",
+        "options": [
+            "A) Increase the intensity of the physical therapy program",
+            "B) Add workplace interventions including participatory ergonomics and graded activity",
+            "C) Recommend the patient for surgical evaluation",
+            "D) Prescribe opioid pain medication to manage his symptoms"
+        ],
+        "correct_answer": "B) Add workplace interventions including participatory ergonomics and graded activity",
+        "reasoning": "1. The correct answer is B. The addition of workplace interventions, including participatory ergonomics and graded activity, has been shown to substantially reduce disability due to chronic low back pain (Lambeek 2010). This approach involves the employer and can be tailored to the specific needs and abilities of the worker. \n2. Increasing the intensity of the physical therapy program (option A) may not be beneficial if the worker is already participating in a comprehensive program and not seeing improvement. \n3. Surgical evaluation (option C) may be considered in some cases of chronic low back pain, but it is typically reserved for cases with specific indications such as neurological deficits or pain that is refractory to conservative management. \n4. Opioid pain medication (option D) is not recommended for long-term management of chronic low back pain due to the risk of addiction and other adverse effects.",
+        "context_id": 3,
+        "relevance_score": 0.8862774447067645
+    },
+    {
+        "question": "A 35-year-old construction worker has been off work for 6 weeks due to a lower back injury. He has been participating in a work rehabilitation program with light intensity for 4 weeks but has not shown significant improvement. His pain score remains at 6/10 and he still has difficulty with heavy lifting. What is the best next step in his management?",
+        "options": [
+            "A) Continue with the current light intensity rehabilitation program",
+            "B) Increase the intensity of the rehabilitation program",
+            "C) Refer the patient for surgical evaluation",
+            "D) Discharge the patient from the rehabilitation program and advise him to return to work"
+        ],
+        "correct_answer": "B) Increase the intensity of the rehabilitation program",
+        "reasoning": "The patient's lack of improvement despite 4 weeks of light intensity rehabilitation suggests that a higher intensity program may be necessary. The Washington State Department of Labor and Industries Work Rehabilitation Guideline suggests that work hardening needs more than one level of intensity to address appropriately the gaps between worker capacity and job requirements. Option A is not optimal as the patient has not shown significant improvement with the current program. Option C may be considered if conservative management fails, but it is not the first step when rehabilitation can be optimized. Option D is inappropriate as the patient still has significant pain and difficulty with heavy lifting.",
+        "context_id": 4,
+        "relevance_score": 0.8292827184651018
+    },
+    {
+        "question": "A 45-year-old construction worker presents with chronic lower back pain for the past 6 months. The pain is localized to the lumbar region and is exacerbated by certain movements. MRI of the lumbar spine shows no structural abnormalities. The patient has been on NSAIDs with minimal relief. The patient is anxious about the diagnostic medial branch nerve block procedure. What is the most appropriate next step in management?",
+        "options": [
+            "A) Administer conscious sedation before the diagnostic block due to patient's anxiety",
+            "B) Proceed with the diagnostic medial branch nerve block without any sedation",
+            "C) Administer IV analgesia four hours prior to the diagnostic block",
+            "D) Postpone the diagnostic block and continue with conservative management"
+        ],
+        "correct_answer": "B) Proceed with the diagnostic medial branch nerve block without any sedation",
+        "reasoning": "According to the guidelines for work-related facet neurotomy, no pain medication, including IV analgesia, should be taken for four hours prior to or during each diagnostic medial branch nerve block. Conscious sedation should not be administered before or during a diagnostic block except in an extreme case of anxiety. In this case, the patient's anxiety does not seem to be extreme, and the procedure can be explained to the patient to alleviate his concerns. Option A is incorrect as conscious sedation is not recommended unless the anxiety is extreme. Option C is incorrect as no pain medication should be administered four hours prior to the block. Option D is not optimal as the patient has chronic pain that is not responding to conservative management, and the next step would be to identify the source of the pain through a diagnostic block.",
+        "context_id": 5,
+        "relevance_score": 0.8359396755636467
+    },
+    {
+        "question": "A 45-year-old construction worker presents with chronic lower back pain for the past 6 months. He has been unable to work for the past 2 months due to the severity of the pain. His MRI shows mild disc degeneration at L4-L5. He has a history of hypertension and is a smoker. As a provider delivering work rehabilitation, what would be the most appropriate next step in his management?",
+        "options": [
+            "A) Recommend immediate surgical intervention",
+            "B) Initiate a multidisciplinary work rehabilitation program including physical, behavioral and vocational interventions",
+            "C) Prescribe opioid pain medication for pain management",
+            "D) Advise the patient to quit his job due to his chronic back pain"
+        ],
+        "correct_answer": "B",
+        "reasoning": "Given the patient's chronic back pain and inability to work, a multidisciplinary work rehabilitation program would be the most appropriate next step. This approach is supported by the Washington State Department of Labor and Industries Work Rehabilitation Guideline. It includes physical, behavioral, and vocational interventions aimed at facilitating participation in work and restoration of work-related function. Option A may be considered if conservative management fails, but immediate surgical intervention is not the first-line treatment for mild disc degeneration. Option C, prescribing opioid pain medication, is not the optimal choice due to the risk of addiction and it does not address the need for work rehabilitation. Option D, advising the patient to quit his job, is not appropriate as the goal of work rehabilitation is to help the patient return to work.",
+        "context_id": 6,
+        "relevance_score": 0.7845692931516173
+    },
+    {
+        "question": "A 45-year-old male construction worker presents with a 6-month history of progressive shortness of breath and dry cough. He has been working in an environment with potential beryllium exposure for the past 20 years. His chest X-ray shows diffuse interstitial infiltrates. He has been diagnosed with beryllium sensitization. How often should he be medically evaluated for progression to chronic beryllium disease?",
+        "options": [
+            "A) Every 6 months",
+            "B) Annually",
+            "C) Every 2-3 years",
+            "D) Every 5 years"
+        ],
+        "correct_answer": "C) Every 2-3 years",
+        "reasoning": "According to the American Thoracic Society, workers with beryllium sensitization should be evaluated at least every 2-3 years to monitor for progression to chronic beryllium disease. More frequent evaluations may be needed if clinical concern requires. Option A suggests too frequent evaluations, while options B and D suggest less frequent evaluations than recommended. Regular monitoring is important to detect early signs of chronic beryllium disease, which can lead to irreversible lung damage if not treated promptly.",
+        "context_id": 7,
+        "relevance_score": 0.8969605639368121
+    },
+    {
+        "question": "A 55-year-old male patient presents with a 6-month history of neck pain and numbness in the right arm. He has a history of hypertension and type 2 diabetes. MRI reveals a herniated cervical disc. Considering the patient's age, comorbidities, and the FDA warning on steroid injections, what would be the most appropriate treatment approach?",
+        "options": [
+            "A) Steroid injections for pain relief",
+            "B) Anterior cervical discectomy with fusion (ACDF)",
+            "C) Posterior cervical laminotomy/foraminotomy",
+            "D) Total Disc Arthroplasty (TDA)"
+        ],
+        "correct_answer": "B) Anterior cervical discectomy with fusion (ACDF)",
+        "reasoning": "Given the patient's age and comorbidities, ACDF is the most appropriate treatment. It is a standard treatment for cervical disc disease and has been proven effective for patients with myelopathy and radiculopathy. It also allows the surgeon to restore stabilization. Steroid injections (Option A) may provide short-term relief but carry significant risks, including loss of vision, stroke, paralysis, and death. Posterior cervical laminotomy/foraminotomy (Option C) is a highly effective therapeutic procedure, but concerns about kyphosis and persistent neck pain make it a less optimal choice. Total Disc Arthroplasty (Option D) is a viable alternative to ACDF, but it is not the first-line treatment for this patient's condition.",
+        "context_id": 8,
+        "relevance_score": 0.869568241159504
+    },
+    {
+        "question": "A 65-year-old male patient with a history of osteoarthritis presents with severe knee pain that has been progressively worsening over the past 6 months. He has difficulty walking and is unable to perform his job as a construction worker. His X-ray shows severe degenerative changes in the knee joint. He is otherwise healthy with no significant comorbidities. He is eager to return to work as soon as possible. According to the Bree Collaborative recommendations, what is the best next step in management?",
+        "options": [
+            "A) Proceed with total knee arthroplasty without further evaluation",
+            "B) Refer the patient for physical therapy and delay surgery",
+            "C) Assess the patient's fitness for surgery before proceeding with total knee arthroplasty",
+            "D) Prescribe pain medication and advise the patient to rest"
+        ],
+        "correct_answer": "C) Assess the patient's fitness for surgery before proceeding with total knee arthroplasty",
+        "reasoning": "According to the Bree Collaborative recommendations, before proceeding with total knee arthroplasty, it is important to ensure the patient's fitness for surgery. This is to ensure patient safety and active participation in returning to function. Option A is incorrect because it does not consider the patient's fitness for surgery. Option B is not optimal as the patient's symptoms are severe and have been progressively worsening, indicating that conservative management may not be sufficient. Option D is also not optimal as it only addresses symptom management and does not address the underlying issue.",
+        "context_id": 9,
+        "relevance_score": 0.8150610325823141
+    },
+    {
+        "question": "A 45-year-old male with a BMI of 32 presents with chronic lateral ankle pain and instability after a severe inversion injury 6 months ago. He has been treated conservatively with rest, ice, compression, and elevation (RICE), but symptoms persist. An MRI shows a lesion diameter of >15mm and a defect area >150 mm2. What is the most appropriate next step in management?",
+        "options": [
+            "A) Continue conservative management with RICE",
+            "B) Proceed to surgery with a Br\u04e7strom procedure",
+            "C) Proceed to surgery with a Watson-Jones or Evans technique",
+            "D) Proceed to surgery with peroneal tendon repair"
+        ],
+        "correct_answer": "C) Proceed to surgery with a Watson-Jones or Evans technique",
+        "reasoning": "Given the patient's persistent symptoms despite conservative management, surgical intervention is warranted. The Br\u04e7strom procedure is typically the first line of treatment for lateral ankle ligament injuries, but in this case, the patient's high BMI and the size of the lesion (>15mm diameter, >150 mm2 defect area) may indicate a higher risk of clinical failure following marrow stimulation procedures. Therefore, a Watson-Jones or Evans technique, which involves reconstruction using an auto- or allograft, may be a more appropriate choice. Option A is not appropriate as the patient's symptoms persist despite conservative management. Option D is not appropriate as there is no indication of peroneal tendon pathology.",
+        "context_id": 10,
+        "relevance_score": 0.8764564415375063
+    },
+    {
+        "question": "A 45-year-old construction worker presents with a 2-week history of numbness and weakness in his right hand. He reports difficulty in extending his wrist and fingers. He has no significant medical history. On examination, wrist drop is noted. An electrodiagnostic study is scheduled immediately. The results confirm the diagnosis of Radial Nerve Entrapment (RNE). What is the next appropriate step in management?",
+        "options": [
+            "A) Immediate surgical decompression",
+            "B) Communicate with the employer regarding return to work restrictions",
+            "C) Request a specialist consultation",
+            "D) Recommend ergonomic improvements at his workplace"
+        ],
+        "correct_answer": "B) Communicate with the employer regarding return to work restrictions",
+        "reasoning": "Given the confirmed diagnosis of RNE, the next step according to the Occupational Health Quality Indicators for Work-Related RNE is to communicate with the employer regarding return to work (RTW) restrictions. This should be done at each visit while work restrictions exist. Option A is incorrect as surgical decompression is considered only after 4-6 weeks of determining the need for surgery. Option C is incorrect as specialist consultation is requested if there is no clinical improvement within 6 weeks or if more than 2 weeks of time-loss occurs. Option D is incorrect as ergonomic improvements are recommended at the first health care visit, which has already occurred in this scenario.",
+        "context_id": 11,
+        "relevance_score": 0.8601329659757221
+    },
+    {
+        "question": "A 35-year-old construction worker presents with severe back pain following a fall from a scaffold 10 weeks ago. Despite trials of NSAIDs and physical therapy, his pain persists. He has a history of alcohol use disorder but has been sober for 5 years. His PHQ-9 score is 12, indicating moderate depression. His urine drug test is negative for all substances. He has no history of opioid use disorder. What is the most appropriate next step in managing his pain?",
+        "options": [
+            "A) Prescribe opioids without further assessment",
+            "B) Prescribe opioids and concurrently start him on a benzodiazepine",
+            "C) Obtain prior authorization and document failure of alternative treatments before prescribing opioids",
+            "D) Avoid opioids due to his history of alcohol use disorder"
+        ],
+        "correct_answer": "C) Obtain prior authorization and document failure of alternative treatments before prescribing opioids",
+        "reasoning": "In this case, the patient has persistent pain despite non-opioid treatments and has no current substance use disorder or history of opioid use disorder. However, before prescribing opioids in the chronic phase (beyond 12 weeks post-injury), the provider must obtain prior authorization and document the failure of reasonable alternatives to opioids. Option A is incorrect as it does not consider the need for prior authorization and documentation. Option B is incorrect as concurrent use of opioids and benzodiazepines increases the risk of overdose. Option D is incorrect as a history of alcohol use disorder does not preclude the use of opioids if there is no current substance use disorder.",
+        "context_id": 12,
+        "relevance_score": 0.8548479955551804
+    },
+    {
+        "question": "A 16-year-old male presents with severe pain following a third molar extraction. He has a history of asthma and is currently taking albuterol. He has no known drug allergies. His pain is rated as 8/10 and he is unable to sleep due to the pain. As a provider, what would be the most appropriate course of action for pain management?",
+        "options": [
+            "A) Prescribe a seven-day course of immediate-release opioids",
+            "B) Prescribe a three-day course of immediate-release opioids",
+            "C) Prescribe NSAIDs and acetaminophen for pain management",
+            "D) Prescribe tramadol for pain management"
+        ],
+        "correct_answer": "B) Prescribe a three-day course of immediate-release opioids",
+        "reasoning": "Given the patient's age and the severity of his pain, the use of opioids may be warranted. However, due to the risk of addiction in this age group, it is important to limit opioid exposure to the shortest duration possible. A three-day course of immediate-release opioids is often sufficient for managing acute pain following a dental procedure. Option A is not recommended as more than seven days of opioid use will rarely be needed. Option C, while generally a good choice for pain management, may not be sufficient for severe pain. Option D is not recommended as tramadol is approved only for use in adults and is contraindicated in children younger than 12 years due to the risk of serious breathing problems.",
+        "context_id": 13,
+        "relevance_score": 0.8202656709194963
+    },
+    {
+        "question": "A 45-year-old male, working in a beryllium machining plant for the past 20 years, presents with a 6-month history of progressive dyspnea and dry cough. His chest X-ray shows diffuse bilateral infiltrates and his BeLPT test results are borderline. What is the most appropriate next step in management?",
+        "options": [
+            "A) Repeat the BeLPT test",
+            "B) Start treatment for chronic beryllium disease",
+            "C) Refer for lung biopsy",
+            "D) Advise the patient to quit his job and monitor symptoms"
+        ],
+        "correct_answer": "A) Repeat the BeLPT test",
+        "reasoning": "Given the patient's occupational exposure to beryllium and his symptoms, chronic beryllium disease is a strong possibility. However, his BeLPT results are borderline, which can be difficult to interpret. According to Middleton et al. (2011), in such cases, the BeLPT test should be repeated to confirm the diagnosis. Starting treatment without a confirmed diagnosis (option B) could expose the patient to unnecessary risks and side effects. A lung biopsy (option C) is more invasive and should be reserved for cases where the diagnosis is still uncertain after repeated testing. While reducing exposure to beryllium is important, simply advising the patient to quit his job without confirming the diagnosis (option D) may not be the most appropriate immediate step.",
+        "context_id": 14,
+        "relevance_score": 0.8588817654118124
+    },
+    {
+        "question": "A 55-year-old man presents with a 7-week history of radiating pain, numbness, and tingling in the left leg. He also reports a recent onset of foot drop. His MRI shows substantial disc herniation resulting in nerve root compression. He has been on non-operative care including active rehabilitation and epidural steroid injection since the onset of symptoms. What is the most appropriate next step in management?",
+        "options": [
+            "A) Continue with non-operative care",
+            "B) Immediate surgical intervention",
+            "C) Refer the patient for physiotherapy",
+            "D) Start the patient on pharmacologic therapy"
+        ],
+        "correct_answer": "B) Immediate surgical intervention",
+        "reasoning": "Given the patient's persistent symptoms, objective findings (foot drop), and imaging results (substantial disc herniation resulting in nerve root compression), he meets the criteria for surgical intervention as per the Washington State Department of Labor & Industries Surgical Guideline for Lumbar Spine. Non-operative care has been tried for more than six weeks without substantial improvement, making it less likely to be effective. Physiotherapy (option C) is part of non-operative care and has already been tried. Pharmacologic therapy (option D) alone is unlikely to resolve the substantial disc herniation and associated symptoms.",
+        "context_id": 15,
+        "relevance_score": 0.8439449490115697
+    },
+    {
+        "question": "A 45-year-old construction worker presents with generalized shoulder pain and difficulty in lifting heavy objects for the past 3 months. He reports that the pain worsens when he elevates his arm. An MRI reveals evidence of tendinopathy but no rotator cuff tear. He has been on conservative management for the past 12 weeks with no significant improvement. What is the next best step in management?",
+        "options": [
+            "A) Continue with conservative management",
+            "B) Subacromial decompression",
+            "C) Superior Capsular Reconstruction (SCR) procedure",
+            "D) Debridement of the calcified tendon"
+        ],
+        "correct_answer": "B) Subacromial decompression",
+        "reasoning": "The patient's symptoms, occupational history, and MRI findings are consistent with Subacromial impingement syndrome (SIS). Non-operative treatments of SIS have been shown to be as effective as subacromial decompression. However, if the patient fails to improve function and decrease pain after twelve weeks of conservative care, subacromial decompression is recommended. Option A is incorrect because the patient has already failed conservative management. Option C is not appropriate because SCR is recommended for irreparable rotator cuff tears, which the patient does not have. Option D is incorrect because there is no evidence of calcific tendonitis in this patient.",
+        "context_id": 16,
+        "relevance_score": 0.8607558494390122
+    },
+    {
+        "question": "A 45-year-old male construction worker has been off work for 10 weeks due to chronic lower back pain. He has a history of similar episodes over the past two years. His pain is moderate and he has been classified as a medium prognosis patient. What would be the most appropriate treatment approach according to the Washington State Department of Labor and Industries Work Rehabilitation Guideline?",
+        "options": [
+            "A) Extensive multidisciplinary treatment with frequent follow-ups",
+            "B) Light multidisciplinary treatment with follow-ups",
+            "C) Treatment as usual by his general practitioner",
+            "D) No treatment, just rest and pain management"
+        ],
+        "correct_answer": "B) Light multidisciplinary treatment with follow-ups",
+        "reasoning": "According to the Washington State Department of Labor and Industries Work Rehabilitation Guideline, for medium prognosis patients, a light multidisciplinary treatment with follow-ups is sufficient and extensive treatment does not offer long term benefits. Treatment as usual by a general practitioner gave poor results in this group of patients. No treatment, just rest and pain management is not an effective approach for chronic lower back pain and can lead to further deconditioning and disability.",
+        "context_id": 17,
+        "relevance_score": 0.8624244472476634
+    },
+    {
+        "question": "A 45-year-old construction worker presents with a 3-week history of lower back pain following a fall at work. He has been unable to return to work due to the pain. His MRI shows a herniated disc at L4-L5. He has a history of hypertension and type 2 diabetes. He is eager to return to work but is worried about his physical capacity. Which professional would be most appropriate to involve in his work rehabilitation?",
+        "options": [
+            "A) Occupational Therapist",
+            "B) Physical Therapist",
+            "C) Vocational Rehabilitation Counselor",
+            "D) Psychologist"
+        ],
+        "correct_answer": "B) Physical Therapist",
+        "reasoning": "Given the patient's physical injury and his need to restore job-focused physical function, a Physical Therapist (PT) would be the most appropriate professional to involve in his work rehabilitation. PTs are experts in function, body mechanics, strength, and mobility. They can assess strength and mobility impairments and form treatment plans to progress a patient's capacity, conditioning, and function toward safe performance of daily and job-oriented functions. While Occupational Therapists (OTs) and Vocational Rehabilitation Counselors (VRCs) also play important roles in work rehabilitation, the patient's primary need at this point is physical rehabilitation, which is best addressed by a PT. A psychologist might be involved if there were significant psychosocial barriers to the patient's recovery, but this is not indicated in the current scenario.",
+        "context_id": 18,
+        "relevance_score": 0.781297156701923
+    },
+    {
+        "question": "A 45-year-old construction worker presents with numbness and tingling in his right hand for the past 2 weeks. He reports that these symptoms are worse at night and when he is at work. Physical examination reveals decreased sensation in the little finger and the ulnar half of the ring finger. He has a positive Tinel's sign at the elbow. His symptoms are consistent with Ulnar Neuropathy at the Elbow (UNE). What is the next best step in management?",
+        "options": [
+            "A) Schedule electrodiagnostic studies immediately",
+            "B) Recommend surgical decompression without further testing",
+            "C) Wait for 6 weeks to see if there is any clinical improvement",
+            "D) Refer the patient to a specialist without any further testing"
+        ],
+        "correct_answer": "A) Schedule electrodiagnostic studies immediately",
+        "reasoning": "Given the patient's symptoms and physical examination findings, UNE is being considered. According to the Occupational Health Quality Indicators for UNE, if the diagnosis of UNE is being considered, electrodiagnostic studies should be scheduled immediately. These tests are required if time-loss extends beyond 2 weeks, or if surgery is requested. Option B is incorrect because surgical decompression should only be considered after confirming the diagnosis and determining the need for surgery. Option C is not optimal because waiting for 6 weeks without any intervention may lead to further nerve damage. Option D is not the best next step because specialist consultation is usually requested if there is no clinical improvement within 6 weeks or if more than 2 weeks of time-loss occurs.",
+        "context_id": 19,
+        "relevance_score": 0.8488175649468892
+    },
+    {
+        "question": "A 45-year-old construction worker presents with chronic lower back pain and foot drop. He has a history of two previous discectomies at the L4-L5 level. An MRI with contrast shows a larger disc herniation at the same location as the previously operated disc herniation and spondylolisthesis of grade 2. He has been on non-operative therapy with a non-operative spine specialist for the past 7 months. He has a known allergy to Gadolinium. What is the most appropriate next step in management?",
+        "options": [
+            "A) Proceed with lumbar fusion surgery",
+            "B) Continue non-operative therapy for another 6 months",
+            "C) Perform a repeat decompression surgery without contrast",
+            "D) Perform a repeat decompression surgery with Gadolinium contrast"
+        ],
+        "correct_answer": "A) Proceed with lumbar fusion surgery",
+        "reasoning": "Given the patient's history of two previous discectomies at the same level, recent MRI findings, and failure of non-operative therapy for more than 6 months, lumbar fusion surgery is the most appropriate next step. Option B is not optimal as the patient has already undergone non-operative therapy for more than the recommended 6 months without improvement. Option C is not ideal as the use of contrast is recommended to differentiate between disc herniation and peridural scarring. However, in this case, the patient has a known allergy to Gadolinium, making option D inappropriate. Non-contrast MRI or CT Myelogram would be acceptable alternatives for contrast in this case.",
+        "context_id": 20,
+        "relevance_score": 0.8860708463355857
+    },
+    {
+        "question": "A 45-year-old construction worker has been off work for 3 months due to a back injury. He has been referred for work rehabilitation. He has a history of depression and anxiety. During the initial week of work rehabilitation, he expresses concerns about his ability to return to his previous job due to the physical demands. What should be the next step in his rehabilitation process?",
+        "options": [
+            "A) Dismiss his concerns and continue with the current rehabilitation plan",
+            "B) Refer him to a psychiatrist for his anxiety and depression",
+            "C) Develop a plan with the vocational provider to address his concerns and facilitate return to work",
+            "D) Immediately stop the rehabilitation program"
+        ],
+        "correct_answer": "C",
+        "reasoning": "The correct answer is C. In this scenario, the worker has expressed concerns about his ability to return to his previous job due to the physical demands. This is a barrier to his recovery and return to work. Therefore, it is important to address his concerns and develop a plan with the vocational provider to facilitate his return to work. Option A is incorrect because dismissing his concerns would not address the barrier to his recovery. Option B is incorrect because while addressing his mental health is important, it does not directly address his concerns about returning to work. Option D is incorrect because stopping the rehabilitation program would not facilitate his return to work.",
+        "context_id": 21,
+        "relevance_score": 0.8255523295706741
+    },
+    {
+        "question": "A 45-year-old male patient presents to the dental clinic with severe toothache for the past 3 days. He has a history of chronic back pain and is currently on Diazepam for muscle spasms. He also has a history of substance abuse. His vital signs are stable. As a dentist, what would be the most appropriate approach for managing his acute dental pain?",
+        "options": [
+            "A) Prescribe opioids for pain management",
+            "B) Prescribe non-opioid analgesics and refer to an oral surgeon",
+            "C) Increase the dose of Diazepam",
+            "D) Prescribe barbiturates for pain management"
+        ],
+        "correct_answer": "B",
+        "reasoning": "Given the patient's history of substance abuse and current use of Diazepam, a benzodiazepine, it would be risky to prescribe opioids due to the potential for misuse and the risk of respiratory depression when combined with benzodiazepines. Increasing the dose of Diazepam (option C) is not appropriate as it is not indicated for dental pain. Barbiturates (option D) are also not typically used for dental pain and carry a risk of dependence. Therefore, the best approach is to manage the pain with non-opioid analgesics and refer the patient to an oral surgeon for further management (option B). This approach aligns with the Dental Guideline on Prescribing Opioids for Acute Pain Management.",
+        "context_id": 22,
+        "relevance_score": 0.8363803035716263
+    },
+    {
+        "question": "A 45-year-old male construction worker presents with a 6-month history of chronic pain and instability in his right ankle. He reports a history of multiple ankle sprains. On examination, there is tenderness over the lateral aspect of the ankle and a positive anterior drawer test. An MRI reveals an osteochondral lesion of the talus and chronic rupture of the lateral ligament complex. What is the most appropriate next step in management?",
+        "options": [
+            "A) Non-operative management with physiotherapy and bracing",
+            "B) Ankle arthroscopy and microfracture for the osteochondral lesion",
+            "C) Open repair of the lateral ligament complex",
+            "D) Subtalar arthrodesis"
+        ],
+        "correct_answer": "B) Ankle arthroscopy and microfracture for the osteochondral lesion",
+        "reasoning": "This patient's chronic ankle instability and osteochondral lesion of the talus are likely due to his history of multiple ankle sprains. Non-operative management (option A) is typically first-line for acute lateral ankle ligament injuries, but this patient's chronic symptoms and MRI findings indicate a need for surgical intervention. Open repair of the lateral ligament complex (option C) would address the ligamentous instability but not the osteochondral lesion. Subtalar arthrodesis (option D) is a procedure used for hindfoot inflammatory diseases and would not be appropriate in this case. Ankle arthroscopy and microfracture (option B) is a minimally invasive procedure that can address both the osteochondral lesion and the ligamentous instability, making it the optimal choice for this patient.",
+        "context_id": 23,
+        "relevance_score": 0.8386245676910691
+    },
+    {
+        "question": "A 55-year-old male patient presents with shoulder pain and dysfunction, with active arc motion between 90\u2014130\u00b0. He reports weakness with forward elevation or abduction and/or external rotation. His active elevation is preserved to 90\u00b0 preoperatively. An x-ray shows an intact glenohumeral joint space. MRI findings reveal an irreparable supraspinatus or infraspinatus and an intact subscapularis and teres minor. He has undergone 6 weeks of physical therapy with no significant improvement. A steroid injection was considered but not administered due to contraindications. What is the most appropriate next step in management?",
+        "options": [
+            "A) Proceed with a rotator cuff salvage procedure, also known as Superior Capsular Reconstruction (SCR).",
+            "B) Continue with physical therapy for another 6 weeks.",
+            "C) Administer a steroid injection despite the contraindications.",
+            "D) Refer the patient for a total shoulder arthroplasty."
+        ],
+        "correct_answer": "A) Proceed with a rotator cuff salvage procedure, also known as Superior Capsular Reconstruction (SCR).",
+        "reasoning": "Given the patient's clinical findings and the fact that non-operative care (6 weeks of physical therapy) has not led to significant improvement, the most appropriate next step is to proceed with a rotator cuff salvage procedure, also known as Superior Capsular Reconstruction (SCR). This is supported by the treatment guidelines for shoulder injuries. Option B is not optimal as the patient has already undergone 6 weeks of physical therapy without significant improvement. Option C is not appropriate as the patient has contraindications for steroid injection. Option D is not suitable as the patient's x-ray shows an intact glenohumeral joint space, indicating that a total shoulder arthroplasty is not necessary at this stage.",
+        "context_id": 24,
+        "relevance_score": 0.8808515677206857
+    },
+    {
+        "question": "A 45-year-old construction worker presents with radiating arm pain, scapular pain, and diminished muscle stretch reflexes for the past 7 weeks. He has been on conservative care but his symptoms have not improved. His MRI shows disc herniation at C5-C6 level. He has clear sensory symptoms indicative of radiculopathy. However, there are no objective signs of motor, reflex or EMG changes. What is the next best step in management?",
+        "options": [
+            "A) Continue conservative management",
+            "B) Proceed to surgery",
+            "C) Administer selective nerve root block",
+            "D) Start the patient on steroids"
+        ],
+        "correct_answer": "C) Administer selective nerve root block",
+        "reasoning": "The patient's symptoms and exam findings are consistent with injury or irritation of the nerve root that is to be blocked. The patient has been on conservative care for more than 6 weeks without improvement. According to the guidelines, selective nerve root blocks are only considered criteria for surgery when a worker presents with radicular pain, imaging findings, and a history of 6 weeks of conservative care, but does not have the objective signs of motor, reflex or EMG changes. Therefore, the next best step in management is to administer a selective nerve root block. Option A is incorrect because the patient has already been on conservative care for more than 6 weeks without improvement. Option B is incorrect because the patient does not have the objective signs of motor, reflex or EMG changes, which are criteria for surgery. Option D is incorrect because steroids are not indicated in this scenario.",
+        "context_id": 25,
+        "relevance_score": 0.8829656047482737
+    },
+    {
+        "question": "A 45-year-old carpenter presents with a 6-month history of aching pain in his right forearm and hand, numbness in the thumb, index, and middle fingers, and difficulty in gripping objects. The symptoms are worse at night. Physical examination reveals tenderness over the proximal forearm, and a positive Tinel's sign at the elbow. Electromyography shows slowed conduction velocity in the median nerve at the elbow. The patient has a history of type 2 diabetes. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical decompression of the median nerve at the wrist",
+            "B) Initiate physical therapy and nonsteroidal anti-inflammatory drugs (NSAIDs)",
+            "C) Immediate surgical decompression of the median nerve at the elbow",
+            "D) Initiate insulin therapy"
+        ],
+        "correct_answer": "C) Immediate surgical decompression of the median nerve at the elbow",
+        "reasoning": "This patient's clinical presentation is consistent with pronator teres syndrome, a type of median nerve entrapment syndrome at the elbow. The symptoms include pain in the forearm and hand, numbness in the median nerve distribution, and weakness of the hand muscles. The diagnosis is confirmed by electromyography showing slowed conduction velocity in the median nerve at the elbow. The treatment of choice is surgical decompression of the median nerve at the elbow. Option A is incorrect because the patient's symptoms and findings are not consistent with carpal tunnel syndrome, which would warrant decompression at the wrist. Option B is a reasonable initial approach for mild cases, but this patient's symptoms are severe and have been present for 6 months, indicating the need for surgical intervention. Option D is incorrect because, although the patient has diabetes, there is no indication that his blood glucose is poorly controlled, and his symptoms are not consistent with diabetic neuropathy.",
+        "context_id": 26,
+        "relevance_score": 0.8352568150044882
+    },
+    {
+        "question": "A 32-year-old construction worker presents with shoulder pain that worsens with motion and active elevation. He reports a recent traumatic event at work involving significant overhead activity. An MRI shows a labral tear and O'Brien's test reproduces the pain. Despite non-operative care for 6 weeks, his symptoms persist. What is the most appropriate next step in management?",
+        "options": [
+            "A) Continue non-operative care for another 6 weeks",
+            "B) Proceed to surgery for repair, debridement, or biceps tenodesis",
+            "C) Recommend 1-2 weeks of immobilization then physical therapy for 6-8 weeks",
+            "D) Proceed to surgery for capsulorrhaphy (Bankart procedure)"
+        ],
+        "correct_answer": "B) Proceed to surgery for repair, debridement, or biceps tenodesis",
+        "reasoning": "Given the patient's persistent symptoms despite 6 weeks of non-operative care, and the clinical and imaging findings consistent with a labral tear without instability, the most appropriate next step is surgical intervention. Option A is not optimal as the patient's symptoms have not improved with non-operative care. Option C is typically recommended for a single dislocation, which is not the case here. Option D, a Bankart procedure, is indicated for glenohumeral instability, which is not supported by the patient's clinical findings.",
+        "context_id": 27,
+        "relevance_score": 0.8873714302696953
+    },
+    {
+        "question": "A 45-year-old construction worker presents with a 6-week history of right knee pain, which he attributes to a fall at work. He describes the pain as aching and located medially, which worsens with weight bearing. He also reports difficulty in performing his daily activities due to the pain. On examination, there is mild effusion, tenderness on the medial joint line, and a positive McMurray\u2019s test. He also complains of mild pain in the left knee, which he believes is due to overcompensation. His past medical history is significant for hypertension. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate referral for surgical intervention",
+            "B) Initiate physical therapy and non-steroidal anti-inflammatory drugs (NSAIDs)",
+            "C) Prescribe opioids for pain management",
+            "D) Ignore the left knee pain as it is not related to the work injury"
+        ],
+        "correct_answer": "B) Initiate physical therapy and non-steroidal anti-inflammatory drugs (NSAIDs)",
+        "reasoning": "The patient's symptoms and positive McMurray\u2019s test suggest a meniscal injury. Initial management of meniscal injuries involves conservative measures such as physical therapy and NSAIDs. Surgical intervention (option A) is typically reserved for patients who fail conservative management or have locking or instability of the knee. Opioids (option C) are not first-line for pain management due to their potential for addiction and side effects. The pain in the contralateral knee (option D) may be due to overuse or altered use, often referred to as 'overuse syndrome', and should not be ignored. It should be assessed and managed appropriately.",
+        "context_id": 28,
+        "relevance_score": 0.8692625756651684
+    },
+    {
+        "question": "A 45-year-old construction worker presents with a 6-month history of right-sided neck, shoulder, and arm pain, with occasional numbness and tingling in his fingers. His symptoms are worse at work and improve with rest. He has no history of trauma. His neurological examination is normal, and MRI of the cervical spine shows no significant abnormalities. Electromyography and nerve conduction studies are also normal. He has been treated with physiotherapy and NSAIDs without significant improvement. What is the most likely diagnosis and what should be the next step in management?",
+        "options": [
+            "A) Neurogenic thoracic outlet syndrome (nTOS) - surgical intervention",
+            "B) Cervicobrachial syndrome - continue conservative management",
+            "C) Carpal tunnel syndrome - corticosteroid injection",
+            "D) Chronic regional pain syndrome - referral to a pain specialist"
+        ],
+        "correct_answer": "B) Cervicobrachial syndrome - continue conservative management",
+        "reasoning": "This patient's symptoms, normal neurological examination, and lack of objective findings on imaging and electrodiagnostic studies are consistent with cervicobrachial syndrome, a condition that can mimic nTOS but does not demonstrate objective neurologic or electrodiagnostic findings consistent with brachial plexus nerve injury. The lack of response to conservative management does not necessarily indicate a need for surgical intervention, as the evidence for the benefit of surgical interventions for similar conditions like nTOS is very low or non-existent. Continuing conservative management is the best approach. Carpal tunnel syndrome typically presents with symptoms in the distribution of the median nerve, which this patient does not have. Chronic regional pain syndrome is a diagnosis of exclusion and typically presents with more severe symptoms including allodynia and changes in skin color or temperature.",
+        "context_id": 29,
+        "relevance_score": 0.81628470432636
+    },
+    {
+        "question": "A 45-year-old construction worker with a history of chronic lower back pain and depression is scheduled for a lumbar fusion surgery. He has been on chronic opioid therapy for his back pain. His pre-operative lab values and imaging results are within normal limits. Considering the Washington State Department of Labor & Industries Surgical Guideline for Lumbar Spine, what is the best approach for managing his postoperative pain?",
+        "options": [
+            "A) Continue his chronic opioid therapy immediately postoperatively without any changes",
+            "B) Use non-opioid analgesics and non-pharmacologic therapies as first line therapy postoperatively, and if opioids are warranted, prescribe 14 days or less of short acting opioids at the lowest effective dose. Resume his chronic opioid regimen if he is expected to continue postoperatively",
+            "C) Prescribe a higher dose of short acting opioids for 14 days postoperatively due to his history of chronic opioid use",
+            "D) Avoid opioids completely postoperatively due to his history of depression"
+        ],
+        "correct_answer": "B",
+        "reasoning": "The correct answer is B. The guidelines recommend using non-opioid analgesics and non-pharmacologic therapies as first line therapy postoperatively. If opioids are warranted, they should be prescribed for 14 days or less at the lowest effective dose. For patients on chronic opioid therapy, the chronic opioid regimen should be resumed if the patient is expected to continue postoperatively. Option A is incorrect because it does not consider the need for non-opioid analgesics and non-pharmacologic therapies as first line therapy. Option C is incorrect because it suggests prescribing a higher dose of opioids, which is not recommended by the guidelines. Option D is incorrect because while the patient's history of depression is a concern, it does not preclude the use of opioids if warranted. However, the patient's mental health should be closely monitored postoperatively.",
+        "context_id": 30,
+        "relevance_score": 0.9005199716078915
+    },
+    {
+        "question": "A 45-year-old construction worker presents with a 7-week history of radiating lower back pain, numbness, and tingling in his right leg. He reports a foot drop and has a positive straight leg test. An MRI shows substantial disc herniation causing nerve root compression. He has been on non-operative care including active rehabilitation and epidural steroid injections since the date of injury. What is the most appropriate next step in management?",
+        "options": [
+            "A) Continue with non-operative care",
+            "B) Refer for lumbar decompression surgery",
+            "C) Start pharmacologic therapy",
+            "D) Request for another independent radiologist review"
+        ],
+        "correct_answer": "B) Refer for lumbar decompression surgery",
+        "reasoning": "Given the patient's persistent symptoms, positive clinical findings, and corroborative imaging results, he meets the criteria for lumbar decompression surgery as per the Washington State Department of Labor & Industries Surgical Guideline. Option A is not optimal as the patient has already undergone six weeks of non-operative care with no improvement. Option C may be part of non-operative care but in this case, surgery is more appropriate. Option D is not necessary as there is no discordant reading between the surgeon and radiologist.",
+        "context_id": 31,
+        "relevance_score": 0.8354617721991844
+    },
+    {
+        "question": "A 45-year-old construction worker is undergoing a work rehabilitation program after a back injury. He reports persistent pain and difficulty returning to work. His Oswestry Disability Index is 45%, indicating moderate disability. He also reports feeling demotivated and anxious about his recovery. As a provider, what should be the focus of his rehabilitation program?",
+        "options": [
+            "A) Focus solely on reducing his pain levels",
+            "B) Focus solely on improving his physical function",
+            "C) Focus on both his physical function and behavioral health",
+            "D) Focus on identifying areas where the worker is lacking in function or capacity"
+        ],
+        "correct_answer": "C",
+        "reasoning": "The correct answer is C. The Washington State Department of Labor and Industries Work Rehabilitation Guideline emphasizes the importance of assessing both physical and behavioral outcomes in a work rehabilitation program. Physical and mental health have strong cross-effects and improvements in either can result in overall functional improvement. Therefore, focusing on both his physical function and behavioral health is essential. Option A is incorrect as focusing solely on pain levels can result in a negative mindset towards recovery and preoccupation with disability. Option B is incorrect as it ignores the significant impact of mental health on overall function. Option D is also incorrect as it can result in a negative mindset towards recovery and preoccupation with disability.",
+        "context_id": 32,
+        "relevance_score": 0.8516011163332355
+    },
+    {
+        "question": "A 45-year-old construction worker presents with a 6-month history of pain and numbness in his right forearm and hand. He reports difficulty in gripping objects and has noticed a decrease in his hand strength. His symptoms are worse at night and after a day of work. Physical examination reveals tenderness over the radial tunnel and a positive middle finger extension test. Electromyography shows decreased conduction velocity of the radial nerve. He has a history of diabetes mellitus and hypertension. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical release of the radial tunnel",
+            "B) Conservative management with physical therapy and nonsteroidal anti-inflammatory drugs",
+            "C) Carpal tunnel release surgery",
+            "D) Intravenous corticosteroid therapy"
+        ],
+        "correct_answer": "B",
+        "reasoning": "The patient's symptoms and positive middle finger extension test suggest radial tunnel syndrome, a condition caused by compression of the radial nerve. Initial management is conservative and includes physical therapy and nonsteroidal anti-inflammatory drugs. Option A is incorrect because surgery is reserved for patients who do not respond to conservative treatment. Option C is incorrect because the patient's symptoms and findings are not consistent with carpal tunnel syndrome. Option D is incorrect because there is no evidence to support the use of intravenous corticosteroids in the treatment of radial tunnel syndrome.",
+        "context_id": 33,
+        "relevance_score": 0.8398278819543051
+    },
+    {
+        "question": "A 35-year-old construction worker presents with subacute low back pain for the past 6 weeks. He has been off work due to the pain. His MRI shows mild disc bulging at L4-L5 without nerve root compression. He has no significant past medical history. His pain is not improving with NSAIDs and physical therapy. What is the most appropriate next step in management?",
+        "options": [
+            "A) Continue current management with NSAIDs and physical therapy",
+            "B) Refer for surgical evaluation",
+            "C) Initiate opioid therapy",
+            "D) Implement an intense physical conditioning program focused on function, in collaboration with his employer and occupational medicine providers"
+        ],
+        "correct_answer": "D",
+        "reasoning": "This patient with subacute low back pain has not improved with conservative management. The Washington State Department of Labor and Industries Work Rehabilitation Guideline suggests that intense physical conditioning focused on function rather than pain reduction appears more beneficial than multidisciplinary exercise treatment focused on pain reduction to decrease the proportion of workers off work in both the short and long term. Furthermore, when the employer and occupational medicine providers are involved there is increased effectiveness for subacute pain. Therefore, the most appropriate next step in management is to implement an intense physical conditioning program focused on function, in collaboration with his employer and occupational medicine providers (Option D). Continuing current management (Option A) is not appropriate as the patient's pain is not improving. Surgical evaluation (Option B) is not indicated as the patient's imaging shows only mild disc bulging without nerve root compression. Opioid therapy (Option C) is not recommended for chronic low back pain due to the risk of addiction and other adverse effects.",
+        "context_id": 34,
+        "relevance_score": 0.8271484083341601
+    },
+    {
+        "question": "A 65-year-old man with a history of heart disease and asthma presents with low back pain, foot drop, and positive straight leg test. He had a lumbar decompression surgery 2 years ago. MRI with Gadolinium contrast shows disc herniation and peridural scarring. What is the most appropriate next step in management?",
+        "options": [
+            "A) Repeat decompression surgery",
+            "B) Non-operative care including active rehabilitation, manual medicine, NSAIDs, or epidural steroid injections",
+            "C) MRI without contrast to confirm the findings",
+            "D) Immediate referral for spinal fusion surgery"
+        ],
+        "correct_answer": "B) Non-operative care including active rehabilitation, manual medicine, NSAIDs, or epidural steroid injections",
+        "reasoning": "Given the patient's history of heart disease and asthma, use of Gadolinium contrast is absolutely contraindicated. Despite the presence of disc herniation and peridural scarring, the patient does not meet the criteria for repeat decompression surgery as he does not have two or more of the required objective symptoms. Non-operative care is considered an appropriate first step for patients with spinal stenosis without severe or substantially progressive motor weakness. Option A is incorrect as the patient does not meet the criteria for repeat surgery and has absolute contraindications to Gadolinium contrast. Option C is not necessary as the findings on the initial MRI are sufficient for diagnosis. Option D is not appropriate as spinal fusion surgery is typically reserved for patients with instability or deformity, which this patient does not have.",
+        "context_id": 35,
+        "relevance_score": 0.8772596003365626
+    },
+    {
+        "question": "A 35-year-old smoker with a history of diabetes presents with recurrent lower back pain and foot drop 8 months after initial lumbar decompression surgery for disc herniation. An MRI reveals a disc herniation of the same size and location as the previous one. What is the most appropriate next step in management?",
+        "options": [
+            "A) Repeat lumbar decompression surgery",
+            "B) Conservative management with physical therapy and pain management",
+            "C) Steroid injections for pain management",
+            "D) Referral for psychiatric evaluation for potential somatization disorder"
+        ],
+        "correct_answer": "A) Repeat lumbar decompression surgery",
+        "reasoning": "Given the patient's history of diabetes and smoking, both of which are risk factors for recurrent herniation, along with the presence of new symptoms (foot drop) and imaging findings consistent with reherniation, repeat surgery is the most appropriate next step. While conservative management (option B) and steroid injections (option C) may be considered in some cases, they are less likely to be effective in this patient due to the presence of motor deficits and substantial disc herniation. Referral for psychiatric evaluation (option D) is inappropriate as there is clear evidence of a physical cause for the patient's symptoms.",
+        "context_id": 36,
+        "relevance_score": 0.8600212543767434
+    },
+    {
+        "question": "A 45-year-old construction worker presents with joint pain and swelling in his knee following a work-related accident. He reports the pain has been persistent for the past 3 months. MRI shows a single large chondral defect and KL score of 1 on weight bearing x-rays. His knee is stable with intact ligaments and normal alignment. He does not have any signs of degenerative or inflammatory arthritis. What is the most appropriate treatment?",
+        "options": [
+            "A) Non-narcotic medication and physical therapy",
+            "B) Uni-compartmental Knee Arthroplasty (UKA \u2013 partial knee replacement)",
+            "C) Osteochondral autograft/allograft transplantation (mosaicplasty or OAT procedure for the knee)",
+            "D) Corticosteroid injections and strengthening exercises"
+        ],
+        "correct_answer": "C) Osteochondral autograft/allograft transplantation (mosaicplasty or OAT procedure for the knee)",
+        "reasoning": "Given the patient's age, the nature of the injury, and the MRI findings, the most appropriate treatment is an osteochondral autograft/allograft transplantation. This procedure is recommended for patients with a single, focal, full thickness chondral defect resulting from a previous acute, work-related event. Option A may be considered, but it is not the optimal choice given the severity of the defect. Option B is not appropriate as the patient does not have end stage osteoarthritis in only one compartment. Option D, like option A, may be considered but is not the optimal choice given the patient's condition.",
+        "context_id": 37,
+        "relevance_score": 0.8910169167492664
+    },
+    {
+        "question": "A 45-year-old man presents with chronic low back pain and right leg weakness for the past 6 months. He reports a foot drop and quadriceps weakness. His MRI shows moderate foraminal stenosis and severe disc height loss. EMG shows chronic denervation. He has a positive response to Selective Nerve Root Block (SNRB) with a 5-pt change on Visual Analog Scale (VAS). He has a history of a single level discectomy 3 years ago. What is the most appropriate next step in management?",
+        "options": [
+            "A) Proceed with lumbar fusion surgery",
+            "B) Continue with conservative management",
+            "C) Repeat the Selective Nerve Root Block (SNRB)",
+            "D) Perform a two-level laminectomy"
+        ],
+        "correct_answer": "A) Proceed with lumbar fusion surgery",
+        "reasoning": "Given the patient's symptoms, objective findings, and response to SNRB, he meets the criteria for lumbar fusion for foraminal stenosis. Lumbar fusion is considered when decompression is inadequate or significant instability exists. The patient's history of a single level discectomy 3 years ago may have contributed to the current instability. Option B is not optimal as the patient's symptoms have not improved with conservative management. Option C is not the best choice as SNRB is a diagnostic tool and not a definitive treatment. Option D is not appropriate as the patient's symptoms and findings suggest foraminal stenosis rather than central stenosis, which is typically addressed by laminectomy.",
+        "context_id": 38,
+        "relevance_score": 0.8501416478290258
+    },
+    {
+        "question": "A 55-year-old construction worker presents with a 3-month history of right shoulder pain, worsened by lifting heavy objects. He has a history of rheumatoid arthritis and is currently on methotrexate. Physical examination reveals tenderness over the acromioclavicular joint and limited range of motion. An MRI shows degenerative changes in the acromioclavicular joint. What is the most appropriate next step in management?",
+        "options": [
+            "A) Immediate surgical intervention",
+            "B) Intra-articular corticosteroid injection",
+            "C) Increase the dose of methotrexate",
+            "D) Prescribe opioids for pain management"
+        ],
+        "correct_answer": "B) Intra-articular corticosteroid injection",
+        "reasoning": "Given the patient's symptoms, physical examination findings, and MRI results, he likely has acromioclavicular arthritis. Initial management of this condition typically involves conservative measures such as physical therapy, analgesics, and intra-articular corticosteroid injections. Surgical intervention (option A) is usually reserved for patients who do not respond to conservative measures. Increasing the dose of methotrexate (option C) is not appropriate as this medication is not typically used to treat acromioclavicular arthritis. Opioids (option D) should be avoided due to the risk of addiction and are not first-line treatment for this condition.",
+        "context_id": 39,
+        "relevance_score": 0.8525454877038555
+    },
+    {
+        "question": "A 19-year-old male patient presents with severe pain from an impacted third molar. He has a history of asthma and is currently taking ibuprofen for a sprained ankle. His blood pressure is 130/85 mmHg and heart rate is 90 bpm. Considering the FDA's warnings and guidelines, what is the best course of action for pain management?",
+        "options": [
+            "A) Prescribe a combination of paracetamol and codeine",
+            "B) Increase the dose of ibuprofen",
+            "C) Prescribe a non-aspirin nonsteroidal anti-inflammatory drug (NSAID)",
+            "D) Prescribe an opioid medication"
+        ],
+        "correct_answer": "A) Prescribe a combination of paracetamol and codeine",
+        "reasoning": "Given the patient's history of asthma, NSAIDs should be avoided as they can exacerbate asthma symptoms. Increasing the dose of ibuprofen is not recommended as the patient is already taking it for another condition and it may increase the risk of heart attacks or strokes. Opioid medications should be avoided due to the risk of addiction, especially in adolescents. A combination of paracetamol and codeine is the most suitable option as it provides effective pain relief without the risks associated with the other options. This is supported by the study by Joshi A, Parara E, Macfarlane TV which found this combination to be effective for postoperative pain after removal of impacted third molars.",
+        "context_id": 40,
+        "relevance_score": 0.838260639338946
+    },
+    {
+        "question": "A 45-year-old obese female office worker presents with a 3-month history of numbness and tingling in her right hand, particularly at night. She also reports weakness in her hand and has dropped objects on several occasions. She has no history of wrist trauma or fractures, but has a history of hypothyroidism. She is currently peri-menopausal. Given the Washington State Department of Labor and Industries Carpal Tunnel Syndrome Guideline, what is the next best step in management?",
+        "options": [
+            "A) Refer the patient for immediate surgery",
+            "B) Schedule nerve conduction velocity studies (NCVs) immediately",
+            "C) Advise the patient to quit her job",
+            "D) Prescribe oral corticosteroids"
+        ],
+        "correct_answer": "B) Schedule nerve conduction velocity studies (NCVs) immediately",
+        "reasoning": "Given the patient's symptoms, history, and risk factors (obesity, hypothyroidism, peri-menopausal, office work), carpal tunnel syndrome (CTS) is a strong possibility. According to the Washington State Department of Labor and Industries Carpal Tunnel Syndrome Guideline, nerve conduction velocity studies (NCVs) should be scheduled immediately to corroborate the clinical diagnosis. Surgery (option A) may be premature without confirming the diagnosis. Advising the patient to quit her job (option C) is not a first-line management strategy for suspected CTS. Oral corticosteroids (option D) may be used in some cases of CTS, but the guideline specifically recommends NCVs for diagnosis.",
+        "context_id": 41,
+        "relevance_score": 0.8675769002892006
+    },
+    {
+        "question": "A 45-year-old construction worker presents with neck pain and numbness in his right arm for the past 3 weeks. He reports that the symptoms started after lifting heavy materials at work. His MRI shows C5-C6 disc herniation with nerve root compression. He has hypertension and is a smoker. He has tried conservative treatment with NSAIDs and physical therapy but his symptoms have not improved. What is the next best step in management?",
+        "options": [
+            "A) Continue conservative treatment for another 6 weeks",
+            "B) Immediate surgical intervention",
+            "C) Selective nerve root block",
+            "D) Refer to a psychiatrist for pain management"
+        ],
+        "correct_answer": "B) Immediate surgical intervention",
+        "reasoning": "Given the patient's persistent symptoms despite conservative treatment, and the MRI findings of disc herniation with nerve root compression, the next best step is surgical intervention. This is in line with the guidelines for the treatment of cervical radiculopathy and myelopathy, which recommend surgery in cases where conservative treatment has failed and there is evidence of nerve root compression. Option A is not appropriate as the patient has already failed conservative treatment. Option C, selective nerve root block, is typically used for diagnostic purposes rather than treatment. Option D is not appropriate as this is a physical rather than psychological issue.",
+        "context_id": 42,
+        "relevance_score": 0.836432001742757
+    },
+    {
+        "question": "A 45-year-old male construction worker presents with chronic shoulder pain for the past 6 months. He reports frequently lifting heavy loads above his shoulders at work. His pain is worse at the end of the workday and improves with rest. He denies any specific injury or trauma. His X-ray shows mild degenerative changes. What is the most likely diagnosis?",
+        "options": [
+            "A) Acute shoulder injury",
+            "B) Chronic occupational shoulder disease",
+            "C) Overuse syndrome",
+            "D) Non-occupational related shoulder disease"
+        ],
+        "correct_answer": "B) Chronic occupational shoulder disease",
+        "reasoning": "Given the patient's occupational history of frequently lifting heavy loads above his shoulders, the chronic nature of his symptoms, and the absence of a specific injury or trauma, this is most likely a case of chronic occupational shoulder disease. Option A is incorrect because the patient denies any specific injury or trauma. Option C is incorrect because the context specifically states that there is no substantial scientific evidence to support the existence of 'overuse syndrome'. Option D is incorrect because the patient's occupational history strongly suggests a work-related cause for his shoulder condition.",
+        "context_id": 43,
+        "relevance_score": 0.8764265406290824
+    },
+    {
+        "question": "A 65-year-old male patient presents with a 2-month history of radiating pain, numbness, and tingling in the left leg. He also reports occasional burning sensation. On examination, he has a foot drop and positive straight leg test. An MRI done shows a synovial cyst causing compression and stenosis of the nerve root. He has been on non-operative care including active rehabilitation and epidural steroid injection for the past 6 weeks with no significant improvement. What is the most appropriate next step in management?",
+        "options": [
+            "A) Continue with non-operative care for another 6 weeks",
+            "B) Proceed with lumbar laminectomy or laminotomy with excision of intraspinal/extradural benign mass",
+            "C) Refer the patient for physiotherapy",
+            "D) Start the patient on pharmacologic therapy"
+        ],
+        "correct_answer": "B) Proceed with lumbar laminectomy or laminotomy with excision of intraspinal/extradural benign mass",
+        "reasoning": "Given the patient's symptoms, objective findings, and imaging results, he meets the criteria for surgical intervention according to the Washington State Department of Labor & Industries Surgical Guideline for Lumbar Spine. He has sensory symptoms in dermatomal distribution, motor deficit, positive dural tension signs, and imaging findings of a synovial cyst causing compression and stenosis of the nerve root. He has also undergone at least six weeks of non-operative care with no significant improvement. Therefore, the most appropriate next step is to proceed with lumbar laminectomy or laminotomy with excision of intraspinal/extradural benign mass. Continuing with non-operative care (option A), referring for physiotherapy (option C), or starting pharmacologic therapy (option D) would not be optimal given the patient's persistent symptoms and objective findings.",
+        "context_id": 44,
+        "relevance_score": 0.8577685364272561
+    },
+    {
+        "question": "A 45-year-old male presents with progressive weakness in his right hand over the past 2 months. He has difficulty with fine motor tasks such as buttoning his shirt and writing. He also reports a dull, aching pain in his forearm. On examination, there is evidence of denervation in the pronator teres, flexor carpi radialis, flexor digitorum superficialis, abductor pollicis brevis, flexor pollicis brevis, and opponens pollicis. Needle EMG of the muscles supplied by the ulnar and radial nerves is normal. What is the most likely diagnosis?",
+        "options": [
+            "A) Carpal Tunnel Syndrome",
+            "B) Anterior Interosseous Syndrome (AIN)",
+            "C) Ulnar Nerve Entrapment",
+            "D) Radial Nerve Palsy"
+        ],
+        "correct_answer": "A) Carpal Tunnel Syndrome",
+        "reasoning": "The patient's symptoms and findings are consistent with Carpal Tunnel Syndrome, which is characterized by denervation in the median innervated muscles in the forearm and hand. The normal EMG of the ulnar and radial nerves rules out conditions such as Ulnar Nerve Entrapment and Radial Nerve Palsy. Although Anterior Interosseous Syndrome (AIN) also involves the median nerve, it typically does not cause sensory symptoms or denervation in the muscles of the hand.",
+        "context_id": 45,
+        "relevance_score": 0.8812293151022764
+    },
+    {
+        "question": "A 65-year-old male patient presents with bilateral lower extremity pain and weakness that worsens with standing and walking. He reports immediate relief of symptoms when seated and improvement when bending forward. An MRI conducted 5 months ago confirms moderate central spinal stenosis. He has been on non-operative care including active rehabilitation, manual medicine, and epidural steroid injection for the past 7 weeks with no substantial improvement. What is the most appropriate next step in management?",
+        "options": [
+            "A) Continue with the current non-operative care for another 6 weeks",
+            "B) Proceed with lumbar decompression surgery",
+            "C) Refer the patient for vascular pathology evaluation",
+            "D) Start the patient on pharmacologic therapy"
+        ],
+        "correct_answer": "B) Proceed with lumbar decompression surgery",
+        "reasoning": "Given the patient's symptoms of neurogenic claudication, imaging findings of moderate central spinal stenosis, and lack of substantial improvement after 7 weeks of non-operative care, the Washington State Department of Labor & Industries Surgical Guideline for Lumbar Spine recommends proceeding with lumbar decompression surgery. Option A is incorrect because the patient has already undergone more than the recommended minimum of 6 weeks of non-operative care without substantial improvement. Option C is not appropriate because the patient's symptoms and imaging findings are consistent with central spinal stenosis, not vascular pathology. Option D is not the best choice because pharmacologic therapy is part of non-operative care, which has not resulted in substantial improvement for this patient.",
+        "context_id": 46,
+        "relevance_score": 0.8750615076218219
+    },
+    {
+        "question": "A 65-year-old male patient presents with chronic lower back pain and neurogenic claudication for the past 6 months. His pain intensifies when walking and standing. MRI reveals lumbar spinal stenosis. He has a history of hypertension and type 2 diabetes. Considering his age, comorbidities, and the severity of his symptoms, what would be the most appropriate management approach?",
+        "options": [
+            "A) Immediate decompression with fusion surgery",
+            "B) Conservative management with physical therapy and pain management",
+            "C) Immediate decompression surgery without fusion",
+            "D) Corticosteroid injections into the lumbar facet joints"
+        ],
+        "correct_answer": "C) Immediate decompression surgery without fusion",
+        "reasoning": "Given the patient's severe symptoms and the MRI findings, surgical intervention is warranted. According to the PRISMA-compliant meta-analysis by Xu et al. (2019), decompression without fusion is not inferior to decompression with fusion in treating lumbar stenosis. Therefore, option C is the most appropriate choice, as it avoids the additional risks and recovery time associated with fusion surgery. Option A is not optimal due to the reasons mentioned. Option B might be considered if the patient's symptoms were less severe or if he had significant surgical risks. Option D, corticosteroid injections, may provide temporary relief but does not address the underlying stenosis.",
+        "context_id": 47,
+        "relevance_score": 0.8230745367881914
+    },
+    {
+        "question": "A 45-year-old male, a former smoker and currently working in a beryllium processing plant, presents with a 6-month history of progressive dyspnea and dry cough. His chest X-ray shows bilateral upper lobe infiltrates and a high-resolution CT scan reveals noncaseating granulomas. His blood BeLPT test is negative. What should be the next step in diagnosing this patient?",
+        "options": [
+            "A) Repeat the blood BeLPT test",
+            "B) Perform a bronchoalveolar lavage BeLPT test",
+            "C) Proceed with lung biopsy",
+            "D) Start treatment for sarcoidosis"
+        ],
+        "correct_answer": "B) Perform a bronchoalveolar lavage BeLPT test",
+        "reasoning": "Given the patient's occupational exposure to beryllium, clinical presentation, and imaging findings, Chronic Beryllium Disease (CBD) is a strong differential diagnosis. Despite the negative blood BeLPT, the test is not 100% sensitive and can be falsely negative, especially in smokers. Therefore, the next step should be a bronchoalveolar lavage BeLPT test (option B). Repeating the blood BeLPT (option A) is not the best next step given the potential for false negatives. A lung biopsy (option C) could confirm the diagnosis but is more invasive and should be reserved for when less invasive testing is inconclusive. Starting treatment for sarcoidosis (option D) is inappropriate without confirming the diagnosis, especially given the patient's occupational exposure to beryllium.",
+        "context_id": 48,
+        "relevance_score": 0.8826161169890608
+    },
+    {
+        "question": "A 45-year-old construction worker presents with a 3-month history of medial ankle pain and swelling. He reports a work-related injury where he twisted his ankle. He has been unable to perform a single foot heel rise and has an asymmetric pes planus with heel valgus and the too-many-toes sign. MRI demonstrates posterior tibial tendinopathy/tenosynovitis. He has been on non-opioid analgesics and bracing for the past 12 weeks with no significant improvement. What is the most appropriate next step in management?",
+        "options": [
+            "A) Continue non-opioid analgesics and bracing",
+            "B) Posterior Tibialis Tendon Reconstruction",
+            "C) Insertional Achilles Tendon Reconstruction",
+            "D) Start opioid analgesics"
+        ],
+        "correct_answer": "B) Posterior Tibialis Tendon Reconstruction",
+        "reasoning": "This patient's history of a work-related injury, symptoms, physical exam findings, and MRI results are consistent with posterior tibialis tendon insufficiency/dysfunction. According to the Washington State Department of Labor and Industries Treatment Guideline for Foot-Ankle Injuries, if a patient has failed at least 12 weeks of non-operative care (including non-opioid analgesics and bracing), surgical intervention such as Posterior Tibialis Tendon Reconstruction is indicated. Continuing the same non-operative care (option A) is not appropriate as the patient has not shown improvement. Insertional Achilles Tendon Reconstruction (option C) is not indicated as the patient's diagnosis is not insertional Achilles tendinopathy. Starting opioid analgesics (option D) is not recommended as opioids are not first-line treatment for this condition and carry a risk of dependency and side effects.",
+        "context_id": 49,
+        "relevance_score": 0.8930463518942906
+    }
+]
